@@ -1,0 +1,85 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Plotted data of Fig. 11 of the paper: a priori test in forced isotropic turbulence (JHTDB isotropic1024coarse, R_lambda about 420)",,,
+#Ref. [1] Xu 2026,https://doi.org/10.5281/zenodo.24096071,"Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation",,
+#Ref. [2] Li et al. 2008,https://doi.org/10.1080/14685240802376389,A public turbulence database cluster and applications to study Lagrangian evolution of velocity increments in turbulence,,
+#Ref. [3] Perlman et al. 2007,https://doi.org/10.1145/1362622.1362654,Data exploration of turbulence simulations using a database cluster,,
+#Note,(a) x = Re_R=R S_{2L}^{1/2}/\nu (log axis); y = \nu_t/\nu (log axis),,,
+#Note,(b) x = R/\eta (log axis); y = \nu_t/(R S_{2L}^{1/2}) (linear axis),,,
+#Note,horizontal lines: x empty and y = level; vertical lines: x = position and y empty,,,
+#Note,"DNS: Johns Hopkins Turbulence Databases, isotropic1024coarse [2, 3]",,,
+#Note,256^3 at Delta x: contiguous subcube at the grid spacing; full domain at 4 Delta x: whole domain sampled at every fourth point,,,
+,,,,
+,,,,
+panel,series,label,x,y
+(a),0,"Gaussian cells, H=1/3",0.1,3.145998231e-05
+(a),0,"Gaussian cells, H=1/3",0.1536550078,7.427635556e-05
+(a),0,"Gaussian cells, H=1/3",0.2360986142,0.0001753621183
+(a),0,"Gaussian cells, H=1/3",0.362777344,0.0004140014946
+(a),0,"Gaussian cells, H=1/3",0.5574255561,0.0009772795629
+(a),0,"Gaussian cells, H=1/3",0.8565122816,0.002306286174
+(a),0,"Gaussian cells, H=1/3",1.316074013,0.005438877918
+(a),0,"Gaussian cells, H=1/3",2.022213627,0.01280536142
+(a),0,"Gaussian cells, H=1/3",3.107232506,0.03003308716
+(a),0,"Gaussian cells, H=1/3",4.774418349,0.06982358517
+(a),0,"Gaussian cells, H=1/3",7.336132885,0.1593181849
+(a),0,"Gaussian cells, H=1/3",11.27233556,0.3507405958
+(a),0,"Gaussian cells, H=1/3",17.32050808,0.7293333971
+(a),0,"Gaussian cells, H=1/3",26.61382803,1.411128978
+(a),0,"Gaussian cells, H=1/3",40.89347953,2.542435669
+(a),0,"Gaussian cells, H=1/3",62.83487916,4.327863493
+(a),0,"Gaussian cells, H=1/3",96.54893846,7.088671078
+(a),0,"Gaussian cells, H=1/3",148.3522789,11.33443138
+(a),0,"Gaussian cells, H=1/3",227.9507057,17.85702344
+(a),0,"Gaussian cells, H=1/3",350.2576746,27.87677278
+(a),0,"Gaussian cells, H=1/3",538.1884571,43.27037119
+(a),0,"Gaussian cells, H=1/3",826.9535157,66.92153146
+(a),0,"Gaussian cells, H=1/3",1270.655489,103.2617046
+(a),0,"Gaussian cells, H=1/3",1952.42579,159.1014198
+(a),0,"Gaussian cells, H=1/3",3000,244.9041222
+(a),1,"DNS flux, 256^3 at \Delta x",4.859252518,0.198723665
+(a),1,"DNS flux, 256^3 at \Delta x",17.53364702,0.8069412251
+(a),1,"DNS flux, 256^3 at \Delta x",56.75396806,2.658238801
+(a),1,"DNS flux, 256^3 at \Delta x",163.7712932,8.505115754
+(a),1,"DNS flux, 256^3 at \Delta x",440.4702793,26.68344297
+(a),1,"DNS flux, 256^3 at \Delta x",1170.306159,77.86565254
+(a),2,"1D cells from DNS, 256^3 at \Delta x",4.859252518,0.03328867791
+(a),2,"1D cells from DNS, 256^3 at \Delta x",17.53364702,0.3870543533
+(a),2,"1D cells from DNS, 256^3 at \Delta x",56.75396806,2.621312933
+(a),2,"1D cells from DNS, 256^3 at \Delta x",163.7712932,10.61383851
+(a),2,"1D cells from DNS, 256^3 at \Delta x",440.4702793,33.15379029
+(a),2,"1D cells from DNS, 256^3 at \Delta x",1170.306159,93.73306371
+(a),3,"DNS flux, full domain at 4\Delta x",52.08334309,2.342284702
+(a),3,"DNS flux, full domain at 4\Delta x",148.7316185,8.081293237
+(a),3,"DNS flux, full domain at 4\Delta x",391.1719439,23.38579558
+(a),3,"DNS flux, full domain at 4\Delta x",997.2486559,60.06020755
+(a),3,"DNS flux, full domain at 4\Delta x",2507.810928,140.757726
+(a),4,"1D cells from DNS, full domain at 4\Delta x",52.08334309,2.076927297
+(a),4,"1D cells from DNS, full domain at 4\Delta x",148.7316185,8.938415177
+(a),4,"1D cells from DNS, full domain at 4\Delta x",391.1719439,28.97716289
+(a),4,"1D cells from DNS, full domain at 4\Delta x",997.2486559,80.62561252
+(a),4,"1D cells from DNS, full domain at 4\Delta x",2507.810928,210.0749376
+(b),5,"DNS flux, 256^3 at Delta x",4.382802143,0.04089593291
+(b),5,"DNS flux, 256^3 at Delta x",8.765604286,0.0460224404
+(b),5,"DNS flux, 256^3 at Delta x",17.53120857,0.04683793736
+(b),5,"DNS flux, 256^3 at Delta x",35.06241714,0.05193288511
+(b),5,"DNS flux, 256^3 at Delta x",70.12483429,0.06057944026
+(b),5,"DNS flux, 256^3 at Delta x",140.2496686,0.0665344294
+(b),6,"1D cells from DNS, 256^3 at Delta x",4.382802143,0.006814684405
+(b),6,"1D cells from DNS, 256^3 at Delta x",8.765604286,0.02203125908
+(b),6,"1D cells from DNS, 256^3 at Delta x",17.53120857,0.04599295981
+(b),6,"1D cells from DNS, 256^3 at Delta x",35.06241714,0.06455338073
+(b),6,"1D cells from DNS, 256^3 at Delta x",70.12483429,0.07554596333
+(b),6,"1D cells from DNS, 256^3 at Delta x",140.2496686,0.07996790827
+(b),7,"DNS flux, full domain at 4 Delta x",17.53120929,0.04497185785
+(b),7,"DNS flux, full domain at 4 Delta x",35.06241857,0.05433473606
+(b),7,"DNS flux, full domain at 4 Delta x",70.12483714,0.05978392865
+(b),7,"DNS flux, full domain at 4 Delta x",140.2496743,0.06022590975
+(b),7,"DNS flux, full domain at 4 Delta x",280.4993486,0.05612772657
+(b),8,"1D cells from DNS, full domain at 4 Delta x",17.53120929,0.03967063513
+(b),8,"1D cells from DNS, full domain at 4 Delta x",35.06241857,0.05977911132
+(b),8,"1D cells from DNS, full domain at 4 Delta x",70.12483714,0.07402021752
+(b),8,"1D cells from DNS, full domain at 4 Delta x",140.2496743,0.08039635986
+(b),8,"1D cells from DNS, full domain at 4 Delta x",280.4993486,0.08305913013
+(b),9,Gaussian-cell value c = 0.0817,,0.0817
+(b),10,measured plateau of c,,0.0600049192

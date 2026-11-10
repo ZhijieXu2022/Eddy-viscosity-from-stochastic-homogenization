@@ -1,0 +1,228 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Plotted data of Fig. 10 of the paper: a priori tests in decaying Burgers turbulence: (a) measured and homogenized-cell eddy viscosity, (b) sharp-cutoff spectral eddy viscosity of snapshot 10",,,
+#Ref. [1] Xu 2026,https://doi.org/10.5281/zenodo.24096071,"Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation",,
+#Note,(a) x = R/\ell (log axis); y = \nu_t/\nu (log axis),,,
+#Note,(b) x = k/K (linear axis); y = \nu_t(k|K)/\nu (log axis),,,
+#Note,"Burgers DNS by the author: N = 32768, nu = 5e-4, ten realizations; panel (a) averaged over the ten realizations",,,
+#Note,"panel (a): ell = 0.81, 0.72, 0.97 for snapshots 5, 10, 19",,,
+#Note,no parameter is fitted,,,
+,,,,
+,,,,
+panel,series,label,x,y
+(a),0,"DNS, snapshot 5",0.0004734508605,0.005485747344
+(a),0,"DNS, snapshot 5",0.0009469017209,0.01630689422
+(a),0,"DNS, snapshot 5",0.001893803442,0.05791720519
+(a),0,"DNS, snapshot 5",0.003787606884,0.2040026294
+(a),0,"DNS, snapshot 5",0.007575213767,0.6267594001
+(a),0,"DNS, snapshot 5",0.01515042753,1.604357258
+(a),0,"DNS, snapshot 5",0.03030085507,3.567467546
+(a),0,"DNS, snapshot 5",0.06060171014,7.193639964
+(a),0,"DNS, snapshot 5",0.1212034203,13.70930909
+(a),0,"DNS, snapshot 5",0.2424068406,23.12878173
+(a),0,"DNS, snapshot 5",0.4848136811,26.5942278
+(a),1,"homogenized cell prediction, snapshot 5",0.0004734508605,2.008586782e-05
+(a),1,"homogenized cell prediction, snapshot 5",0.0009469017209,0.0003804176851
+(a),1,"homogenized cell prediction, snapshot 5",0.001893803442,0.003179218775
+(a),1,"homogenized cell prediction, snapshot 5",0.003787606884,0.03134893526
+(a),1,"homogenized cell prediction, snapshot 5",0.007575213767,0.2625514384
+(a),1,"homogenized cell prediction, snapshot 5",0.01515042753,1.049684042
+(a),1,"homogenized cell prediction, snapshot 5",0.03030085507,2.949550479
+(a),1,"homogenized cell prediction, snapshot 5",0.06060171014,6.762661525
+(a),1,"homogenized cell prediction, snapshot 5",0.1212034203,14.36543477
+(a),1,"homogenized cell prediction, snapshot 5",0.2424068406,31.25735769
+(a),1,"homogenized cell prediction, snapshot 5",0.4848136811,68.76400794
+(a),2,"DNS, snapshot 10",0.000532632218,0.002949973448
+(a),2,"DNS, snapshot 10",0.001065264436,0.008806559397
+(a),2,"DNS, snapshot 10",0.002130528872,0.03173175509
+(a),2,"DNS, snapshot 10",0.004261057744,0.1166473104
+(a),2,"DNS, snapshot 10",0.008522115488,0.3892301813
+(a),2,"DNS, snapshot 10",0.01704423098,1.088944549
+(a),2,"DNS, snapshot 10",0.03408846195,2.575443159
+(a),2,"DNS, snapshot 10",0.06817692391,5.438490111
+(a),2,"DNS, snapshot 10",0.1363538478,10.61320222
+(a),2,"DNS, snapshot 10",0.2727076956,18.2095076
+(a),2,"DNS, snapshot 10",0.5454153912,25.15340446
+(a),3,"homogenized cell prediction, snapshot 10",0.000532632218,9.044118942e-06
+(a),3,"homogenized cell prediction, snapshot 10",0.001065264436,7.810057896e-05
+(a),3,"homogenized cell prediction, snapshot 10",0.002130528872,0.0009187270185
+(a),3,"homogenized cell prediction, snapshot 10",0.004261057744,0.01291805988
+(a),3,"homogenized cell prediction, snapshot 10",0.008522115488,0.1210281997
+(a),3,"homogenized cell prediction, snapshot 10",0.01704423098,0.6502174477
+(a),3,"homogenized cell prediction, snapshot 10",0.03408846195,2.011668507
+(a),3,"homogenized cell prediction, snapshot 10",0.06817692391,4.84190301
+(a),3,"homogenized cell prediction, snapshot 10",0.1363538478,10.54249938
+(a),3,"homogenized cell prediction, snapshot 10",0.2727076956,21.66203282
+(a),3,"homogenized cell prediction, snapshot 10",0.5454153912,47.9530524
+(a),4,"DNS, snapshot 19",0.0003953558732,0.00194869981
+(a),4,"DNS, snapshot 19",0.0007907117463,0.005825389826
+(a),4,"DNS, snapshot 19",0.001581423493,0.0210886137
+(a),4,"DNS, snapshot 19",0.003162846985,0.07870165964
+(a),4,"DNS, snapshot 19",0.006325693971,0.2718641248
+(a),4,"DNS, snapshot 19",0.01265138794,0.7999190054
+(a),4,"DNS, snapshot 19",0.02530277588,1.98872565
+(a),4,"DNS, snapshot 19",0.05060555177,4.350177106
+(a),4,"DNS, snapshot 19",0.1012111035,8.712478886
+(a),4,"DNS, snapshot 19",0.2024222071,15.995876
+(a),4,"DNS, snapshot 19",0.4048444141,23.83161366
+(a),5,"homogenized cell prediction, snapshot 19",0.0003953558732,4.938552408e-06
+(a),5,"homogenized cell prediction, snapshot 19",0.0007907117463,2.179907833e-05
+(a),5,"homogenized cell prediction, snapshot 19",0.001581423493,0.0004118062982
+(a),5,"homogenized cell prediction, snapshot 19",0.003162846985,0.006383721013
+(a),5,"homogenized cell prediction, snapshot 19",0.006325693971,0.06825271878
+(a),5,"homogenized cell prediction, snapshot 19",0.01265138794,0.3506794272
+(a),5,"homogenized cell prediction, snapshot 19",0.02530277588,1.547565514
+(a),5,"homogenized cell prediction, snapshot 19",0.05060555177,3.718220486
+(a),5,"homogenized cell prediction, snapshot 19",0.1012111035,8.11627131
+(a),5,"homogenized cell prediction, snapshot 19",0.2024222071,17.02578433
+(a),5,"homogenized cell prediction, snapshot 19",0.4048444141,35.20916993
+(b),6,K=32,0.03125,-9.764241682
+(b),6,K=32,0.0625,2.070522022
+(b),6,K=32,0.09375,4.335281111
+(b),6,K=32,0.125,8.23692598
+(b),6,K=32,0.171875,9.356773301
+(b),6,K=32,0.21875,10.12141668
+(b),6,K=32,0.25,7.999005651
+(b),6,K=32,0.28125,8.546960067
+(b),6,K=32,0.328125,8.974656931
+(b),6,K=32,0.375,10.22186863
+(b),6,K=32,0.40625,10.79146644
+(b),6,K=32,0.4375,9.108556367
+(b),6,K=32,0.484375,9.264488267
+(b),6,K=32,0.53125,9.631963905
+(b),6,K=32,0.5625,12.58317218
+(b),6,K=32,0.59375,10.43908653
+(b),6,K=32,0.640625,12.02750416
+(b),6,K=32,0.6875,13.25372931
+(b),6,K=32,0.71875,14.95162469
+(b),6,K=32,0.75,14.31455819
+(b),6,K=32,0.796875,15.76349655
+(b),6,K=32,0.84375,16.37968593
+(b),6,K=32,0.875,18.83137756
+(b),6,K=32,0.90625,16.07647432
+(b),6,K=32,0.953125,14.67170463
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.03125,7.910586846
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.0625,8.055411705
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.09375,8.206824789
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.125,8.365346105
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.171875,8.603090407
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.21875,8.889726472
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.25,9.083246168
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.28125,9.287604336
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.328125,9.607673403
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.375,9.977260697
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.40625,10.23745382
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.4375,10.51580074
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.484375,10.96517598
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.53125,11.48493461
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.5625,11.86376451
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.59375,12.27795105
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.640625,12.97384395
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.6875,13.80330313
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.71875,14.4409623
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.75,15.17019676
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.796875,16.49928742
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.84375,18.24183827
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.875,19.78329238
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.90625,21.8407155
+(b),7,"exact single-shock result summed over detected shocks, K = 32",0.953125,27.47857756
+(b),8,K=128,0.0234375,1.109134255
+(b),8,K=128,0.0625,1.26110073
+(b),8,K=128,0.1015625,1.259200092
+(b),8,K=128,0.140625,1.246769224
+(b),8,K=128,0.1796875,1.435149233
+(b),8,K=128,0.21875,1.382981039
+(b),8,K=128,0.2578125,1.421354702
+(b),8,K=128,0.296875,1.585708318
+(b),8,K=128,0.3359375,1.474414235
+(b),8,K=128,0.375,1.654795074
+(b),8,K=128,0.4140625,1.686045636
+(b),8,K=128,0.453125,1.795011833
+(b),8,K=128,0.49609375,1.92809681
+(b),8,K=128,0.5390625,1.996698631
+(b),8,K=128,0.578125,2.320397096
+(b),8,K=128,0.6171875,2.235471527
+(b),8,K=128,0.65625,2.545381779
+(b),8,K=128,0.6953125,2.556867315
+(b),8,K=128,0.734375,2.885778726
+(b),8,K=128,0.7734375,3.065625419
+(b),8,K=128,0.8125,3.253187647
+(b),8,K=128,0.8515625,3.785396639
+(b),8,K=128,0.890625,4.060922426
+(b),8,K=128,0.9296875,4.798613021
+(b),8,K=128,0.97265625,6.390127275
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.0234375,1.355522496
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.0625,1.405156566
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.1015625,1.4516066
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.140625,1.500078647
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.1796875,1.551452275
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.21875,1.606237728
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.2578125,1.664903902
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.296875,1.727956161
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.3359375,1.795972334
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.375,1.8696317
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.4140625,1.949747075
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.453125,2.037305551
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.49609375,2.143264674
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.5390625,2.262586708
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.578125,2.383812158
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.6171875,2.52027435
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.65625,2.67553985
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.6953125,2.854528181
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.734375,3.064281042
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.7734375,3.315363411
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.8125,3.624640533
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.8515625,4.021450433
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.890625,4.56381528
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.9296875,5.394473232
+(b),9,"exact single-shock result summed over detected shocks, K = 128",0.97265625,7.542380933
+(b),10,K=512,0.0205078125,0.04998768318
+(b),10,K=512,0.0595703125,0.05435721532
+(b),10,K=512,0.099609375,0.0578557123
+(b),10,K=512,0.1396484375,0.06543781509
+(b),10,K=512,0.1796875,0.07168179897
+(b),10,K=512,0.2197265625,0.07323862297
+(b),10,K=512,0.259765625,0.08786338781
+(b),10,K=512,0.2998046875,0.09512721368
+(b),10,K=512,0.3388671875,0.1070598267
+(b),10,K=512,0.37890625,0.1210820537
+(b),10,K=512,0.4189453125,0.1331656583
+(b),10,K=512,0.458984375,0.1467174049
+(b),10,K=512,0.4990234375,0.1731085038
+(b),10,K=512,0.5390625,0.1894887074
+(b),10,K=512,0.5791015625,0.2126966509
+(b),10,K=512,0.619140625,0.2492817716
+(b),10,K=512,0.6591796875,0.2820811021
+(b),10,K=512,0.6982421875,0.3273029929
+(b),10,K=512,0.73828125,0.3889675334
+(b),10,K=512,0.7783203125,0.4357613044
+(b),10,K=512,0.818359375,0.5320686191
+(b),10,K=512,0.8583984375,0.6410922172
+(b),10,K=512,0.8984375,0.7880805334
+(b),10,K=512,0.9384765625,1.0756044
+(b),10,K=512,0.978515625,1.674263865
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.0205078125,0.06437672196
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.0595703125,0.07027630356
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.099609375,0.07581170167
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.1396484375,0.08200720523
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.1796875,0.0889050638
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.2197265625,0.09674527435
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.259765625,0.1055736446
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.2998046875,0.115633785
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.3388671875,0.1267502586
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.37890625,0.1396916289
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.4189453125,0.154518921
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.458984375,0.1714650876
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.4990234375,0.1910069685
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.5390625,0.213545196
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.5791015625,0.2398014928
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.619140625,0.2704969679
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.6591796875,0.3068387539
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.6982421875,0.3491145473
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.73828125,0.4015860836
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.7783203125,0.4666915437
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.818359375,0.5497075087
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.8583984375,0.6603041543
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.8984375,0.8183551427
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.9384765625,1.076450925
+(b),11,"exact single-shock result summed over detected shocks, K = 512",0.978515625,1.770763487

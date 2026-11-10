@@ -1,0 +1,846 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Plotted data of Fig. 9 of the paper: (a) mean cell eddy viscosity of self-similar Gaussian cells, (b) compensated structure function from the one-dimensional budget",,,
+#Ref. [1] Xu 2026,https://doi.org/10.5281/zenodo.24096071,"Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation",,
+#Note,(a) x = Re_R=R S_2(R)^{1/2}/\nu (log axis); y = \langle\nu_e\rangle (log axis),,,
+#Note,(b) x = R/\eta (log axis); y = S_2/(\varepsilon R)^{2/3} (linear axis),,,
+#Note,horizontal lines: x empty and y = level; vertical lines: x = position and y empty,,,
+,,,,
+,,,,
+panel,series,label,x,y
+(a),0,H=1/3,0.1,3.145998231e-05
+(a),0,H=1/3,0.1536550078,7.427635556e-05
+(a),0,H=1/3,0.2360986142,0.0001753621183
+(a),0,H=1/3,0.362777344,0.0004140014946
+(a),0,H=1/3,0.5574255561,0.0009772795629
+(a),0,H=1/3,0.8565122816,0.002306286174
+(a),0,H=1/3,1.316074013,0.005438877918
+(a),0,H=1/3,2.022213627,0.01280536142
+(a),0,H=1/3,3.107232506,0.03003308716
+(a),0,H=1/3,4.774418349,0.06982358517
+(a),0,H=1/3,7.336132885,0.1593181849
+(a),0,H=1/3,11.27233556,0.3507405958
+(a),0,H=1/3,17.32050808,0.7293333971
+(a),0,H=1/3,26.61382803,1.411128978
+(a),0,H=1/3,40.89347953,2.542435669
+(a),0,H=1/3,62.83487916,4.327863493
+(a),0,H=1/3,96.54893846,7.088671078
+(a),0,H=1/3,148.3522789,11.33443138
+(a),0,H=1/3,227.9507057,17.85702344
+(a),0,H=1/3,350.2576746,27.87677278
+(a),0,H=1/3,538.1884571,43.27037119
+(a),0,H=1/3,826.9535157,66.92153146
+(a),0,H=1/3,1270.655489,103.2617046
+(a),0,H=1/3,1952.42579,159.1014198
+(a),0,H=1/3,3000,244.9041222
+(a),1,"c Re_R - 1/(1+H), H = 1/3",26.61382803,1.429375067
+(a),1,"c Re_R - 1/(1+H), H = 1/3",40.89347953,2.59871893
+(a),1,"c Re_R - 1/(1+H), H = 1/3",62.83487916,4.395474332
+(a),1,"c Re_R - 1/(1+H), H = 1/3",96.54893846,7.156278985
+(a),1,"c Re_R - 1/(1+H), H = 1/3",148.3522789,11.39839359
+(a),1,"c Re_R - 1/(1+H), H = 1/3",227.9507057,17.91661512
+(a),1,"c Re_R - 1/(1+H), H = 1/3",350.2576746,27.93218891
+(a),1,"c Re_R - 1/(1+H), H = 1/3",538.1884571,43.3216196
+(a),1,"c Re_R - 1/(1+H), H = 1/3",826.9535157,66.96825052
+(a),1,"c Re_R - 1/(1+H), H = 1/3",1270.655489,103.3024831
+(a),1,"c Re_R - 1/(1+H), H = 1/3",1952.42579,159.131851
+(a),1,"c Re_R - 1/(1+H), H = 1/3",3000,244.9164706
+(a),2,"a Re_R^2, H = 1/3",0.1,3.145954575e-05
+(a),2,"a Re_R^2, H = 1/3",0.1536550078,7.427555154e-05
+(a),2,"a Re_R^2, H = 1/3",0.2360986142,0.0001753635478
+(a),2,"a Re_R^2, H = 1/3",0.362777344,0.0004140309062
+(a),2,"a Re_R^2, H = 1/3",0.5574255561,0.0009775212317
+(a),2,"a Re_R^2, H = 1/3",0.8565122816,0.002307914081
+(a),2,"a Re_R^2, H = 1/3",1.316074013,0.005448953162
+(a),2,"a Re_R^2, H = 1/3",2.022213627,0.0128649029
+(a),2,"a Re_R^2, H = 1/3",3.107232506,0.03037385747
+(a),2,"a Re_R^2, H = 1/3",4.774418349,0.07171225654
+(a),2,"a Re_R^2, H = 1/3",7.336132885,0.1693116439
+(a),2,"a Re_R^2, H = 1/3",11.27233556,0.3997424448
+(a),2,"a Re_R^2, H = 1/3",17.32050808,0.9437863725
+(a),3,H=1/2,0.1,2.742177222e-05
+(a),3,H=1/2,0.1536550078,6.473941693e-05
+(a),3,H=1/2,0.2360986142,0.0001528358701
+(a),3,H=1/2,0.362777344,0.0003607846144
+(a),3,H=1/2,0.5574255561,0.0008515298031
+(a),3,H=1/2,0.8565122816,0.002009085223
+(a),3,H=1/2,1.316074013,0.004736501008
+(a),3,H=1/2,2.022213627,0.01114697709
+(a),3,H=1/2,3.107232506,0.0261309233
+(a),3,H=1/2,4.774418349,0.06073091452
+(a),3,H=1/2,7.336132885,0.1386215683
+(a),3,H=1/2,11.27233556,0.3057841489
+(a),3,H=1/2,17.32050808,0.638562683
+(a),3,H=1/2,26.61382803,1.242888828
+(a),3,H=1/2,40.89347953,2.253404736
+(a),3,H=1/2,62.83487916,3.8574615
+(a),3,H=1/2,96.54893846,6.345980778
+(a),3,H=1/2,148.3522789,10.17651832
+(a),3,H=1/2,227.9507057,16.0612183
+(a),3,H=1/2,350.2576746,25.0997087
+(a),3,H=1/2,538.1884571,38.98333715
+(a),3,H=1/2,826.9535157,60.31280829
+(a),3,H=1/2,1270.655489,93.08484079
+(a),3,H=1/2,1952.42579,143.4407394
+(a),3,H=1/2,3000,220.8191033
+(a),4,"c Re_R - 1/(1+H), H = 1/2",26.61382803,1.298739617
+(a),4,"c Re_R - 1/(1+H), H = 1/2",40.89347953,2.353278511
+(a),4,"c Re_R - 1/(1+H), H = 1/2",62.83487916,3.973630331
+(a),4,"c Re_R - 1/(1+H), H = 1/2",96.54893846,6.463382046
+(a),4,"c Re_R - 1/(1+H), H = 1/2",148.3522789,10.28901024
+(a),4,"c Re_R - 1/(1+H), H = 1/2",227.9507057,16.16727953
+(a),4,"c Re_R - 1/(1+H), H = 1/2",350.2576746,25.19953468
+(a),4,"c Re_R - 1/(1+H), H = 1/2",538.1884571,39.07804702
+(a),4,"c Re_R - 1/(1+H), H = 1/2",826.9535157,60.40307624
+(a),4,"c Re_R - 1/(1+H), H = 1/2",1270.655489,93.17005155
+(a),4,"c Re_R - 1/(1+H), H = 1/2",1952.42579,143.51815
+(a),4,"c Re_R - 1/(1+H), H = 1/2",3000,220.8805246
+(a),5,"a Re_R^2, H = 1/2",0.1,2.742363287e-05
+(a),5,"a Re_R^2, H = 1/2",0.1536550078,6.474681717e-05
+(a),5,"a Re_R^2, H = 1/2",0.2360986142,0.0001528663381
+(a),5,"a Re_R^2, H = 1/2",0.362777344,0.0003609153057
+(a),5,"a Re_R^2, H = 1/2",0.5574255561,0.000852116035
+(a),5,"a Re_R^2, H = 1/2",0.8565122816,0.00201183415
+(a),5,"a Re_R^2, H = 1/2",1.316074013,0.004749912547
+(a),5,"a Re_R^2, H = 1/2",2.022213627,0.0112144777
+(a),5,"a Re_R^2, H = 1/2",3.107232506,0.02647722643
+(a),5,"a Re_R^2, H = 1/2",4.774418349,0.06251236466
+(a),5,"a Re_R^2, H = 1/2",7.336132885,0.1475908267
+(a),5,"a Re_R^2, H = 1/2",11.27233556,0.3484598964
+(a),5,"a Re_R^2, H = 1/2",17.32050808,0.8227089862
+(a),6,H=1,0.1,1.39138299e-05
+(a),6,H=1,0.1536550078,3.285060889e-05
+(a),6,H=1,0.2360986142,7.756021332e-05
+(a),6,H=1,0.362777344,0.0001831170536
+(a),6,H=1,0.5574255561,0.0004323150035
+(a),6,H=1,0.8565122816,0.001020520044
+(a),6,H=1,1.316074013,0.002408314238
+(a),6,H=1,2.022213627,0.005679134395
+(a),6,H=1,3.107232506,0.0133679377
+(a),6,H=1,4.774418349,0.03132966024
+(a),6,H=1,7.336132885,0.07267691231
+(a),6,H=1,11.27233556,0.1648054559
+(a),6,H=1,17.32050808,0.35782966
+(a),6,H=1,26.61382803,0.7279937823
+(a),6,H=1,40.89347953,1.375928978
+(a),6,H=1,62.83487916,2.435263163
+(a),6,H=1,96.54893846,4.10344233
+(a),6,H=1,148.3522789,6.690177437
+(a),6,H=1,227.9507057,10.67813332
+(a),6,H=1,350.2576746,16.81255845
+(a),6,H=1,538.1884571,26.24196727
+(a),6,H=1,826.9535157,40.73306069
+(a),6,H=1,1270.655489,63.00130762
+(a),6,H=1,1952.42579,97.22009114
+(a),6,H=1,3000,149.803335
+(a),7,"c Re_R - 1/(1+H), H = 1",26.61382803,0.8353118019
+(a),7,"c Re_R - 1/(1+H), H = 1",40.89347953,1.551773453
+(a),7,"c Re_R - 1/(1+H), H = 1",62.83487916,2.652652659
+(a),7,"c Re_R - 1/(1+H), H = 1",96.54893846,4.344208688
+(a),7,"c Re_R - 1/(1+H), H = 1",148.3522789,6.943369237
+(a),7,"c Re_R - 1/(1+H), H = 1",227.9507057,10.93710958
+(a),7,"c Re_R - 1/(1+H), H = 1",350.2576746,17.07369162
+(a),7,"c Re_R - 1/(1+H), H = 1",538.1884571,26.50285722
+(a),7,"c Re_R - 1/(1+H), H = 1",826.9535157,40.99124236
+(a),7,"c Re_R - 1/(1+H), H = 1",1270.655489,63.25337168
+(a),7,"c Re_R - 1/(1+H), H = 1",1952.42579,97.46024822
+(a),7,"c Re_R - 1/(1+H), H = 1",3000,150.020827
+(a),8,"a Re_R^2, H = 1",0.1,1.391350444e-05
+(a),8,"a Re_R^2, H = 1",0.1536550078,3.284959116e-05
+(a),8,"a Re_R^2, H = 1",0.2360986142,7.755742948e-05
+(a),8,"a Re_R^2, H = 1",0.362777344,0.0001831120162
+(a),8,"a Re_R^2, H = 1",0.5574255561,0.0004323249326
+(a),8,"a Re_R^2, H = 1",0.8565122816,0.001020713174
+(a),8,"a Re_R^2, H = 1",1.316074013,0.00240988966
+(a),8,"a Re_R^2, H = 1",2.022213627,0.005689716089
+(a),8,"a Re_R^2, H = 1",3.107232506,0.01343334084
+(a),8,"a Re_R^2, H = 1",4.774418349,0.03171593155
+(a),8,"a Re_R^2, H = 1",7.336132885,0.07488087486
+(a),8,"a Re_R^2, H = 1",11.27233556,0.1767927078
+(a),8,"a Re_R^2, H = 1",17.32050808,0.4174051331
+(b),9,budget + homogenized \nu_e,0.05,0.01842015713
+(b),9,budget + homogenized \nu_e,0.05248602503,0.01965131274
+(b),9,budget + homogenized \nu_e,0.05509565648,0.02096475559
+(b),9,budget + homogenized \nu_e,0.05783504011,0.02236598552
+(b),9,budget + homogenized \nu_e,0.06071062726,0.02386087001
+(b),9,budget + homogenized \nu_e,0.06372919004,0.02545566866
+(b),9,budget + homogenized \nu_e,0.06689783728,0.02715705945
+(b),9,budget + homogenized \nu_e,0.07022403125,0.02897216673
+(b),9,budget + homogenized \nu_e,0.07371560524,0.03090859096
+(b),9,budget + homogenized \nu_e,0.07738078204,0.03297444064
+(b),9,budget + homogenized \nu_e,0.08122819327,0.03517836617
+(b),9,budget + homogenized \nu_e,0.08526689971,0.03752959614
+(b),9,budget + homogenized \nu_e,0.08950641266,0.04003797592
+(b),9,budget + homogenized \nu_e,0.09395671631,0.0427140089
+(b),9,budget + homogenized \nu_e,0.09862829129,0.04556890046
+(b),9,budget + homogenized \nu_e,0.1035321393,0.04861460489
+(b),9,budget + homogenized \nu_e,0.1086798091,0.05186387542
+(b),9,budget + homogenized \nu_e,0.1140834236,0.0553303176
+(b),9,budget + homogenized \nu_e,0.1197557086,0.05902844628
+(b),9,budget + homogenized \nu_e,0.1257100224,0.06297374633
+(b),9,budget + homogenized \nu_e,0.1319603876,0.06718273747
+(b),9,budget + homogenized \nu_e,0.1385215242,0.07167304335
+(b),9,budget + homogenized \nu_e,0.1454088837,0.07646346535
+(b),9,budget + homogenized \nu_e,0.1526386862,0.08157406117
+(b),9,budget + homogenized \nu_e,0.1602279581,0.08702622874
+(b),9,budget + homogenized \nu_e,0.1681945724,0.0928427957
+(b),9,budget + homogenized \nu_e,0.1765572908,0.09904811478
+(b),9,budget + homogenized \nu_e,0.1853358077,0.1056681656
+(b),9,budget + homogenized \nu_e,0.1945507969,0.112730663
+(b),9,budget + homogenized \nu_e,0.2042239599,0.1202651731
+(b),9,budget + homogenized \nu_e,0.2143780774,0.128303236
+(b),9,budget + homogenized \nu_e,0.2250370628,0.1368784978
+(b),9,budget + homogenized \nu_e,0.2362260182,0.1460268505
+(b),9,budget + homogenized \nu_e,0.2479712941,0.1557865808
+(b),9,budget + homogenized \nu_e,0.260300551,0.1661985298
+(b),9,budget + homogenized \nu_e,0.2732428248,0.1773062614
+(b),9,budget + homogenized \nu_e,0.2868285948,0.1891562431
+(b),9,budget + homogenized \nu_e,0.3010898562,0.2017980371
+(b),9,budget + homogenized \nu_e,0.3160601946,0.2152845041
+(b),9,budget + homogenized \nu_e,0.3317748657,0.2296720195
+(b),9,budget + homogenized \nu_e,0.3482708781,0.2450207032
+(b),9,budget + homogenized \nu_e,0.3655870806,0.2613946625
+(b),9,budget + homogenized \nu_e,0.3837642533,0.2788622497
+(b),9,budget + homogenized \nu_e,0.4028452041,0.2974963343
+(b),9,budget + homogenized \nu_e,0.4228748693,0.3173745891
+(b),9,budget + homogenized \nu_e,0.4439004196,0.3385797925
+(b),9,budget + homogenized \nu_e,0.4659713707,0.3612001435
+(b),9,budget + homogenized \nu_e,0.4891397006,0.3853295914
+(b),9,budget + homogenized \nu_e,0.5134599714,0.4110681782
+(b),9,budget + homogenized \nu_e,0.5389894583,0.4385223886
+(b),9,budget + homogenized \nu_e,0.565788284,0.4678055112
+(b),9,budget + homogenized \nu_e,0.5939195608,0.4990380002
+(b),9,budget + homogenized \nu_e,0.6234495387,0.5323478397
+(b),9,budget + homogenized \nu_e,0.6544477619,0.5678708837
+(b),9,budget + homogenized \nu_e,0.6869872323,0.6057511873
+(b),9,budget + homogenized \nu_e,0.7211445815,0.6461412996
+(b),9,budget + homogenized \nu_e,0.7570002512,0.689202512
+(b),9,budget + homogenized \nu_e,0.7946386827,0.7351050256
+(b),9,budget + homogenized \nu_e,0.8341485159,0.784027921
+(b),9,budget + homogenized \nu_e,0.8756227977,0.8361591288
+(b),9,budget + homogenized \nu_e,0.9191592016,0.89169509
+(b),9,budget + homogenized \nu_e,0.9648602574,0.9508405028
+(b),9,budget + homogenized \nu_e,1.012833592,1.013806637
+(b),9,budget + homogenized \nu_e,1.063192186,1.080810427
+(b),9,budget + homogenized \nu_e,1.116054634,1.152072427
+(b),9,budget + homogenized \nu_e,1.171545429,1.227815052
+(b),9,budget + homogenized \nu_e,1.229795254,1.308258298
+(b),9,budget + homogenized \nu_e,1.29094129,1.393612156
+(b),9,budget + homogenized \nu_e,1.355127537,1.484073874
+(b),9,budget + homogenized \nu_e,1.422505157,1.579818728
+(b),9,budget + homogenized \nu_e,1.493232826,1.681010211
+(b),9,budget + homogenized \nu_e,1.567477109,1.787739883
+(b),9,budget + homogenized \nu_e,1.645412856,1.900051276
+(b),9,budget + homogenized \nu_e,1.727223607,2.017913862
+(b),9,budget + homogenized \nu_e,1.81310203,2.141256404
+(b),9,budget + homogenized \nu_e,1.90325037,2.269901988
+(b),9,budget + homogenized \nu_e,1.997880932,2.403435312
+(b),9,budget + homogenized \nu_e,2.097216572,2.541342286
+(b),9,budget + homogenized \nu_e,2.20149123,2.682933652
+(b),9,budget + homogenized \nu_e,2.310950476,2.827958994
+(b),9,budget + homogenized \nu_e,2.425852091,2.975166136
+(b),9,budget + homogenized \nu_e,2.546466672,3.123241858
+(b),9,budget + homogenized \nu_e,2.67307827,3.270824343
+(b),9,budget + homogenized \nu_e,2.80598506,3.416407914
+(b),9,budget + homogenized \nu_e,2.945500042,3.561727667
+(b),9,budget + homogenized \nu_e,3.091951779,3.702944864
+(b),9,budget + homogenized \nu_e,3.245685169,3.838420358
+(b),9,budget + homogenized \nu_e,3.407062261,3.966659138
+(b),9,budget + homogenized \nu_e,3.576463102,4.086268128
+(b),9,budget + homogenized \nu_e,3.754286639,4.20340054
+(b),9,budget + homogenized \nu_e,3.94095165,4.313679068
+(b),9,budget + homogenized \nu_e,4.136897739,4.414047707
+(b),9,budget + homogenized \nu_e,4.342586366,4.50382184
+(b),9,budget + homogenized \nu_e,4.558501935,4.582509922
+(b),9,budget + homogenized \nu_e,4.785152933,4.650781079
+(b),9,budget + homogenized \nu_e,5.023073133,4.725404752
+(b),9,budget + homogenized \nu_e,5.272822844,4.79040899
+(b),9,budget + homogenized \nu_e,5.534990236,4.845779544
+(b),9,budget + homogenized \nu_e,5.810192722,4.891613945
+(b),9,budget + homogenized \nu_e,6.099078413,4.928108136
+(b),9,budget + homogenized \nu_e,6.402327646,4.955542055
+(b),9,budget + homogenized \nu_e,6.720654582,4.995880204
+(b),9,budget + homogenized \nu_e,7.054808893,5.031006452
+(b),9,budget + homogenized \nu_e,7.405577524,5.059231738
+(b),9,budget + homogenized \nu_e,7.773786546,5.080829292
+(b),9,budget + homogenized \nu_e,8.160303105,5.09609858
+(b),9,budget + homogenized \nu_e,8.566037462,5.105358322
+(b),9,budget + homogenized \nu_e,8.991945133,5.120107507
+(b),9,budget + homogenized \nu_e,9.439029148,5.140791055
+(b),9,budget + homogenized \nu_e,9.908342403,5.156973043
+(b),9,budget + homogenized \nu_e,10.40099015,5.168880332
+(b),9,budget + homogenized \nu_e,10.91813259,5.176742173
+(b),9,budget + homogenized \nu_e,11.46098761,5.180787814
+(b),9,budget + homogenized \nu_e,12.03083365,5.181244467
+(b),9,budget + homogenized \nu_e,12.62901272,5.194738466
+(b),9,budget + homogenized \nu_e,13.25693356,5.205672606
+(b),9,budget + homogenized \nu_e,13.91607493,5.213856887
+(b),9,budget + homogenized \nu_e,14.60798914,5.219447253
+(b),9,budget + homogenized \nu_e,15.33430568,5.222595603
+(b),9,budget + homogenized \nu_e,16.09673503,5.223449234
+(b),9,budget + homogenized \nu_e,16.89707276,5.22666045
+(b),9,budget + homogenized \nu_e,17.73720368,5.234643338
+(b),9,budget + homogenized \nu_e,18.61910633,5.240829752
+(b),9,budget + homogenized \nu_e,19.54485761,5.245324429
+(b),9,budget + homogenized \nu_e,20.51663772,5.248227961
+(b),9,budget + homogenized \nu_e,21.53673522,5.249636716
+(b),9,budget + homogenized \nu_e,22.60755248,5.249642804
+(b),9,budget + homogenized \nu_e,23.73161131,5.254141815
+(b),9,budget + homogenized \nu_e,24.91155891,5.258880286
+(b),9,budget + homogenized \nu_e,26.15017409,5.262499378
+(b),9,budget + homogenized \nu_e,27.45037384,5.265066414
+(b),9,budget + homogenized \nu_e,28.81522017,5.266645414
+(b),9,budget + homogenized \nu_e,30.24792734,5.267297169
+(b),9,budget + homogenized \nu_e,31.75186944,5.26795042
+(b),9,budget + homogenized \nu_e,33.33058828,5.271540061
+(b),9,budget + homogenized \nu_e,34.98780182,5.274381842
+(b),9,budget + homogenized \nu_e,36.72741284,5.276521172
+(b),9,budget + homogenized \nu_e,38.5535182,5.278001029
+(b),9,budget + homogenized \nu_e,40.47041843,5.278862048
+(b),9,budget + homogenized \nu_e,42.4826279,5.279142623
+(b),9,budget + homogenized \nu_e,44.59488543,5.280547505
+(b),9,budget + homogenized \nu_e,46.81216546,5.282720826
+(b),9,budget + homogenized \nu_e,49.13968976,5.284422227
+(b),9,budget + homogenized \nu_e,51.58293974,5.285680729
+(b),9,budget + homogenized \nu_e,54.14766934,5.2865237
+(b),9,budget + homogenized \nu_e,56.83991857,5.286976929
+(b),9,budget + homogenized \nu_e,59.66602778,5.287064708
+(b),9,budget + homogenized \nu_e,62.63265255,5.288581846
+(b),9,budget + homogenized \nu_e,65.7467794,5.289894123
+(b),9,budget + homogenized \nu_e,69.01574219,5.29090782
+(b),9,budget + homogenized \nu_e,72.44723945,5.291641438
+(b),9,budget + homogenized \nu_e,76.04935247,5.292112383
+(b),9,budget + homogenized \nu_e,79.83056435,5.292337026
+(b),9,budget + homogenized \nu_e,83.79977998,5.29270401
+(b),9,budget + homogenized \nu_e,87.966347,5.293692174
+(b),9,budget + homogenized \nu_e,92.34007782,5.29447857
+(b),9,budget + homogenized \nu_e,96.93127272,5.295075736
+(b),9,budget + homogenized \nu_e,101.7507441,5.295495449
+(b),9,budget + homogenized \nu_e,106.8098421,5.295748775
+(b),9,budget + homogenized \nu_e,112.1204809,5.295846111
+(b),9,budget + homogenized \nu_e,117.6951674,5.296320286
+(b),9,budget + homogenized \nu_e,123.54703,5.296910282
+(b),9,budget + homogenized \nu_e,129.6898502,5.297372233
+(b),9,budget + homogenized \nu_e,136.1380945,5.297714123
+(b),9,budget + homogenized \nu_e,142.9069487,5.297943444
+(b),9,budget + homogenized \nu_e,150.0123538,5.298067232
+(b),9,budget + homogenized \nu_e,157.4710431,5.298111525
+(b),9,budget + homogenized \nu_e,165.3005822,5.298546542
+(b),9,budget + homogenized \nu_e,173.5194099,5.298894841
+(b),9,budget + homogenized \nu_e,182.1468819,5.299161832
+(b),9,budget + homogenized \nu_e,191.203316,5.299352596
+(b),9,budget + homogenized \nu_e,200.7100406,5.299471899
+(b),9,budget + homogenized \nu_e,210.6894443,5.299524211
+(b),9,budget + homogenized \nu_e,221.165029,5.307828105
+(b),9,budget + homogenized \nu_e,232.161465,5.30804813
+(b),9,budget + homogenized \nu_e,243.7046493,5.308254383
+(b),9,budget + homogenized \nu_e,255.8217665,5.308447726
+(b),9,budget + homogenized \nu_e,268.5413528,5.308628964
+(b),9,budget + homogenized \nu_e,281.8933633,5.308798857
+(b),9,budget + homogenized \nu_e,295.9092425,5.308958113
+(b),9,budget + homogenized \nu_e,310.6219982,5.309107399
+(b),9,budget + homogenized \nu_e,326.0662794,5.309247337
+(b),9,budget + homogenized \nu_e,342.2784581,5.309378514
+(b),9,budget + homogenized \nu_e,359.2967144,5.309501476
+(b),9,budget + homogenized \nu_e,377.161127,5.309616739
+(b),9,budget + homogenized \nu_e,395.913767,5.309724784
+(b),9,budget + homogenized \nu_e,415.5987978,5.309826063
+(b),9,budget + homogenized \nu_e,436.2625781,5.309920999
+(b),9,budget + homogenized \nu_e,457.9537719,5.31000999
+(b),9,budget + homogenized \nu_e,480.7234627,5.310093408
+(b),9,budget + homogenized \nu_e,504.625274,5.310171601
+(b),9,budget + homogenized \nu_e,529.7154953,5.310244897
+(b),9,budget + homogenized \nu_e,556.053215,5.310313603
+(b),9,budget + homogenized \nu_e,583.7004592,5.310378005
+(b),9,budget + homogenized \nu_e,612.7223383,5.310438373
+(b),9,budget + homogenized \nu_e,643.1871998,5.310494961
+(b),9,budget + homogenized \nu_e,675.1667894,5.310548004
+(b),9,budget + homogenized \nu_e,708.7364202,5.310597724
+(b),9,budget + homogenized \nu_e,743.9751499,5.310644331
+(b),9,budget + homogenized \nu_e,780.9659668,5.310688018
+(b),9,budget + homogenized \nu_e,819.7959857,5.310728968
+(b),9,budget + homogenized \nu_e,860.5566526,5.310767353
+(b),9,budget + homogenized \nu_e,903.3439603,5.310803334
+(b),9,budget + homogenized \nu_e,948.2586743,5.310837061
+(b),9,budget + homogenized \nu_e,995.4065703,5.310868675
+(b),9,budget + homogenized \nu_e,1044.898683,5.310898309
+(b),9,budget + homogenized \nu_e,1096.851569,5.310926087
+(b),9,budget + homogenized \nu_e,1151.387578,5.310952124
+(b),9,budget + homogenized \nu_e,1208.635145,5.310976531
+(b),9,budget + homogenized \nu_e,1268.72909,5.310999408
+(b),9,budget + homogenized \nu_e,1331.810935,5.311020852
+(b),9,budget + homogenized \nu_e,1398.029242,5.311040953
+(b),9,budget + homogenized \nu_e,1467.539956,5.311059795
+(b),9,budget + homogenized \nu_e,1540.506777,5.311077457
+(b),9,budget + homogenized \nu_e,1617.101546,5.311094012
+(b),9,budget + homogenized \nu_e,1697.504644,5.311109529
+(b),9,budget + homogenized \nu_e,1781.905425,5.311124075
+(b),9,budget + homogenized \nu_e,1870.502655,5.31113771
+(b),9,budget + homogenized \nu_e,1963.504983,5.31115049
+(b),9,budget + homogenized \nu_e,2061.131434,5.31116247
+(b),9,budget + homogenized \nu_e,2163.611921,5.311173699
+(b),9,budget + homogenized \nu_e,2271.187789,5.311184225
+(b),9,budget + homogenized \nu_e,2384.112383,5.311194091
+(b),9,budget + homogenized \nu_e,2502.651645,5.311203339
+(b),9,budget + homogenized \nu_e,2627.084738,5.311212008
+(b),9,budget + homogenized \nu_e,2757.704706,5.311220134
+(b),9,budget + homogenized \nu_e,2894.819165,5.311227751
+(b),9,budget + homogenized \nu_e,3038.751023,5.31123489
+(b),9,budget + homogenized \nu_e,3189.839246,5.311241582
+(b),9,budget + homogenized \nu_e,3348.43965,5.311247855
+(b),9,budget + homogenized \nu_e,3514.925746,5.311253735
+(b),9,budget + homogenized \nu_e,3689.689614,5.311259247
+(b),9,budget + homogenized \nu_e,3873.142829,5.311264413
+(b),9,budget + homogenized \nu_e,4065.71743,5.311269256
+(b),9,budget + homogenized \nu_e,4267.866936,5.311273795
+(b),9,budget + homogenized \nu_e,4480.067417,5.31127805
+(b),9,budget + homogenized \nu_e,4702.818612,5.311282039
+(b),9,budget + homogenized \nu_e,4936.645108,5.311285777
+(b),9,budget + homogenized \nu_e,5182.097575,5.311289281
+(b),9,budget + homogenized \nu_e,5439.754061,5.311292566
+(b),9,budget + homogenized \nu_e,5710.221357,5.311295645
+(b),9,budget + homogenized \nu_e,5994.136422,5.311298531
+(b),9,budget + homogenized \nu_e,6292.167886,5.311301236
+(b),9,budget + homogenized \nu_e,6605.017624,5.311303772
+(b),9,budget + homogenized \nu_e,6933.422407,5.311306149
+(b),9,budget + homogenized \nu_e,7278.155641,5.311308377
+(b),9,budget + homogenized \nu_e,7640.029183,5.311310465
+(b),9,budget + homogenized \nu_e,8019.89526,5.311312423
+(b),9,budget + homogenized \nu_e,8418.648468,5.311314258
+(b),9,budget + homogenized \nu_e,8837.227885,5.311315978
+(b),9,budget + homogenized \nu_e,9276.61928,5.31131759
+(b),9,budget + homogenized \nu_e,9737.857435,5.311319101
+(b),9,budget + homogenized \nu_e,10222.02858,5.311320518
+(b),9,budget + homogenized \nu_e,10730.27296,5.311321845
+(b),9,budget + homogenized \nu_e,11263.78751,5.31132309
+(b),9,budget + homogenized \nu_e,11823.82866,5.311324257
+(b),9,budget + homogenized \nu_e,12411.71534,5.31132535
+(b),9,budget + homogenized \nu_e,13028.83204,5.311326375
+(b),9,budget + homogenized \nu_e,13676.6321,5.311327336
+(b),9,budget + homogenized \nu_e,14356.64109,5.311328237
+(b),9,budget + homogenized \nu_e,15070.46048,5.311329081
+(b),9,budget + homogenized \nu_e,15819.77132,5.311329872
+(b),9,budget + homogenized \nu_e,16606.33827,5.311330614
+(b),9,budget + homogenized \nu_e,17432.01372,5.311331309
+(b),9,budget + homogenized \nu_e,18298.74217,5.311331961
+(b),9,budget + homogenized \nu_e,19208.56479,5.311332572
+(b),9,budget + homogenized \nu_e,20163.62425,5.311333144
+(b),9,budget + homogenized \nu_e,21166.16975,5.311333681
+(b),9,budget + homogenized \nu_e,22218.5623,5.311334184
+(b),9,budget + homogenized \nu_e,23323.28035,5.311334656
+(b),9,budget + homogenized \nu_e,24482.92552,5.311335098
+(b),9,budget + homogenized \nu_e,25700.22884,5.311335512
+(b),9,budget + homogenized \nu_e,26978.05708,5.3113359
+(b),9,budget + homogenized \nu_e,28319.41959,5.311336264
+(b),9,budget + homogenized \nu_e,29727.47531,5.311336606
+(b),9,budget + homogenized \nu_e,31205.54027,5.311336926
+(b),9,budget + homogenized \nu_e,32757.09536,5.311337225
+(b),9,budget + homogenized \nu_e,34385.79454,5.311337506
+(b),9,budget + homogenized \nu_e,36095.47346,5.31133777
+(b),9,budget + homogenized \nu_e,37890.15847,5.311338017
+(b),9,budget + homogenized \nu_e,39774.07612,5.311338248
+(b),9,budget + homogenized \nu_e,41751.6631,5.311338465
+(b),9,budget + homogenized \nu_e,43827.5767,5.311338669
+(b),9,budget + homogenized \nu_e,46006.70576,5.311338859
+(b),9,budget + homogenized \nu_e,48294.1822,5.311339038
+(b),9,budget + homogenized \nu_e,50695.39312,5.311339205
+(b),9,budget + homogenized \nu_e,53215.99345,5.311339362
+(b),9,budget + homogenized \nu_e,55861.91929,5.31133951
+(b),9,budget + homogenized \nu_e,58639.40189,5.311339647
+(b),9,budget + homogenized \nu_e,61554.98231,5.311339777
+(b),9,budget + homogenized \nu_e,64615.52685,5.311339898
+(b),9,budget + homogenized \nu_e,67828.2432,5.311340012
+(b),9,budget + homogenized \nu_e,71200.69741,5.311340118
+(b),9,budget + homogenized \nu_e,74740.83174,5.311340218
+(b),9,budget + homogenized \nu_e,78456.98332,5.311340311
+(b),9,budget + homogenized \nu_e,82357.90381,5.311340399
+(b),9,budget + homogenized \nu_e,86452.78002,5.311340481
+(b),9,budget + homogenized \nu_e,90751.25553,5.311340558
+(b),9,budget + homogenized \nu_e,95263.4534,5.311340631
+(b),9,budget + homogenized \nu_e,100000,5.311340698
+(b),10,Batchelor-type interpolation,0.05,0.01841764987
+(b),10,Batchelor-type interpolation,0.05248602503,0.0196483654
+(b),10,Batchelor-type interpolation,0.05509565648,0.02096129092
+(b),10,Batchelor-type interpolation,0.05783504011,0.02236191276
+(b),10,Batchelor-type interpolation,0.06071062726,0.02385608242
+(b),10,Batchelor-type interpolation,0.06372919004,0.02545004082
+(b),10,Batchelor-type interpolation,0.06689783728,0.02715044392
+(b),10,Batchelor-type interpolation,0.07022403125,0.0289643902
+(b),10,Batchelor-type interpolation,0.07371560524,0.03089944976
+(b),10,Batchelor-type interpolation,0.07738078204,0.03296369533
+(b),10,Batchelor-type interpolation,0.08122819327,0.03516573537
+(b),10,Batchelor-type interpolation,0.08526689971,0.0375147491
+(b),10,Batchelor-type interpolation,0.08950641266,0.04002052393
+(b),10,Batchelor-type interpolation,0.09395671631,0.04269349511
+(b),10,Batchelor-type interpolation,0.09862829129,0.04554478796
+(b),10,Batchelor-type interpolation,0.1035321393,0.04858626268
+(b),10,Batchelor-type interpolation,0.1086798091,0.05183056197
+(b),10,Batchelor-type interpolation,0.1140834236,0.05529116151
+(b),10,Batchelor-type interpolation,0.1197557086,0.05898242355
+(b),10,Batchelor-type interpolation,0.1257100224,0.06291965371
+(b),10,Batchelor-type interpolation,0.1319603876,0.06711916112
+(b),10,Batchelor-type interpolation,0.1385215242,0.07159832211
+(b),10,Batchelor-type interpolation,0.1454088837,0.07637564752
+(b),10,Batchelor-type interpolation,0.1526386862,0.08147085387
+(b),10,Batchelor-type interpolation,0.1602279581,0.08690493843
+(b),10,Batchelor-type interpolation,0.1681945724,0.09270025841
+(b),10,Batchelor-type interpolation,0.1765572908,0.0988806142
+(b),10,Batchelor-type interpolation,0.1853358077,0.1054713371
+(b),10,Batchelor-type interpolation,0.1945507969,0.1124993809
+(b),10,Batchelor-type interpolation,0.2042239599,0.1199934188
+(b),10,Batchelor-type interpolation,0.2143780774,0.1279839431
+(b),10,Batchelor-type interpolation,0.2250370628,0.1365033709
+(b),10,Batchelor-type interpolation,0.2362260182,0.1455861525
+(b),10,Batchelor-type interpolation,0.2479712941,0.1552688847
+(b),10,Batchelor-type interpolation,0.260300551,0.165590427
+(b),10,Batchelor-type interpolation,0.2732428248,0.1765920218
+(b),10,Batchelor-type interpolation,0.2868285948,0.1883174166
+(b),10,Batchelor-type interpolation,0.3010898562,0.2008129886
+(b),10,Batchelor-type interpolation,0.3160601946,0.2141278699
+(b),10,Batchelor-type interpolation,0.3317748657,0.2283140737
+(b),10,Batchelor-type interpolation,0.3482708781,0.2434266179
+(b),10,Batchelor-type interpolation,0.3655870806,0.2595236465
+(b),10,Batchelor-type interpolation,0.3837642533,0.2766665462
+(b),10,Batchelor-type interpolation,0.4028452041,0.2949200546
+(b),10,Batchelor-type interpolation,0.4228748693,0.3143523599
+(b),10,Batchelor-type interpolation,0.4439004196,0.3350351852
+(b),10,Batchelor-type interpolation,0.4659713707,0.3570438573
+(b),10,Batchelor-type interpolation,0.4891397006,0.3804573521
+(b),10,Batchelor-type interpolation,0.5134599714,0.4053583141
+(b),10,Batchelor-type interpolation,0.5389894583,0.4318330415
+(b),10,Batchelor-type interpolation,0.565788284,0.4599714329
+(b),10,Batchelor-type interpolation,0.5939195608,0.4898668846
+(b),10,Batchelor-type interpolation,0.6234495387,0.5216161324
+(b),10,Batchelor-type interpolation,0.6544477619,0.5553190272
+(b),10,Batchelor-type interpolation,0.6869872323,0.5910782332
+(b),10,Batchelor-type interpolation,0.7211445815,0.6289988378
+(b),10,Batchelor-type interpolation,0.7570002512,0.6691878603
+(b),10,Batchelor-type interpolation,0.7946386827,0.7117536464
+(b),10,Batchelor-type interpolation,0.8341485159,0.756805134
+(b),10,Batchelor-type interpolation,0.8756227977,0.8044509772
+(b),10,Batchelor-type interpolation,0.9191592016,0.8547985141
+(b),10,Batchelor-type interpolation,0.9648602574,0.9079525667
+(b),10,Batchelor-type interpolation,1.012833592,0.9640140594
+(b),10,Batchelor-type interpolation,1.063192186,1.02307845
+(b),10,Batchelor-type interpolation,1.116054634,1.085233968
+(b),10,Batchelor-type interpolation,1.171545429,1.150559655
+(b),10,Batchelor-type interpolation,1.229795254,1.219123222
+(b),10,Batchelor-type interpolation,1.29094129,1.290978733
+(b),10,Batchelor-type interpolation,1.355127537,1.366164135
+(b),10,Batchelor-type interpolation,1.422505157,1.444698676
+(b),10,Batchelor-type interpolation,1.493232826,1.526580259
+(b),10,Batchelor-type interpolation,1.567477109,1.611782779
+(b),10,Batchelor-type interpolation,1.645412856,1.700253542
+(b),10,Batchelor-type interpolation,1.727223607,1.79191083
+(b),10,Batchelor-type interpolation,1.81310203,1.886641727
+(b),10,Batchelor-type interpolation,1.90325037,1.984300323
+(b),10,Batchelor-type interpolation,1.997880932,2.084706386
+(b),10,Batchelor-type interpolation,2.097216572,2.187644658
+(b),10,Batchelor-type interpolation,2.20149123,2.29286485
+(b),10,Batchelor-type interpolation,2.310950476,2.400082464
+(b),10,Batchelor-type interpolation,2.425852091,2.508980493
+(b),10,Batchelor-type interpolation,2.546466672,2.619212066
+(b),10,Batchelor-type interpolation,2.67307827,2.730404031
+(b),10,Batchelor-type interpolation,2.80598506,2.842161446
+(b),10,Batchelor-type interpolation,2.945500042,2.954072894
+(b),10,Batchelor-type interpolation,3.091951779,3.065716493
+(b),10,Batchelor-type interpolation,3.245685169,3.176666418
+(b),10,Batchelor-type interpolation,3.407062261,3.286499741
+(b),10,Batchelor-type interpolation,3.576463102,3.394803338
+(b),10,Batchelor-type interpolation,3.754286639,3.501180626
+(b),10,Batchelor-type interpolation,3.94095165,3.605257879
+(b),10,Batchelor-type interpolation,4.136897739,3.706689912
+(b),10,Batchelor-type interpolation,4.342586366,3.805164932
+(b),10,Batchelor-type interpolation,4.558501935,3.900408407
+(b),10,Batchelor-type interpolation,4.785152933,3.992185869
+(b),10,Batchelor-type interpolation,5.023073133,4.080304607
+(b),10,Batchelor-type interpolation,5.272822844,4.164614253
+(b),10,Batchelor-type interpolation,5.534990236,4.245006339
+(b),10,Batchelor-type interpolation,5.810192722,4.321412915
+(b),10,Batchelor-type interpolation,6.099078413,4.39380437
+(b),10,Batchelor-type interpolation,6.402327646,4.462186598
+(b),10,Batchelor-type interpolation,6.720654582,4.526597683
+(b),10,Batchelor-type interpolation,7.054808893,4.587104251
+(b),10,Batchelor-type interpolation,7.405577524,4.643797647
+(b),10,Batchelor-type interpolation,7.773786546,4.696790072
+(b),10,Batchelor-type interpolation,8.160303105,4.746210788
+(b),10,Batchelor-type interpolation,8.566037462,4.792202499
+(b),10,Batchelor-type interpolation,8.991945133,4.834917964
+(b),10,Batchelor-type interpolation,9.439029148,4.874516906
+(b),10,Batchelor-type interpolation,9.908342403,4.91116324
+(b),10,Batchelor-type interpolation,10.40099015,4.94502264
+(b),10,Batchelor-type interpolation,10.91813259,4.976260443
+(b),10,Batchelor-type interpolation,11.46098761,5.005039884
+(b),10,Batchelor-type interpolation,12.03083365,5.031520636
+(b),10,Batchelor-type interpolation,12.62901272,5.055857643
+(b),10,Batchelor-type interpolation,13.25693356,5.078200211
+(b),10,Batchelor-type interpolation,13.91607493,5.09869133
+(b),10,Batchelor-type interpolation,14.60798914,5.117467194
+(b),10,Batchelor-type interpolation,15.33430568,5.134656903
+(b),10,Batchelor-type interpolation,16.09673503,5.150382303
+(b),10,Batchelor-type interpolation,16.89707276,5.164757955
+(b),10,Batchelor-type interpolation,17.73720368,5.1778912
+(b),10,Batchelor-type interpolation,18.61910633,5.189882303
+(b),10,Batchelor-type interpolation,19.54485761,5.20082466
+(b),10,Batchelor-type interpolation,20.51663772,5.210805055
+(b),10,Batchelor-type interpolation,21.53673522,5.219903941
+(b),10,Batchelor-type interpolation,22.60755248,5.228195758
+(b),10,Batchelor-type interpolation,23.73161131,5.235749249
+(b),10,Batchelor-type interpolation,24.91155891,5.242627798
+(b),10,Batchelor-type interpolation,26.15017409,5.248889758
+(b),10,Batchelor-type interpolation,27.45037384,5.254588776
+(b),10,Batchelor-type interpolation,28.81522017,5.259774117
+(b),10,Batchelor-type interpolation,30.24792734,5.264490966
+(b),10,Batchelor-type interpolation,31.75186944,5.26878073
+(b),10,Batchelor-type interpolation,33.33058828,5.272681317
+(b),10,Batchelor-type interpolation,34.98780182,5.276227403
+(b),10,Batchelor-type interpolation,36.72741284,5.279450687
+(b),10,Batchelor-type interpolation,38.5535182,5.282380121
+(b),10,Batchelor-type interpolation,40.47041843,5.28504214
+(b),10,Batchelor-type interpolation,42.4826279,5.287460861
+(b),10,Batchelor-type interpolation,44.59488543,5.289658276
+(b),10,Batchelor-type interpolation,46.81216546,5.291654436
+(b),10,Batchelor-type interpolation,49.13968976,5.293467607
+(b),10,Batchelor-type interpolation,51.58293974,5.295114427
+(b),10,Batchelor-type interpolation,54.14766934,5.296610046
+(b),10,Batchelor-type interpolation,56.83991857,5.297968254
+(b),10,Batchelor-type interpolation,59.66602778,5.299201598
+(b),10,Batchelor-type interpolation,62.63265255,5.300321495
+(b),10,Batchelor-type interpolation,65.7467794,5.301338328
+(b),10,Batchelor-type interpolation,69.01574219,5.302261539
+(b),10,Batchelor-type interpolation,72.44723945,5.303099712
+(b),10,Batchelor-type interpolation,76.04935247,5.303860652
+(b),10,Batchelor-type interpolation,79.83056435,5.304551451
+(b),10,Batchelor-type interpolation,83.79977998,5.305178554
+(b),10,Batchelor-type interpolation,87.966347,5.305747818
+(b),10,Batchelor-type interpolation,92.34007782,5.306264565
+(b),10,Batchelor-type interpolation,96.93127272,5.306733628
+(b),10,Batchelor-type interpolation,101.7507441,5.307159399
+(b),10,Batchelor-type interpolation,106.8098421,5.307545864
+(b),10,Batchelor-type interpolation,112.1204809,5.307896648
+(b),10,Batchelor-type interpolation,117.6951674,5.308215039
+(b),10,Batchelor-type interpolation,123.54703,5.308504024
+(b),10,Batchelor-type interpolation,129.6898502,5.308766315
+(b),10,Batchelor-type interpolation,136.1380945,5.309004376
+(b),10,Batchelor-type interpolation,142.9069487,5.309220442
+(b),10,Batchelor-type interpolation,150.0123538,5.309416544
+(b),10,Batchelor-type interpolation,157.4710431,5.309594525
+(b),10,Batchelor-type interpolation,165.3005822,5.309756057
+(b),10,Batchelor-type interpolation,173.5194099,5.309902661
+(b),10,Batchelor-type interpolation,182.1468819,5.310035714
+(b),10,Batchelor-type interpolation,191.203316,5.310156468
+(b),10,Batchelor-type interpolation,200.7100406,5.310266061
+(b),10,Batchelor-type interpolation,210.6894443,5.310365522
+(b),10,Batchelor-type interpolation,221.165029,5.310455789
+(b),10,Batchelor-type interpolation,232.161465,5.31053771
+(b),10,Batchelor-type interpolation,243.7046493,5.310612057
+(b),10,Batchelor-type interpolation,255.8217665,5.31067953
+(b),10,Batchelor-type interpolation,268.5413528,5.310740765
+(b),10,Batchelor-type interpolation,281.8933633,5.310796338
+(b),10,Batchelor-type interpolation,295.9092425,5.310846772
+(b),10,Batchelor-type interpolation,310.6219982,5.310892543
+(b),10,Batchelor-type interpolation,326.0662794,5.310934082
+(b),10,Batchelor-type interpolation,342.2784581,5.310971779
+(b),10,Batchelor-type interpolation,359.2967144,5.31100599
+(b),10,Batchelor-type interpolation,377.161127,5.311037038
+(b),10,Batchelor-type interpolation,395.913767,5.311065215
+(b),10,Batchelor-type interpolation,415.5987978,5.311090786
+(b),10,Batchelor-type interpolation,436.2625781,5.311113992
+(b),10,Batchelor-type interpolation,457.9537719,5.311135052
+(b),10,Batchelor-type interpolation,480.7234627,5.311154165
+(b),10,Batchelor-type interpolation,504.625274,5.31117151
+(b),10,Batchelor-type interpolation,529.7154953,5.311187251
+(b),10,Batchelor-type interpolation,556.053215,5.311201536
+(b),10,Batchelor-type interpolation,583.7004592,5.3112145
+(b),10,Batchelor-type interpolation,612.7223383,5.311226265
+(b),10,Batchelor-type interpolation,643.1871998,5.311236942
+(b),10,Batchelor-type interpolation,675.1667894,5.311246632
+(b),10,Batchelor-type interpolation,708.7364202,5.311255425
+(b),10,Batchelor-type interpolation,743.9751499,5.311263405
+(b),10,Batchelor-type interpolation,780.9659668,5.311270648
+(b),10,Batchelor-type interpolation,819.7959857,5.31127722
+(b),10,Batchelor-type interpolation,860.5566526,5.311283185
+(b),10,Batchelor-type interpolation,903.3439603,5.311288597
+(b),10,Batchelor-type interpolation,948.2586743,5.31129351
+(b),10,Batchelor-type interpolation,995.4065703,5.311297968
+(b),10,Batchelor-type interpolation,1044.898683,5.311302013
+(b),10,Batchelor-type interpolation,1096.851569,5.311305685
+(b),10,Batchelor-type interpolation,1151.387578,5.311309017
+(b),10,Batchelor-type interpolation,1208.635145,5.311312041
+(b),10,Batchelor-type interpolation,1268.72909,5.311314785
+(b),10,Batchelor-type interpolation,1331.810935,5.311317275
+(b),10,Batchelor-type interpolation,1398.029242,5.311319535
+(b),10,Batchelor-type interpolation,1467.539956,5.311321586
+(b),10,Batchelor-type interpolation,1540.506777,5.311323448
+(b),10,Batchelor-type interpolation,1617.101546,5.311325137
+(b),10,Batchelor-type interpolation,1697.504644,5.31132667
+(b),10,Batchelor-type interpolation,1781.905425,5.311328061
+(b),10,Batchelor-type interpolation,1870.502655,5.311329323
+(b),10,Batchelor-type interpolation,1963.504983,5.311330469
+(b),10,Batchelor-type interpolation,2061.131434,5.311331509
+(b),10,Batchelor-type interpolation,2163.611921,5.311332452
+(b),10,Batchelor-type interpolation,2271.187789,5.311333309
+(b),10,Batchelor-type interpolation,2384.112383,5.311334086
+(b),10,Batchelor-type interpolation,2502.651645,5.311334791
+(b),10,Batchelor-type interpolation,2627.084738,5.311335431
+(b),10,Batchelor-type interpolation,2757.704706,5.311336012
+(b),10,Batchelor-type interpolation,2894.819165,5.311336539
+(b),10,Batchelor-type interpolation,3038.751023,5.311337017
+(b),10,Batchelor-type interpolation,3189.839246,5.311337452
+(b),10,Batchelor-type interpolation,3348.43965,5.311337846
+(b),10,Batchelor-type interpolation,3514.925746,5.311338203
+(b),10,Batchelor-type interpolation,3689.689614,5.311338528
+(b),10,Batchelor-type interpolation,3873.142829,5.311338822
+(b),10,Batchelor-type interpolation,4065.71743,5.311339089
+(b),10,Batchelor-type interpolation,4267.866936,5.311339332
+(b),10,Batchelor-type interpolation,4480.067417,5.311339552
+(b),10,Batchelor-type interpolation,4702.818612,5.311339752
+(b),10,Batchelor-type interpolation,4936.645108,5.311339933
+(b),10,Batchelor-type interpolation,5182.097575,5.311340097
+(b),10,Batchelor-type interpolation,5439.754061,5.311340247
+(b),10,Batchelor-type interpolation,5710.221357,5.311340382
+(b),10,Batchelor-type interpolation,5994.136422,5.311340505
+(b),10,Batchelor-type interpolation,6292.167886,5.311340617
+(b),10,Batchelor-type interpolation,6605.017624,5.311340718
+(b),10,Batchelor-type interpolation,6933.422407,5.31134081
+(b),10,Batchelor-type interpolation,7278.155641,5.311340893
+(b),10,Batchelor-type interpolation,7640.029183,5.311340969
+(b),10,Batchelor-type interpolation,8019.89526,5.311341037
+(b),10,Batchelor-type interpolation,8418.648468,5.3113411
+(b),10,Batchelor-type interpolation,8837.227885,5.311341156
+(b),10,Batchelor-type interpolation,9276.61928,5.311341208
+(b),10,Batchelor-type interpolation,9737.857435,5.311341254
+(b),10,Batchelor-type interpolation,10222.02858,5.311341297
+(b),10,Batchelor-type interpolation,10730.27296,5.311341335
+(b),10,Batchelor-type interpolation,11263.78751,5.31134137
+(b),10,Batchelor-type interpolation,11823.82866,5.311341401
+(b),10,Batchelor-type interpolation,12411.71534,5.31134143
+(b),10,Batchelor-type interpolation,13028.83204,5.311341456
+(b),10,Batchelor-type interpolation,13676.6321,5.31134148
+(b),10,Batchelor-type interpolation,14356.64109,5.311341501
+(b),10,Batchelor-type interpolation,15070.46048,5.31134152
+(b),10,Batchelor-type interpolation,15819.77132,5.311341538
+(b),10,Batchelor-type interpolation,16606.33827,5.311341554
+(b),10,Batchelor-type interpolation,17432.01372,5.311341569
+(b),10,Batchelor-type interpolation,18298.74217,5.311341582
+(b),10,Batchelor-type interpolation,19208.56479,5.311341594
+(b),10,Batchelor-type interpolation,20163.62425,5.311341605
+(b),10,Batchelor-type interpolation,21166.16975,5.311341615
+(b),10,Batchelor-type interpolation,22218.5623,5.311341624
+(b),10,Batchelor-type interpolation,23323.28035,5.311341632
+(b),10,Batchelor-type interpolation,24482.92552,5.311341639
+(b),10,Batchelor-type interpolation,25700.22884,5.311341646
+(b),10,Batchelor-type interpolation,26978.05708,5.311341652
+(b),10,Batchelor-type interpolation,28319.41959,5.311341657
+(b),10,Batchelor-type interpolation,29727.47531,5.311341662
+(b),10,Batchelor-type interpolation,31205.54027,5.311341667
+(b),10,Batchelor-type interpolation,32757.09536,5.311341671
+(b),10,Batchelor-type interpolation,34385.79454,5.311341675
+(b),10,Batchelor-type interpolation,36095.47346,5.311341678
+(b),10,Batchelor-type interpolation,37890.15847,5.311341681
+(b),10,Batchelor-type interpolation,39774.07612,5.311341684
+(b),10,Batchelor-type interpolation,41751.6631,5.311341686
+(b),10,Batchelor-type interpolation,43827.5767,5.311341689
+(b),10,Batchelor-type interpolation,46006.70576,5.311341691
+(b),10,Batchelor-type interpolation,48294.1822,5.311341693
+(b),10,Batchelor-type interpolation,50695.39312,5.311341694
+(b),10,Batchelor-type interpolation,53215.99345,5.311341696
+(b),10,Batchelor-type interpolation,55861.91929,5.311341697
+(b),10,Batchelor-type interpolation,58639.40189,5.311341699
+(b),10,Batchelor-type interpolation,61554.98231,5.3113417
+(b),10,Batchelor-type interpolation,64615.52685,5.311341701
+(b),10,Batchelor-type interpolation,67828.2432,5.311341702
+(b),10,Batchelor-type interpolation,71200.69741,5.311341703
+(b),10,Batchelor-type interpolation,74740.83174,5.311341704
+(b),10,Batchelor-type interpolation,78456.98332,5.311341704
+(b),10,Batchelor-type interpolation,82357.90381,5.311341705
+(b),10,Batchelor-type interpolation,86452.78002,5.311341706
+(b),10,Batchelor-type interpolation,90751.25553,5.311341706
+(b),10,Batchelor-type interpolation,95263.4534,5.311341707
+(b),10,Batchelor-type interpolation,100000,5.311341707
+(b),11,plateau C_2 = c^(-2/3),,5.311341711
+(b),12,dissipative law (R/eta)^(4/3),0.05,0.01842015749
+(b),12,dissipative law (R/eta)^(4/3),0.05248602503,0.01965131321
+(b),12,dissipative law (R/eta)^(4/3),0.05509565648,0.02096475619
+(b),12,dissipative law (R/eta)^(4/3),0.05783504011,0.02236598631
+(b),12,dissipative law (R/eta)^(4/3),0.06071062726,0.02386087103
+(b),12,dissipative law (R/eta)^(4/3),0.06372919004,0.02545566998
+(b),12,dissipative law (R/eta)^(4/3),0.06689783728,0.02715706117
+(b),12,dissipative law (R/eta)^(4/3),0.07022403125,0.02897216894
+(b),12,dissipative law (R/eta)^(4/3),0.07371560524,0.03090859383
+(b),12,dissipative law (R/eta)^(4/3),0.07738078204,0.03297444436
+(b),12,dissipative law (R/eta)^(4/3),0.08122819327,0.03517837099
+(b),12,dissipative law (R/eta)^(4/3),0.08526689971,0.03752960238
+(b),12,dissipative law (R/eta)^(4/3),0.08950641266,0.04003798401
+(b),12,dissipative law (R/eta)^(4/3),0.09395671631,0.04271401937
+(b),12,dissipative law (R/eta)^(4/3),0.09862829129,0.04556891403
+(b),12,dissipative law (R/eta)^(4/3),0.1035321393,0.04861462246
+(b),12,dissipative law (R/eta)^(4/3),0.1086798091,0.05186389818
+(b),12,dissipative law (R/eta)^(4/3),0.1140834236,0.05533034708
+(b),12,dissipative law (R/eta)^(4/3),0.1197557086,0.05902848447
+(b),12,dissipative law (R/eta)^(4/3),0.1257100224,0.06297379581
+(b),12,dissipative law (R/eta)^(4/3),0.1319603876,0.06718280156
+(b),12,dissipative law (R/eta)^(4/3),0.1385215242,0.07167312637
+(b),12,dissipative law (R/eta)^(4/3),0.1454088837,0.07646357289
+(b),12,dissipative law (R/eta)^(4/3),0.1526386862,0.08157420047
+(b),12,dissipative law (R/eta)^(4/3),0.1602279581,0.08702640919
+(b),12,dissipative law (R/eta)^(4/3),0.1681945724,0.09284302945
+(b),12,dissipative law (R/eta)^(4/3),0.1765572908,0.09904841757
+(b),12,dissipative law (R/eta)^(4/3),0.1853358077,0.1056685578
+(b),12,dissipative law (R/eta)^(4/3),0.1945507969,0.1127311711
+(b),12,dissipative law (R/eta)^(4/3),0.2042239599,0.1202658312
+(b),12,dissipative law (R/eta)^(4/3),0.2143780774,0.1283040885
+(b),12,dissipative law (R/eta)^(4/3),0.2250370628,0.1368796022
+(b),12,dissipative law (R/eta)^(4/3),0.2362260182,0.146028281
+(b),12,dissipative law (R/eta)^(4/3),0.2479712941,0.1557884339
+(b),12,dissipative law (R/eta)^(4/3),0.260300551,0.1662009301
+(b),12,dissipative law (R/eta)^(4/3),0.2732428248,0.1773093707
+(b),12,dissipative law (R/eta)^(4/3),0.2868285948,0.1891602708
+(b),12,dissipative law (R/eta)^(4/3),0.3010898562,0.2018032544
+(b),12,dissipative law (R/eta)^(4/3),0.3160601946,0.2152912623
+(b),12,dissipative law (R/eta)^(4/3),0.3317748657,0.2296807738
+(b),12,dissipative law (R/eta)^(4/3),0.3482708781,0.2450320431
+(b),12,dissipative law (R/eta)^(4/3),0.3655870806,0.2614093516
+(b),12,dissipative law (R/eta)^(4/3),0.3837642533,0.278881277
+(b),12,dissipative law (R/eta)^(4/3),0.4028452041,0.2975209807
+(b),12,dissipative law (R/eta)^(4/3),0.4228748693,0.3174065141
+(b),12,dissipative law (R/eta)^(4/3),0.4439004196,0.3386211451
+(b),12,dissipative law (R/eta)^(4/3),0.4659713707,0.3612537072
+(b),12,dissipative law (R/eta)^(4/3),0.4891397006,0.3853989713
+(b),12,dissipative law (R/eta)^(4/3),0.5134599714,0.4111580425
+(b),12,dissipative law (R/eta)^(4/3),0.5389894583,0.4386387833
+(b),12,dissipative law (R/eta)^(4/3),0.565788284,0.4679562659
+(b),12,dissipative law (R/eta)^(4/3),0.5939195608,0.4992332532
+(b),12,dissipative law (R/eta)^(4/3),0.6234495387,0.5326007135
+(b),12,dissipative law (R/eta)^(4/3),0.6544477619,0.5681983686
+(b),12,dissipative law (R/eta)^(4/3),0.6869872323,0.606175279
+(b),12,dissipative law (R/eta)^(4/3),0.7211445815,0.6466904679
+(b),12,dissipative law (R/eta)^(4/3),0.7570002512,0.6899135873
+(b),12,dissipative law (R/eta)^(4/3),0.7946386827,0.7360256283
+(b),12,dissipative law (R/eta)^(4/3),0.8341485159,0.785219679
+(b),12,dissipative law (R/eta)^(4/3),0.8756227977,0.8377017328
+(b),12,dissipative law (R/eta)^(4/3),0.9191592016,0.8936915515
+(b),12,dissipative law (R/eta)^(4/3),0.9648602574,0.9534235849
+(b),12,dissipative law (R/eta)^(4/3),1.012833592,1.017147953
+(b),12,dissipative law (R/eta)^(4/3),1.063192186,1.085131493
+(b),12,dissipative law (R/eta)^(4/3),1.116054634,1.157658878
+(b),12,dissipative law (R/eta)^(4/3),1.171545429,1.235033805
+(b),12,dissipative law (R/eta)^(4/3),1.229795254,1.317580272
+(b),12,dissipative law (R/eta)^(4/3),1.29094129,1.405643932
+(b),12,dissipative law (R/eta)^(4/3),1.355127537,1.49959354
+(b),12,dissipative law (R/eta)^(4/3),1.422505157,1.599822496
+(b),12,dissipative law (R/eta)^(4/3),1.493232826,1.706750497
+(b),12,dissipative law (R/eta)^(4/3),1.567477109,1.820825288
+(b),12,dissipative law (R/eta)^(4/3),1.645412856,1.942524545
+(b),12,dissipative law (R/eta)^(4/3),1.727223607,2.072357864
+(b),12,dissipative law (R/eta)^(4/3),1.81310203,2.210868908
+(b),12,dissipative law (R/eta)^(4/3),1.90325037,2.358637671
+(b),12,dissipative law (R/eta)^(4/3),1.997880932,2.516282917
+(b),12,dissipative law (R/eta)^(4/3),2.097216572,2.684464763
+(b),12,dissipative law (R/eta)^(4/3),2.20149123,2.86388745
+(b),12,dissipative law (R/eta)^(4/3),2.310950476,3.055302285
+(b),12,dissipative law (R/eta)^(4/3),2.425852091,3.259510793
+(b),12,dissipative law (R/eta)^(4/3),2.546466672,3.47736807
+(b),12,dissipative law (R/eta)^(4/3),2.67307827,3.709786364
+(b),12,dissipative law (R/eta)^(4/3),2.80598506,3.957738896
+(b),12,dissipative law (R/eta)^(4/3),2.945500042,4.222263934

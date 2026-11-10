@@ -1,0 +1,562 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Plotted data of Fig. 7 of the paper: inertial spectral eddy viscosity of the shock in units of u0 Delta for a sharp cutoff, a top-hat filter and a Gaussian filter",,,
+#Ref. [1] Xu 2026,https://doi.org/10.5281/zenodo.24096071,"Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation",,
+#Note,x = k/K (linear axis); y = \nu_t(k)/(u_0\Delta) (linear axis),,,
+#Note,horizontal lines: x empty and y = level; vertical lines: x = position and y empty,,,
+#Note,"Delta = pi/K, K = 1, u0 = 1",,,
+,,,,
+,,,,
+panel,series,label,x,y
+,0,sharp cutoff (exact),0.002,0.1014226401
+,0,sharp cutoff (exact),0.003997995992,0.1015242659
+,0,sharp cutoff (exact),0.005995991984,0.1016261639
+,0,sharp cutoff (exact),0.007993987976,0.1017283351
+,0,sharp cutoff (exact),0.009991983968,0.1018307809
+,0,sharp cutoff (exact),0.01198997996,0.1019335025
+,0,sharp cutoff (exact),0.01398797595,0.1020365012
+,0,sharp cutoff (exact),0.01598597194,0.1021397782
+,0,sharp cutoff (exact),0.01798396794,0.1022433348
+,0,sharp cutoff (exact),0.01998196393,0.1023471723
+,0,sharp cutoff (exact),0.02197995992,0.1024512919
+,0,sharp cutoff (exact),0.02397795591,0.1025556951
+,0,sharp cutoff (exact),0.0259759519,0.102660383
+,0,sharp cutoff (exact),0.0279739479,0.102765357
+,0,sharp cutoff (exact),0.02997194389,0.1028706184
+,0,sharp cutoff (exact),0.03196993988,0.1029761685
+,0,sharp cutoff (exact),0.03396793587,0.1030820087
+,0,sharp cutoff (exact),0.03596593186,0.1031881404
+,0,sharp cutoff (exact),0.03796392786,0.1032945649
+,0,sharp cutoff (exact),0.03996192385,0.1034012835
+,0,sharp cutoff (exact),0.04195991984,0.1035082976
+,0,sharp cutoff (exact),0.04395791583,0.1036156087
+,0,sharp cutoff (exact),0.04595591182,0.1037232181
+,0,sharp cutoff (exact),0.04795390782,0.1038311272
+,0,sharp cutoff (exact),0.04995190381,0.1039393374
+,0,sharp cutoff (exact),0.0519498998,0.1040478502
+,0,sharp cutoff (exact),0.05394789579,0.104156667
+,0,sharp cutoff (exact),0.05594589178,0.1042657892
+,0,sharp cutoff (exact),0.05794388778,0.1043752183
+,0,sharp cutoff (exact),0.05994188377,0.1044849558
+,0,sharp cutoff (exact),0.06193987976,0.1045950031
+,0,sharp cutoff (exact),0.06393787575,0.1047053616
+,0,sharp cutoff (exact),0.06593587174,0.104816033
+,0,sharp cutoff (exact),0.06793386774,0.1049270187
+,0,sharp cutoff (exact),0.06993186373,0.1050383201
+,0,sharp cutoff (exact),0.07192985972,0.1051499389
+,0,sharp cutoff (exact),0.07392785571,0.1052618766
+,0,sharp cutoff (exact),0.0759258517,0.1053741347
+,0,sharp cutoff (exact),0.0779238477,0.1054867147
+,0,sharp cutoff (exact),0.07992184369,0.1055996183
+,0,sharp cutoff (exact),0.08191983968,0.105712847
+,0,sharp cutoff (exact),0.08391783567,0.1058264024
+,0,sharp cutoff (exact),0.08591583166,0.105940286
+,0,sharp cutoff (exact),0.08791382766,0.1060544996
+,0,sharp cutoff (exact),0.08991182365,0.1061690447
+,0,sharp cutoff (exact),0.09190981964,0.1062839229
+,0,sharp cutoff (exact),0.09390781563,0.106399136
+,0,sharp cutoff (exact),0.09590581162,0.1065146855
+,0,sharp cutoff (exact),0.09790380762,0.1066305731
+,0,sharp cutoff (exact),0.09990180361,0.1067468005
+,0,sharp cutoff (exact),0.1018997996,0.1068633694
+,0,sharp cutoff (exact),0.1038977956,0.1069802815
+,0,sharp cutoff (exact),0.1058957916,0.1070975385
+,0,sharp cutoff (exact),0.1078937876,0.1072151421
+,0,sharp cutoff (exact),0.1098917836,0.1073330941
+,0,sharp cutoff (exact),0.1118897796,0.1074513963
+,0,sharp cutoff (exact),0.1138877756,0.1075700503
+,0,sharp cutoff (exact),0.1158857715,0.107689058
+,0,sharp cutoff (exact),0.1178837675,0.1078084212
+,0,sharp cutoff (exact),0.1198817635,0.1079281416
+,0,sharp cutoff (exact),0.1218797595,0.1080482211
+,0,sharp cutoff (exact),0.1238777555,0.1081686615
+,0,sharp cutoff (exact),0.1258757515,0.1082894646
+,0,sharp cutoff (exact),0.1278737475,0.1084106324
+,0,sharp cutoff (exact),0.1298717435,0.1085321666
+,0,sharp cutoff (exact),0.1318697395,0.1086540692
+,0,sharp cutoff (exact),0.1338677355,0.108776342
+,0,sharp cutoff (exact),0.1358657315,0.108898987
+,0,sharp cutoff (exact),0.1378637275,0.1090220061
+,0,sharp cutoff (exact),0.1398617234,0.1091454012
+,0,sharp cutoff (exact),0.1418597194,0.1092691743
+,0,sharp cutoff (exact),0.1438577154,0.1093933274
+,0,sharp cutoff (exact),0.1458557114,0.1095178623
+,0,sharp cutoff (exact),0.1478537074,0.1096427813
+,0,sharp cutoff (exact),0.1498517034,0.1097680861
+,0,sharp cutoff (exact),0.1518496994,0.1098937789
+,0,sharp cutoff (exact),0.1538476954,0.1100198618
+,0,sharp cutoff (exact),0.1558456914,0.1101463367
+,0,sharp cutoff (exact),0.1578436874,0.1102732057
+,0,sharp cutoff (exact),0.1598416834,0.110400471
+,0,sharp cutoff (exact),0.1618396794,0.1105281346
+,0,sharp cutoff (exact),0.1638376754,0.1106561987
+,0,sharp cutoff (exact),0.1658356713,0.1107846654
+,0,sharp cutoff (exact),0.1678336673,0.1109135369
+,0,sharp cutoff (exact),0.1698316633,0.1110428152
+,0,sharp cutoff (exact),0.1718296593,0.1111725027
+,0,sharp cutoff (exact),0.1738276553,0.1113026015
+,0,sharp cutoff (exact),0.1758256513,0.1114331138
+,0,sharp cutoff (exact),0.1778236473,0.1115640419
+,0,sharp cutoff (exact),0.1798216433,0.111695388
+,0,sharp cutoff (exact),0.1818196393,0.1118271544
+,0,sharp cutoff (exact),0.1838176353,0.1119593434
+,0,sharp cutoff (exact),0.1858156313,0.1120919573
+,0,sharp cutoff (exact),0.1878136273,0.1122249984
+,0,sharp cutoff (exact),0.1898116232,0.1123584691
+,0,sharp cutoff (exact),0.1918096192,0.1124923717
+,0,sharp cutoff (exact),0.1938076152,0.1126267086
+,0,sharp cutoff (exact),0.1958056112,0.1127614822
+,0,sharp cutoff (exact),0.1978036072,0.112896695
+,0,sharp cutoff (exact),0.1998016032,0.1130323493
+,0,sharp cutoff (exact),0.2017995992,0.1131684477
+,0,sharp cutoff (exact),0.2037975952,0.1133049925
+,0,sharp cutoff (exact),0.2057955912,0.1134419864
+,0,sharp cutoff (exact),0.2077935872,0.1135794317
+,0,sharp cutoff (exact),0.2097915832,0.1137173312
+,0,sharp cutoff (exact),0.2117895792,0.1138556872
+,0,sharp cutoff (exact),0.2137875752,0.1139945024
+,0,sharp cutoff (exact),0.2157855711,0.1141337794
+,0,sharp cutoff (exact),0.2177835671,0.1142735208
+,0,sharp cutoff (exact),0.2197815631,0.1144137293
+,0,sharp cutoff (exact),0.2217795591,0.1145544075
+,0,sharp cutoff (exact),0.2237775551,0.114695558
+,0,sharp cutoff (exact),0.2257755511,0.1148371837
+,0,sharp cutoff (exact),0.2277735471,0.1149792872
+,0,sharp cutoff (exact),0.2297715431,0.1151218713
+,0,sharp cutoff (exact),0.2317695391,0.1152649387
+,0,sharp cutoff (exact),0.2337675351,0.1154084923
+,0,sharp cutoff (exact),0.2357655311,0.1155525348
+,0,sharp cutoff (exact),0.2377635271,0.1156970692
+,0,sharp cutoff (exact),0.239761523,0.1158420983
+,0,sharp cutoff (exact),0.241759519,0.1159876249
+,0,sharp cutoff (exact),0.243757515,0.116133652
+,0,sharp cutoff (exact),0.245755511,0.1162801826
+,0,sharp cutoff (exact),0.247753507,0.1164272195
+,0,sharp cutoff (exact),0.249751503,0.1165747658
+,0,sharp cutoff (exact),0.251749499,0.1167228245
+,0,sharp cutoff (exact),0.253747495,0.1168713987
+,0,sharp cutoff (exact),0.255745491,0.1170204913
+,0,sharp cutoff (exact),0.257743487,0.1171701056
+,0,sharp cutoff (exact),0.259741483,0.1173202445
+,0,sharp cutoff (exact),0.261739479,0.1174709113
+,0,sharp cutoff (exact),0.2637374749,0.1176221092
+,0,sharp cutoff (exact),0.2657354709,0.1177738413
+,0,sharp cutoff (exact),0.2677334669,0.1179261108
+,0,sharp cutoff (exact),0.2697314629,0.1180789211
+,0,sharp cutoff (exact),0.2717294589,0.1182322753
+,0,sharp cutoff (exact),0.2737274549,0.1183861768
+,0,sharp cutoff (exact),0.2757254509,0.118540629
+,0,sharp cutoff (exact),0.2777234469,0.1186956353
+,0,sharp cutoff (exact),0.2797214429,0.1188511989
+,0,sharp cutoff (exact),0.2817194389,0.1190073234
+,0,sharp cutoff (exact),0.2837174349,0.1191640122
+,0,sharp cutoff (exact),0.2857154309,0.1193212688
+,0,sharp cutoff (exact),0.2877134269,0.1194790967
+,0,sharp cutoff (exact),0.2897114228,0.1196374995
+,0,sharp cutoff (exact),0.2917094188,0.1197964807
+,0,sharp cutoff (exact),0.2937074148,0.119956044
+,0,sharp cutoff (exact),0.2957054108,0.1201161931
+,0,sharp cutoff (exact),0.2977034068,0.1202769315
+,0,sharp cutoff (exact),0.2997014028,0.1204382631
+,0,sharp cutoff (exact),0.3016993988,0.1206001915
+,0,sharp cutoff (exact),0.3036973948,0.1207627206
+,0,sharp cutoff (exact),0.3056953908,0.1209258541
+,0,sharp cutoff (exact),0.3076933868,0.121089596
+,0,sharp cutoff (exact),0.3096913828,0.1212539501
+,0,sharp cutoff (exact),0.3116893788,0.1214189203
+,0,sharp cutoff (exact),0.3136873747,0.1215845106
+,0,sharp cutoff (exact),0.3156853707,0.121750725
+,0,sharp cutoff (exact),0.3176833667,0.1219175675
+,0,sharp cutoff (exact),0.3196813627,0.1220850422
+,0,sharp cutoff (exact),0.3216793587,0.1222531532
+,0,sharp cutoff (exact),0.3236773547,0.1224219046
+,0,sharp cutoff (exact),0.3256753507,0.1225913006
+,0,sharp cutoff (exact),0.3276733467,0.1227613455
+,0,sharp cutoff (exact),0.3296713427,0.1229320435
+,0,sharp cutoff (exact),0.3316693387,0.1231033989
+,0,sharp cutoff (exact),0.3336673347,0.1232754161
+,0,sharp cutoff (exact),0.3356653307,0.1234480994
+,0,sharp cutoff (exact),0.3376633267,0.1236214533
+,0,sharp cutoff (exact),0.3396613226,0.1237954822
+,0,sharp cutoff (exact),0.3416593186,0.1239701907
+,0,sharp cutoff (exact),0.3436573146,0.1241455833
+,0,sharp cutoff (exact),0.3456553106,0.1243216646
+,0,sharp cutoff (exact),0.3476533066,0.1244984392
+,0,sharp cutoff (exact),0.3496513026,0.1246759119
+,0,sharp cutoff (exact),0.3516492986,0.1248540874
+,0,sharp cutoff (exact),0.3536472946,0.1250329704
+,0,sharp cutoff (exact),0.3556452906,0.1252125659
+,0,sharp cutoff (exact),0.3576432866,0.1253928785
+,0,sharp cutoff (exact),0.3596412826,0.1255739134
+,0,sharp cutoff (exact),0.3616392786,0.1257556754
+,0,sharp cutoff (exact),0.3636372745,0.1259381696
+,0,sharp cutoff (exact),0.3656352705,0.1261214011
+,0,sharp cutoff (exact),0.3676332665,0.1263053749
+,0,sharp cutoff (exact),0.3696312625,0.1264900962
+,0,sharp cutoff (exact),0.3716292585,0.1266755703
+,0,sharp cutoff (exact),0.3736272545,0.1268618024
+,0,sharp cutoff (exact),0.3756252505,0.127048798
+,0,sharp cutoff (exact),0.3776232465,0.1272365622
+,0,sharp cutoff (exact),0.3796212425,0.1274251007
+,0,sharp cutoff (exact),0.3816192385,0.1276144188
+,0,sharp cutoff (exact),0.3836172345,0.1278045222
+,0,sharp cutoff (exact),0.3856152305,0.1279954164
+,0,sharp cutoff (exact),0.3876132265,0.1281871071
+,0,sharp cutoff (exact),0.3896112224,0.1283796
+,0,sharp cutoff (exact),0.3916092184,0.1285729009
+,0,sharp cutoff (exact),0.3936072144,0.1287670157
+,0,sharp cutoff (exact),0.3956052104,0.1289619502
+,0,sharp cutoff (exact),0.3976032064,0.1291577105
+,0,sharp cutoff (exact),0.3996012024,0.1293543025
+,0,sharp cutoff (exact),0.4015991984,0.1295517323
+,0,sharp cutoff (exact),0.4035971944,0.129750006
+,0,sharp cutoff (exact),0.4055951904,0.12994913
+,0,sharp cutoff (exact),0.4075931864,0.1301491105
+,0,sharp cutoff (exact),0.4095911824,0.1303499538
+,0,sharp cutoff (exact),0.4115891784,0.1305516663
+,0,sharp cutoff (exact),0.4135871743,0.1307542546
+,0,sharp cutoff (exact),0.4155851703,0.1309577252
+,0,sharp cutoff (exact),0.4175831663,0.1311620847
+,0,sharp cutoff (exact),0.4195811623,0.1313673398
+,0,sharp cutoff (exact),0.4215791583,0.1315734973
+,0,sharp cutoff (exact),0.4235771543,0.1317805641
+,0,sharp cutoff (exact),0.4255751503,0.131988547
+,0,sharp cutoff (exact),0.4275731463,0.1321974531
+,0,sharp cutoff (exact),0.4295711423,0.1324072894
+,0,sharp cutoff (exact),0.4315691383,0.1326180631
+,0,sharp cutoff (exact),0.4335671343,0.1328297815
+,0,sharp cutoff (exact),0.4355651303,0.1330424517
+,0,sharp cutoff (exact),0.4375631263,0.1332560813
+,0,sharp cutoff (exact),0.4395611222,0.1334706777
+,0,sharp cutoff (exact),0.4415591182,0.1336862485
+,0,sharp cutoff (exact),0.4435571142,0.1339028012
+,0,sharp cutoff (exact),0.4455551102,0.1341203437
+,0,sharp cutoff (exact),0.4475531062,0.1343388837
+,0,sharp cutoff (exact),0.4495511022,0.1345584292
+,0,sharp cutoff (exact),0.4515490982,0.1347789882
+,0,sharp cutoff (exact),0.4535470942,0.1350005687
+,0,sharp cutoff (exact),0.4555450902,0.1352231789
+,0,sharp cutoff (exact),0.4575430862,0.1354468272
+,0,sharp cutoff (exact),0.4595410822,0.1356715218
+,0,sharp cutoff (exact),0.4615390782,0.1358972714
+,0,sharp cutoff (exact),0.4635370741,0.1361240843
+,0,sharp cutoff (exact),0.4655350701,0.1363519693
+,0,sharp cutoff (exact),0.4675330661,0.1365809352
+,0,sharp cutoff (exact),0.4695310621,0.1368109909
+,0,sharp cutoff (exact),0.4715290581,0.1370421453
+,0,sharp cutoff (exact),0.4735270541,0.1372744075
+,0,sharp cutoff (exact),0.4755250501,0.1375077867
+,0,sharp cutoff (exact),0.4775230461,0.1377422922
+,0,sharp cutoff (exact),0.4795210421,0.1379779335
+,0,sharp cutoff (exact),0.4815190381,0.13821472
+,0,sharp cutoff (exact),0.4835170341,0.1384526615
+,0,sharp cutoff (exact),0.4855150301,0.1386917677
+,0,sharp cutoff (exact),0.4875130261,0.1389320484
+,0,sharp cutoff (exact),0.489511022,0.1391735137
+,0,sharp cutoff (exact),0.491509018,0.1394161737
+,0,sharp cutoff (exact),0.493507014,0.1396600386
+,0,sharp cutoff (exact),0.49550501,0.1399051189
+,0,sharp cutoff (exact),0.497503006,0.1401514251
+,0,sharp cutoff (exact),0.499501002,0.1403989677
+,0,sharp cutoff (exact),0.501498998,0.1406477576
+,0,sharp cutoff (exact),0.503496994,0.1408978057
+,0,sharp cutoff (exact),0.50549499,0.141149123
+,0,sharp cutoff (exact),0.507492986,0.1414017207
+,0,sharp cutoff (exact),0.509490982,0.1416556102
+,0,sharp cutoff (exact),0.511488978,0.1419108028
+,0,sharp cutoff (exact),0.5134869739,0.1421673104
+,0,sharp cutoff (exact),0.5154849699,0.1424251445
+,0,sharp cutoff (exact),0.5174829659,0.1426843171
+,0,sharp cutoff (exact),0.5194809619,0.1429448404
+,0,sharp cutoff (exact),0.5214789579,0.1432067266
+,0,sharp cutoff (exact),0.5234769539,0.1434699879
+,0,sharp cutoff (exact),0.5254749499,0.1437346371
+,0,sharp cutoff (exact),0.5274729459,0.1440006869
+,0,sharp cutoff (exact),0.5294709419,0.1442681501
+,0,sharp cutoff (exact),0.5314689379,0.1445370398
+,0,sharp cutoff (exact),0.5334669339,0.1448073692
+,0,sharp cutoff (exact),0.5354649299,0.1450791518
+,0,sharp cutoff (exact),0.5374629259,0.1453524012
+,0,sharp cutoff (exact),0.5394609218,0.1456271311
+,0,sharp cutoff (exact),0.5414589178,0.1459033556
+,0,sharp cutoff (exact),0.5434569138,0.1461810887
+,0,sharp cutoff (exact),0.5454549098,0.1464603449
+,0,sharp cutoff (exact),0.5474529058,0.1467411387
+,0,sharp cutoff (exact),0.5494509018,0.1470234849
+,0,sharp cutoff (exact),0.5514488978,0.1473073983
+,0,sharp cutoff (exact),0.5534468938,0.1475928943
+,0,sharp cutoff (exact),0.5554448898,0.1478799882
+,0,sharp cutoff (exact),0.5574428858,0.1481686955
+,0,sharp cutoff (exact),0.5594408818,0.1484590321
+,0,sharp cutoff (exact),0.5614388778,0.1487510141
+,0,sharp cutoff (exact),0.5634368737,0.1490446577
+,0,sharp cutoff (exact),0.5654348697,0.1493399794
+,0,sharp cutoff (exact),0.5674328657,0.1496369959
+,0,sharp cutoff (exact),0.5694308617,0.1499357244
+,0,sharp cutoff (exact),0.5714288577,0.1502361819
+,0,sharp cutoff (exact),0.5734268537,0.150538386
+,0,sharp cutoff (exact),0.5754248497,0.1508423544
+,0,sharp cutoff (exact),0.5774228457,0.1511481051
+,0,sharp cutoff (exact),0.5794208417,0.1514556564
+,0,sharp cutoff (exact),0.5814188377,0.1517650268
+,0,sharp cutoff (exact),0.5834168337,0.1520762352
+,0,sharp cutoff (exact),0.5854148297,0.1523893006
+,0,sharp cutoff (exact),0.5874128257,0.1527042424
+,0,sharp cutoff (exact),0.5894108216,0.1530210803
+,0,sharp cutoff (exact),0.5914088176,0.1533398344
+,0,sharp cutoff (exact),0.5934068136,0.1536605248
+,0,sharp cutoff (exact),0.5954048096,0.1539831721
+,0,sharp cutoff (exact),0.5974028056,0.1543077974
+,0,sharp cutoff (exact),0.5994008016,0.1546344218
+,0,sharp cutoff (exact),0.6013987976,0.1549630668
+,0,sharp cutoff (exact),0.6033967936,0.1552937545
+,0,sharp cutoff (exact),0.6053947896,0.155626507
+,0,sharp cutoff (exact),0.6073927856,0.155961347
+,0,sharp cutoff (exact),0.6093907816,0.1562982974
+,0,sharp cutoff (exact),0.6113887776,0.1566373815
+,0,sharp cutoff (exact),0.6133867735,0.1569786231
+,0,sharp cutoff (exact),0.6153847695,0.1573220463
+,0,sharp cutoff (exact),0.6173827655,0.1576676755
+,0,sharp cutoff (exact),0.6193807615,0.1580155355
+,0,sharp cutoff (exact),0.6213787575,0.1583656518
+,0,sharp cutoff (exact),0.6233767535,0.1587180499
+,0,sharp cutoff (exact),0.6253747495,0.1590727561
+,0,sharp cutoff (exact),0.6273727455,0.1594297968
+,0,sharp cutoff (exact),0.6293707415,0.1597891991
+,0,sharp cutoff (exact),0.6313687375,0.1601509905
+,0,sharp cutoff (exact),0.6333667335,0.1605151988
+,0,sharp cutoff (exact),0.6353647295,0.1608818524
+,0,sharp cutoff (exact),0.6373627255,0.1612509803
+,0,sharp cutoff (exact),0.6393607214,0.1616226119
+,0,sharp cutoff (exact),0.6413587174,0.1619967769
+,0,sharp cutoff (exact),0.6433567134,0.1623735059
+,0,sharp cutoff (exact),0.6453547094,0.1627528297
+,0,sharp cutoff (exact),0.6473527054,0.1631347799
+,0,sharp cutoff (exact),0.6493507014,0.1635193884
+,0,sharp cutoff (exact),0.6513486974,0.1639066879
+,0,sharp cutoff (exact),0.6533466934,0.1642967115
+,0,sharp cutoff (exact),0.6553446894,0.1646894932
+,0,sharp cutoff (exact),0.6573426854,0.1650850671
+,0,sharp cutoff (exact),0.6593406814,0.1654834684
+,0,sharp cutoff (exact),0.6613386774,0.1658847327
+,0,sharp cutoff (exact),0.6633366733,0.1662888964
+,0,sharp cutoff (exact),0.6653346693,0.1666959963
+,0,sharp cutoff (exact),0.6673326653,0.1671060703
+,0,sharp cutoff (exact),0.6693306613,0.1675191566
+,0,sharp cutoff (exact),0.6713286573,0.1679352943
+,0,sharp cutoff (exact),0.6733266533,0.1683545233
+,0,sharp cutoff (exact),0.6753246493,0.1687768842
+,0,sharp cutoff (exact),0.6773226453,0.1692024184
+,0,sharp cutoff (exact),0.6793206413,0.169631168
+,0,sharp cutoff (exact),0.6813186373,0.1700631759
+,0,sharp cutoff (exact),0.6833166333,0.1704984861
+,0,sharp cutoff (exact),0.6853146293,0.1709371432
+,0,sharp cutoff (exact),0.6873126253,0.1713791928
+,0,sharp cutoff (exact),0.6893106212,0.1718246813
+,0,sharp cutoff (exact),0.6913086172,0.1722736562
+,0,sharp cutoff (exact),0.6933066132,0.1727261657
+,0,sharp cutoff (exact),0.6953046092,0.1731822593
+,0,sharp cutoff (exact),0.6973026052,0.1736419872
+,0,sharp cutoff (exact),0.6993006012,0.1741054008
+,0,sharp cutoff (exact),0.7012985972,0.1745725526
+,0,sharp cutoff (exact),0.7032965932,0.1750434961
+,0,sharp cutoff (exact),0.7052945892,0.1755182859
+,0,sharp cutoff (exact),0.7072925852,0.1759969778
+,0,sharp cutoff (exact),0.7092905812,0.1764796288
+,0,sharp cutoff (exact),0.7112885772,0.176966297
+,0,sharp cutoff (exact),0.7132865731,0.1774570419
+,0,sharp cutoff (exact),0.7152845691,0.1779519242
+,0,sharp cutoff (exact),0.7172825651,0.178451006
+,0,sharp cutoff (exact),0.7192805611,0.1789543507
+,0,sharp cutoff (exact),0.7212785571,0.179462023
+,0,sharp cutoff (exact),0.7232765531,0.1799740892
+,0,sharp cutoff (exact),0.7252745491,0.180490617
+,0,sharp cutoff (exact),0.7272725451,0.1810116758
+,0,sharp cutoff (exact),0.7292705411,0.1815373363
+,0,sharp cutoff (exact),0.7312685371,0.182067671
+,0,sharp cutoff (exact),0.7332665331,0.1826027539
+,0,sharp cutoff (exact),0.7352645291,0.1831426611
+,0,sharp cutoff (exact),0.7372625251,0.18368747
+,0,sharp cutoff (exact),0.739260521,0.1842372601
+,0,sharp cutoff (exact),0.741258517,0.1847921127
+,0,sharp cutoff (exact),0.743256513,0.1853521112
+,0,sharp cutoff (exact),0.745254509,0.1859173408
+,0,sharp cutoff (exact),0.747252505,0.1864878888
+,0,sharp cutoff (exact),0.749250501,0.1870638448
+,0,sharp cutoff (exact),0.751248497,0.1876453006
+,0,sharp cutoff (exact),0.753246493,0.1882323499
+,0,sharp cutoff (exact),0.755244489,0.1888250893
+,0,sharp cutoff (exact),0.757242485,0.1894236175
+,0,sharp cutoff (exact),0.759240481,0.1900280358
+,0,sharp cutoff (exact),0.761238477,0.190638448
+,0,sharp cutoff (exact),0.7632364729,0.1912549609
+,0,sharp cutoff (exact),0.7652344689,0.1918776837
+,0,sharp cutoff (exact),0.7672324649,0.1925067287
+,0,sharp cutoff (exact),0.7692304609,0.1931422111
+,0,sharp cutoff (exact),0.7712284569,0.1937842493
+,0,sharp cutoff (exact),0.7732264529,0.1944329647
+,0,sharp cutoff (exact),0.7752244489,0.1950884823
+,0,sharp cutoff (exact),0.7772224449,0.1957509302
+,0,sharp cutoff (exact),0.7792204409,0.1964204403
+,0,sharp cutoff (exact),0.7812184369,0.197097148
+,0,sharp cutoff (exact),0.7832164329,0.1977811927
+,0,sharp cutoff (exact),0.7852144289,0.1984727177
+,0,sharp cutoff (exact),0.7872124248,0.1991718705
+,0,sharp cutoff (exact),0.7892104208,0.1998788026
+,0,sharp cutoff (exact),0.7912084168,0.2005936702
+,0,sharp cutoff (exact),0.7932064128,0.2013166341
+,0,sharp cutoff (exact),0.7952044088,0.2020478599
+,0,sharp cutoff (exact),0.7972024048,0.2027875179
+,0,sharp cutoff (exact),0.7992004008,0.2035357841
+,0,sharp cutoff (exact),0.8011983968,0.2042928394
+,0,sharp cutoff (exact),0.8031963928,0.2050588707
+,0,sharp cutoff (exact),0.8051943888,0.2058340704
+,0,sharp cutoff (exact),0.8071923848,0.2066186374
+,0,sharp cutoff (exact),0.8091903808,0.2074127766
+,0,sharp cutoff (exact),0.8111883768,0.2082166998
+,0,sharp cutoff (exact),0.8131863727,0.2090306254
+,0,sharp cutoff (exact),0.8151843687,0.2098547792
+,0,sharp cutoff (exact),0.8171823647,0.2106893947
+,0,sharp cutoff (exact),0.8191803607,0.211534713
+,0,sharp cutoff (exact),0.8211783567,0.2123909834
+,0,sharp cutoff (exact),0.8231763527,0.2132584639
+,0,sharp cutoff (exact),0.8251743487,0.2141374217
+,0,sharp cutoff (exact),0.8271723447,0.2150281329
+,0,sharp cutoff (exact),0.8291703407,0.2159308839
+,0,sharp cutoff (exact),0.8311683367,0.2168459712
+,0,sharp cutoff (exact),0.8331663327,0.2177737022
+,0,sharp cutoff (exact),0.8351643287,0.2187143956
+,0,sharp cutoff (exact),0.8371623246,0.219668382
+,0,sharp cutoff (exact),0.8391603206,0.2206360045
+,0,sharp cutoff (exact),0.8411583166,0.2216176193
+,0,sharp cutoff (exact),0.8431563126,0.2226135966
+,0,sharp cutoff (exact),0.8451543086,0.2236243208
+,0,sharp cutoff (exact),0.8471523046,0.2246501917
+,0,sharp cutoff (exact),0.8491503006,0.2256916254
+,0,sharp cutoff (exact),0.8511482966,0.2267490547
+,0,sharp cutoff (exact),0.8531462926,0.2278229304
+,0,sharp cutoff (exact),0.8551442886,0.228913722
+,0,sharp cutoff (exact),0.8571422846,0.2300219194
+,0,sharp cutoff (exact),0.8591402806,0.231148033
+,0,sharp cutoff (exact),0.8611382766,0.2322925958
+,0,sharp cutoff (exact),0.8631362725,0.2334561645
+,0,sharp cutoff (exact),0.8651342685,0.2346393205
+,0,sharp cutoff (exact),0.8671322645,0.2358426718
+,0,sharp cutoff (exact),0.8691302605,0.2370668548
+,0,sharp cutoff (exact),0.8711282565,0.2383125353
+,0,sharp cutoff (exact),0.8731262525,0.2395804113
+,0,sharp cutoff (exact),0.8751242485,0.2408712144
+,0,sharp cutoff (exact),0.8771222445,0.242185712
+,0,sharp cutoff (exact),0.8791202405,0.2435247103
+,0,sharp cutoff (exact),0.8811182365,0.2448890561
+,0,sharp cutoff (exact),0.8831162325,0.2462796401
+,0,sharp cutoff (exact),0.8851142285,0.2476974
+,0,sharp cutoff (exact),0.8871122244,0.2491433232
+,0,sharp cutoff (exact),0.8891102204,0.2506184512
+,0,sharp cutoff (exact),0.8911082164,0.252123883
+,0,sharp cutoff (exact),0.8931062124,0.2536607796
+,0,sharp cutoff (exact),0.8951042084,0.2552303687
+,0,sharp cutoff (exact),0.8971022044,0.25683395
+,0,sharp cutoff (exact),0.8991002004,0.2584729006
+,0,sharp cutoff (exact),0.9010981964,0.2601486814
+,0,sharp cutoff (exact),0.9030961924,0.2618628441
+,0,sharp cutoff (exact),0.9050941884,0.2636170388
+,0,sharp cutoff (exact),0.9070921844,0.2654130221
+,0,sharp cutoff (exact),0.9090901804,0.2672526668
+,0,sharp cutoff (exact),0.9110881764,0.2691379725
+,0,sharp cutoff (exact),0.9130861723,0.2710710764
+,0,sharp cutoff (exact),0.9150841683,0.2730542671
+,0,sharp cutoff (exact),0.9170821643,0.2750899985
+,0,sharp cutoff (exact),0.9190801603,0.2771809064
+,0,sharp cutoff (exact),0.9210781563,0.2793298265
+,0,sharp cutoff (exact),0.9230761523,0.2815398155
+,0,sharp cutoff (exact),0.9250741483,0.283814174
+,0,sharp cutoff (exact),0.9270721443,0.2861564732
+,0,sharp cutoff (exact),0.9290701403,0.2885705855
+,0,sharp cutoff (exact),0.9310681363,0.2910607186
+,0,sharp cutoff (exact),0.9330661323,0.2936314555
+,0,sharp cutoff (exact),0.9350641283,0.2962878003
+,0,sharp cutoff (exact),0.9370621242,0.299035231
+,0,sharp cutoff (exact),0.9390601202,0.3018797609
+,0,sharp cutoff (exact),0.9410581162,0.3048280109
+,0,sharp cutoff (exact),0.9430561122,0.3078872929
+,0,sharp cutoff (exact),0.9450541082,0.3110657098
+,0,sharp cutoff (exact),0.9470521042,0.3143722731
+,0,sharp cutoff (exact),0.9490501002,0.3178170432
+,0,sharp cutoff (exact),0.9510480962,0.3214112981
+,0,sharp cutoff (exact),0.9530460922,0.3251677379
+,0,sharp cutoff (exact),0.9550440882,0.3291007323
+,0,sharp cutoff (exact),0.9570420842,0.3332266267
+,0,sharp cutoff (exact),0.9590400802,0.3375641196
+,0,sharp cutoff (exact),0.9610380762,0.3421347357
+,0,sharp cutoff (exact),0.9630360721,0.3469634237
+,0,sharp cutoff (exact),0.9650340681,0.3520793204
+,0,sharp cutoff (exact),0.9670320641,0.357516741
+,0,sharp cutoff (exact),0.9690300601,0.3633164795
+,0,sharp cutoff (exact),0.9710280561,0.3695275441
+,0,sharp cutoff (exact),0.9730260521,0.376209516
+,0,sharp cutoff (exact),0.9750240481,0.3834358173
+,0,sharp cutoff (exact),0.9770220441,0.3912983488
+,0,sharp cutoff (exact),0.9790200401,0.3999142449
+,0,sharp cutoff (exact),0.9810180361,0.409436025
+,0,sharp cutoff (exact),0.9830160321,0.4200674206
+,0,sharp cutoff (exact),0.9850140281,0.4320891658
+,0,sharp cutoff (exact),0.987012024,0.4459033767
+,0,sharp cutoff (exact),0.98901002,0.4621153289
+,0,sharp cutoff (exact),0.991008016,0.4816982532
+,0,sharp cutoff (exact),0.993006012,0.5063686158
+,0,sharp cutoff (exact),0.995004008,0.5396089207
+,0,sharp cutoff (exact),0.997002004,0.5904270471
+,0,sharp cutoff (exact),0.999,0.7006025437
+,1,box (top-hat),0.02,0.1666776328
+,1,box (top-hat),0.06,0.166765446
+,1,box (top-hat),0.1,0.1669414685
+,1,box (top-hat),0.14,0.1672064987
+,1,box (top-hat),0.18,0.1675617482
+,1,box (top-hat),0.22,0.168008854
+,1,box (top-hat),0.26,0.1685498986
+,1,box (top-hat),0.3,0.1691874365
+,1,box (top-hat),0.34,0.1699245269
+,1,box (top-hat),0.38,0.1707647722
+,1,box (top-hat),0.42,0.1717123673
+,1,box (top-hat),0.46,0.1727721551
+,1,box (top-hat),0.5,0.1739496966
+,1,box (top-hat),0.54,0.1752513503
+,1,box (top-hat),0.58,0.1766843705
+,1,box (top-hat),0.62,0.1782570202
+,1,box (top-hat),0.66,0.1799787087
+,1,box (top-hat),0.7,0.1818601545
+,1,box (top-hat),0.74,0.1839135795
+,1,box (top-hat),0.78,0.1861529436
+,1,box (top-hat),0.82,0.1885942283
+,1,box (top-hat),0.86,0.1912557793
+,1,box (top-hat),0.9,0.194158725
+,1,box (top-hat),0.94,0.1973274927
+,1,box (top-hat),0.98,0.2007904433
+,2,Gaussian,0.02,0.1628719674
+,2,Gaussian,0.06,0.1629076987
+,2,Gaussian,0.1,0.1629792008
+,2,Gaussian,0.14,0.163086559
+,2,Gaussian,0.18,0.1632299017
+,2,Gaussian,0.22,0.1634093984
+,2,Gaussian,0.26,0.1636252637
+,2,Gaussian,0.3,0.1638777546
+,2,Gaussian,0.34,0.1641671732
+,2,Gaussian,0.38,0.1644938664
+,2,Gaussian,0.42,0.1648582279
+,2,Gaussian,0.46,0.1652606973
+,2,Gaussian,0.5,0.1657017624
+,2,Gaussian,0.54,0.1661819609
+,2,Gaussian,0.58,0.1667018805
+,2,Gaussian,0.62,0.1672621607
+,2,Gaussian,0.66,0.1678634941
+,2,Gaussian,0.7,0.1685066295
+,2,Gaussian,0.74,0.1691923717
+,2,Gaussian,0.78,0.1699215852
+,2,Gaussian,0.82,0.1706951953
+,2,Gaussian,0.86,0.171514191
+,2,Gaussian,0.9,0.1723796272
+,2,Gaussian,0.94,0.1732926277
+,2,Gaussian,0.98,0.1742543878
+,3,long-wave limit 1/6,,0.1666666667
+,4,long-wave limit 1/pi^2 (sharp cutoff),,0.1013211836

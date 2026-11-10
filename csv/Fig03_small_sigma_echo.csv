@@ -1,0 +1,180 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,Plotted data of Fig. 3 of the paper: small-sigma cell eddy viscosity against the correlation ratio mu = lambda/R,,,
+#Ref. [1] Xu 2026,https://doi.org/10.5281/zenodo.24096071,"Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation",,
+#Note,x = \mu=\lambda/R (log axis); y = \langle\nu_e\rangle/\sigma^2 (log axis),,,
+#Note,horizontal lines: x empty and y = level; vertical lines: x = position and y empty,,,
+,,,,
+,,,,
+panel,series,label,x,y
+,0,"pinned, exponential covariance",0.01,0.001554970739
+,0,"pinned, exponential covariance",0.01258925412,0.001921967289
+,0,"pinned, exponential covariance",0.01584893192,0.002364655184
+,0,"pinned, exponential covariance",0.01995262315,0.002892349649
+,0,"pinned, exponential covariance",0.02511886432,0.003511816215
+,0,"pinned, exponential covariance",0.0316227766,0.004224656175
+,0,"pinned, exponential covariance",0.03981071706,0.005023694431
+,0,"pinned, exponential covariance",0.05011872336,0.005888553563
+,0,"pinned, exponential covariance",0.06309573445,0.006781246767
+,0,"pinned, exponential covariance",0.07943282347,0.007643707816
+,0,"pinned, exponential covariance",0.1,0.008400347255
+,0,"pinned, exponential covariance",0.1258925412,0.008968608122
+,0,"pinned, exponential covariance",0.1584893192,0.009277182072
+,0,"pinned, exponential covariance",0.1995262315,0.009285679154
+,0,"pinned, exponential covariance",0.2511886432,0.008996267408
+,0,"pinned, exponential covariance",0.316227766,0.008451514584
+,0,"pinned, exponential covariance",0.3981071706,0.00772059083
+,0,"pinned, exponential covariance",0.5011872336,0.00688129685
+,0,"pinned, exponential covariance",0.6309573445,0.006005024925
+,0,"pinned, exponential covariance",0.7943282347,0.005148029664
+,0,"pinned, exponential covariance",1,0.0043488006
+,0,"pinned, exponential covariance",1.258925412,0.003629548866
+,0,"pinned, exponential covariance",1.584893192,0.002999646771
+,0,"pinned, exponential covariance",1.995262315,0.002459456973
+,0,"pinned, exponential covariance",2.511886432,0.002003701107
+,0,"pinned, exponential covariance",3.16227766,0.001624052619
+,0,"pinned, exponential covariance",3.981071706,0.001310947489
+,0,"pinned, exponential covariance",5.011872336,0.001054743594
+,0,"pinned, exponential covariance",6.309573445,0.0008463942556
+,0,"pinned, exponential covariance",7.943282347,0.0006777870434
+,0,"pinned, exponential covariance",10,0.0005418671903
+,0,"pinned, exponential covariance",12.58925412,0.000432631956
+,0,"pinned, exponential covariance",15.84893192,0.0003450545653
+,0,"pinned, exponential covariance",19.95262315,0.0002749754049
+,0,"pinned, exponential covariance",25.11886432,0.000218983408
+,0,"pinned, exponential covariance",31.6227766,0.0001743006716
+,0,"pinned, exponential covariance",39.81071706,0.0001386770176
+,0,"pinned, exponential covariance",50.11872336,0.0001102973191
+,0,"pinned, exponential covariance",63.09573445,8.770214658e-05
+,0,"pinned, exponential covariance",79.43282347,6.972105624e-05
+,0,"pinned, exponential covariance",100,5.541724975e-05
+,1,"pinned, Gaussian covariance",0.01,0.001593725896
+,1,"pinned, Gaussian covariance",0.01258925412,0.001983081526
+,1,"pinned, Gaussian covariance",0.01584893192,0.002460008483
+,1,"pinned, Gaussian covariance",0.01995262315,0.003039804292
+,1,"pinned, Gaussian covariance",0.02511886432,0.003737772265
+,1,"pinned, Gaussian covariance",0.0316227766,0.004567256432
+,1,"pinned, Gaussian covariance",0.03981071706,0.005536345728
+,1,"pinned, Gaussian covariance",0.05011872336,0.00664272348
+,1,"pinned, Gaussian covariance",0.06309573445,0.007866159111
+,1,"pinned, Gaussian covariance",0.07943282347,0.009158459008
+,1,"pinned, Gaussian covariance",0.1,0.01043167527
+,1,"pinned, Gaussian covariance",0.1258925412,0.01154761801
+,1,"pinned, Gaussian covariance",0.1584893192,0.01231600077
+,1,"pinned, Gaussian covariance",0.1995262315,0.01251511654
+,1,"pinned, Gaussian covariance",0.2511886432,0.01195471259
+,1,"pinned, Gaussian covariance",0.316227766,0.0105904283
+,1,"pinned, Gaussian covariance",0.3981071706,0.008633850707
+,1,"pinned, Gaussian covariance",0.5011872336,0.006505499197
+,1,"pinned, Gaussian covariance",0.6309573445,0.004600935456
+,1,"pinned, Gaussian covariance",0.7943282347,0.003112972729
+,1,"pinned, Gaussian covariance",1,0.002047830657
+,1,"pinned, Gaussian covariance",1.258925412,0.001324560373
+,1,"pinned, Gaussian covariance",1.584893192,0.0008482578823
+,1,"pinned, Gaussian covariance",1.995262315,0.0005400563187
+,1,"pinned, Gaussian covariance",2.511886432,0.0003426375383
+,1,"pinned, Gaussian covariance",3.16227766,0.0002169282259
+,1,"pinned, Gaussian covariance",3.981071706,0.0001371632908
+,1,"pinned, Gaussian covariance",5.011872336,8.66591338e-05
+,1,"pinned, Gaussian covariance",6.309573445,5.472376353e-05
+,1,"pinned, Gaussian covariance",7.943282347,3.454643805e-05
+,1,"pinned, Gaussian covariance",10,2.180451168e-05
+,1,"pinned, Gaussian covariance",12.58925412,1.376057282e-05
+,1,"pinned, Gaussian covariance",15.84893192,8.683470601e-06
+,1,"pinned, Gaussian covariance",19.95262315,5.479351625e-06
+,1,"pinned, Gaussian covariance",25.11886432,3.457417068e-06
+,1,"pinned, Gaussian covariance",31.6227766,2.181554304e-06
+,1,"pinned, Gaussian covariance",39.81071706,1.376496216e-06
+,1,"pinned, Gaussian covariance",50.11872336,8.685217449e-07
+,1,"pinned, Gaussian covariance",63.09573445,5.480046911e-07
+,1,"pinned, Gaussian covariance",79.43282347,3.45769383e-07
+,1,"pinned, Gaussian covariance",100,2.181664476e-07
+,2,"free, exponential covariance",0.01,0.003237297679
+,2,"free, exponential covariance",0.01258925412,0.004043456143
+,2,"free, exponential covariance",0.01584893192,0.005040895936
+,2,"free, exponential covariance",0.01995262315,0.006269356905
+,2,"free, exponential covariance",0.02511886432,0.007773719214
+,2,"free, exponential covariance",0.0316227766,0.009602831866
+,2,"free, exponential covariance",0.03981071706,0.01180704708
+,2,"free, exponential covariance",0.05011872336,0.01443395236
+,2,"free, exponential covariance",0.06309573445,0.01752186912
+,2,"free, exponential covariance",0.07943282347,0.02109107147
+,2,"free, exponential covariance",0.1,0.02513357235
+,2,"free, exponential covariance",0.1258925412,0.0296037598
+,2,"free, exponential covariance",0.1584893192,0.03441358137
+,2,"free, exponential covariance",0.1995262315,0.03943602839
+,2,"free, exponential covariance",0.2511886432,0.04451824294
+,2,"free, exponential covariance",0.316227766,0.04950146077
+,2,"free, exponential covariance",0.3981071706,0.0542418963
+,2,"free, exponential covariance",0.5011872336,0.05862667319
+,2,"free, exponential covariance",0.6309573445,0.06258161918
+,2,"free, exponential covariance",0.7943282347,0.06607109214
+,2,"free, exponential covariance",1,0.06909220768
+,2,"free, exponential covariance",1.258925412,0.07166642132
+,2,"free, exponential covariance",1.584893192,0.07383087136
+,2,"free, exponential covariance",1.995262315,0.07563093439
+,2,"free, exponential covariance",2.511886432,0.07711458068
+,2,"free, exponential covariance",3.16227766,0.07832853829
+,2,"free, exponential covariance",3.981071706,0.0793159808
+,2,"free, exponential covariance",5.011872336,0.08011535958
+,2,"free, exponential covariance",6.309573445,0.08076002133
+,2,"free, exponential covariance",7.943282347,0.08127831891
+,2,"free, exponential covariance",10,0.08169400035
+,2,"free, exponential covariance",12.58925412,0.08202672928
+,2,"free, exponential covariance",15.84893192,0.08229264314
+,2,"free, exponential covariance",19.95262315,0.0825048941
+,2,"free, exponential covariance",25.11886432,0.08267414337
+,2,"free, exponential covariance",31.6227766,0.08280899629
+,2,"free, exponential covariance",39.81071706,0.08291637556
+,2,"free, exponential covariance",50.11872336,0.0830018356
+,2,"free, exponential covariance",63.09573445,0.08306982368
+,2,"free, exponential covariance",79.43282347,0.08312389475
+,2,"free, exponential covariance",100,0.08316688676
+,3,mu/6 (small-mu asymptote),0.01,0.001666666667
+,3,mu/6 (small-mu asymptote),0.01258925412,0.00209820902
+,3,mu/6 (small-mu asymptote),0.01584893192,0.002641488654
+,3,mu/6 (small-mu asymptote),0.01995262315,0.003325437192
+,3,mu/6 (small-mu asymptote),0.02511886432,0.004186477386
+,3,mu/6 (small-mu asymptote),0.0316227766,0.005270462767
+,3,mu/6 (small-mu asymptote),0.03981071706,0.006635119509
+,3,mu/6 (small-mu asymptote),0.05011872336,0.00835312056
+,3,mu/6 (small-mu asymptote),0.06309573445,0.01051595574
+,3,mu/6 (small-mu asymptote),0.07943282347,0.01323880391
+,4,1/(180 mu) (large-mu asymptote),2.511886432,0.002211706503
+,4,1/(180 mu) (large-mu asymptote),3.16227766,0.001756820922
+,4,1/(180 mu) (large-mu asymptote),3.981071706,0.001395492462
+,4,1/(180 mu) (large-mu asymptote),5.011872336,0.001108479064
+,4,1/(180 mu) (large-mu asymptote),6.309573445,0.000880496218
+,4,1/(180 mu) (large-mu asymptote),7.943282347,0.0006994030066
+,4,1/(180 mu) (large-mu asymptote),10,0.0005555555556
+,4,1/(180 mu) (large-mu asymptote),12.58925412,0.0004412934637
+,4,1/(180 mu) (large-mu asymptote),15.84893192,0.000350531858
+,4,1/(180 mu) (large-mu asymptote),19.95262315,0.000278437352
+,4,1/(180 mu) (large-mu asymptote),25.11886432,0.0002211706503
+,4,1/(180 mu) (large-mu asymptote),31.6227766,0.0001756820922
+,4,1/(180 mu) (large-mu asymptote),39.81071706,0.0001395492462
+,4,1/(180 mu) (large-mu asymptote),50.11872336,0.0001108479064
+,4,1/(180 mu) (large-mu asymptote),63.09573445,8.80496218e-05
+,4,1/(180 mu) (large-mu asymptote),79.43282347,6.994030066e-05
+,4,1/(180 mu) (large-mu asymptote),100,5.555555556e-05
+,5,"1/12 (free cells, saturation)",1.258925412,0.08333333333
+,5,"1/12 (free cells, saturation)",1.584893192,0.08333333333
+,5,"1/12 (free cells, saturation)",1.995262315,0.08333333333
+,5,"1/12 (free cells, saturation)",2.511886432,0.08333333333
+,5,"1/12 (free cells, saturation)",3.16227766,0.08333333333
+,5,"1/12 (free cells, saturation)",3.981071706,0.08333333333
+,5,"1/12 (free cells, saturation)",5.011872336,0.08333333333
+,5,"1/12 (free cells, saturation)",6.309573445,0.08333333333
+,5,"1/12 (free cells, saturation)",7.943282347,0.08333333333
+,5,"1/12 (free cells, saturation)",10,0.08333333333
+,5,"1/12 (free cells, saturation)",12.58925412,0.08333333333
+,5,"1/12 (free cells, saturation)",15.84893192,0.08333333333
+,5,"1/12 (free cells, saturation)",19.95262315,0.08333333333
+,5,"1/12 (free cells, saturation)",25.11886432,0.08333333333
+,5,"1/12 (free cells, saturation)",31.6227766,0.08333333333
+,5,"1/12 (free cells, saturation)",39.81071706,0.08333333333
+,5,"1/12 (free cells, saturation)",50.11872336,0.08333333333
+,5,"1/12 (free cells, saturation)",63.09573445,0.08333333333
+,5,"1/12 (free cells, saturation)",79.43282347,0.08333333333
+,5,"1/12 (free cells, saturation)",100,0.08333333333
+,6,echo maximum mu*,0.177029184,

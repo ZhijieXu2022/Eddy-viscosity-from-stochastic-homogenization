@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article."
+title: "Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Zhijie
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24096071"
+    description: "Zenodo archive of the manuscript and data files"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-11-09"
+keywords:
+  - "turbulence"
+  - "Kolmogorov law"
+  - "eddy viscosity"
+  - "homogenization"
+  - "Burgers equation"
+  - "large-eddy simulation"
+  - "direct numerical simulation"
+  - "Navier-Stokes equations"

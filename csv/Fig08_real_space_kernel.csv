@@ -1,0 +1,3614 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Plotted data of Fig. 8 of the paper: (a) inviscid shock and its sharp-filtered profile, (b) real-space kernel of the sharp-cutoff spectral eddy viscosity",,,
+#Ref. [1] Xu 2026,https://doi.org/10.5281/zenodo.24096071,"Eddy viscosity from stochastic homogenization: exact cell solutions, the two-thirds law from the filtered energy budget, the spectral eddy viscosity of a shock, and tests against direct numerical simulation",,
+#Note,(a) x = (shared with panel b) (linear axis); y = u/u_0 (linear axis),,,
+#Note,(b) x = Kx (linear axis); y = \check\nu_t(x)/u_0 (linear axis),,,
+#Note,horizontal lines: x empty and y = level; vertical lines: x = position and y empty,,,
+,,,,
+,,,,
+panel,series,label,x,y
+(a),0,u (inviscid shock),-15,1
+(a),0,u (inviscid shock),-14.975,1
+(a),0,u (inviscid shock),-14.95,1
+(a),0,u (inviscid shock),-14.925,1
+(a),0,u (inviscid shock),-14.9,1
+(a),0,u (inviscid shock),-14.875,1
+(a),0,u (inviscid shock),-14.85,1
+(a),0,u (inviscid shock),-14.825,1
+(a),0,u (inviscid shock),-14.8,1
+(a),0,u (inviscid shock),-14.775,1
+(a),0,u (inviscid shock),-14.75,1
+(a),0,u (inviscid shock),-14.725,1
+(a),0,u (inviscid shock),-14.7,1
+(a),0,u (inviscid shock),-14.675,1
+(a),0,u (inviscid shock),-14.65,1
+(a),0,u (inviscid shock),-14.625,1
+(a),0,u (inviscid shock),-14.6,1
+(a),0,u (inviscid shock),-14.575,1
+(a),0,u (inviscid shock),-14.55,1
+(a),0,u (inviscid shock),-14.525,1
+(a),0,u (inviscid shock),-14.5,1
+(a),0,u (inviscid shock),-14.475,1
+(a),0,u (inviscid shock),-14.45,1
+(a),0,u (inviscid shock),-14.425,1
+(a),0,u (inviscid shock),-14.4,1
+(a),0,u (inviscid shock),-14.375,1
+(a),0,u (inviscid shock),-14.35,1
+(a),0,u (inviscid shock),-14.325,1
+(a),0,u (inviscid shock),-14.3,1
+(a),0,u (inviscid shock),-14.275,1
+(a),0,u (inviscid shock),-14.25,1
+(a),0,u (inviscid shock),-14.225,1
+(a),0,u (inviscid shock),-14.2,1
+(a),0,u (inviscid shock),-14.175,1
+(a),0,u (inviscid shock),-14.15,1
+(a),0,u (inviscid shock),-14.125,1
+(a),0,u (inviscid shock),-14.1,1
+(a),0,u (inviscid shock),-14.075,1
+(a),0,u (inviscid shock),-14.05,1
+(a),0,u (inviscid shock),-14.025,1
+(a),0,u (inviscid shock),-14,1
+(a),0,u (inviscid shock),-13.975,1
+(a),0,u (inviscid shock),-13.95,1
+(a),0,u (inviscid shock),-13.925,1
+(a),0,u (inviscid shock),-13.9,1
+(a),0,u (inviscid shock),-13.875,1
+(a),0,u (inviscid shock),-13.85,1
+(a),0,u (inviscid shock),-13.825,1
+(a),0,u (inviscid shock),-13.8,1
+(a),0,u (inviscid shock),-13.775,1
+(a),0,u (inviscid shock),-13.75,1
+(a),0,u (inviscid shock),-13.725,1
+(a),0,u (inviscid shock),-13.7,1
+(a),0,u (inviscid shock),-13.675,1
+(a),0,u (inviscid shock),-13.65,1
+(a),0,u (inviscid shock),-13.625,1
+(a),0,u (inviscid shock),-13.6,1
+(a),0,u (inviscid shock),-13.575,1
+(a),0,u (inviscid shock),-13.55,1
+(a),0,u (inviscid shock),-13.525,1
+(a),0,u (inviscid shock),-13.5,1
+(a),0,u (inviscid shock),-13.475,1
+(a),0,u (inviscid shock),-13.45,1
+(a),0,u (inviscid shock),-13.425,1
+(a),0,u (inviscid shock),-13.4,1
+(a),0,u (inviscid shock),-13.375,1
+(a),0,u (inviscid shock),-13.35,1
+(a),0,u (inviscid shock),-13.325,1
+(a),0,u (inviscid shock),-13.3,1
+(a),0,u (inviscid shock),-13.275,1
+(a),0,u (inviscid shock),-13.25,1
+(a),0,u (inviscid shock),-13.225,1
+(a),0,u (inviscid shock),-13.2,1
+(a),0,u (inviscid shock),-13.175,1
+(a),0,u (inviscid shock),-13.15,1
+(a),0,u (inviscid shock),-13.125,1
+(a),0,u (inviscid shock),-13.1,1
+(a),0,u (inviscid shock),-13.075,1
+(a),0,u (inviscid shock),-13.05,1
+(a),0,u (inviscid shock),-13.025,1
+(a),0,u (inviscid shock),-13,1
+(a),0,u (inviscid shock),-12.975,1
+(a),0,u (inviscid shock),-12.95,1
+(a),0,u (inviscid shock),-12.925,1
+(a),0,u (inviscid shock),-12.9,1
+(a),0,u (inviscid shock),-12.875,1
+(a),0,u (inviscid shock),-12.85,1
+(a),0,u (inviscid shock),-12.825,1
+(a),0,u (inviscid shock),-12.8,1
+(a),0,u (inviscid shock),-12.775,1
+(a),0,u (inviscid shock),-12.75,1
+(a),0,u (inviscid shock),-12.725,1
+(a),0,u (inviscid shock),-12.7,1
+(a),0,u (inviscid shock),-12.675,1
+(a),0,u (inviscid shock),-12.65,1
+(a),0,u (inviscid shock),-12.625,1
+(a),0,u (inviscid shock),-12.6,1
+(a),0,u (inviscid shock),-12.575,1
+(a),0,u (inviscid shock),-12.55,1
+(a),0,u (inviscid shock),-12.525,1
+(a),0,u (inviscid shock),-12.5,1
+(a),0,u (inviscid shock),-12.475,1
+(a),0,u (inviscid shock),-12.45,1
+(a),0,u (inviscid shock),-12.425,1
+(a),0,u (inviscid shock),-12.4,1
+(a),0,u (inviscid shock),-12.375,1
+(a),0,u (inviscid shock),-12.35,1
+(a),0,u (inviscid shock),-12.325,1
+(a),0,u (inviscid shock),-12.3,1
+(a),0,u (inviscid shock),-12.275,1
+(a),0,u (inviscid shock),-12.25,1
+(a),0,u (inviscid shock),-12.225,1
+(a),0,u (inviscid shock),-12.2,1
+(a),0,u (inviscid shock),-12.175,1
+(a),0,u (inviscid shock),-12.15,1
+(a),0,u (inviscid shock),-12.125,1
+(a),0,u (inviscid shock),-12.1,1
+(a),0,u (inviscid shock),-12.075,1
+(a),0,u (inviscid shock),-12.05,1
+(a),0,u (inviscid shock),-12.025,1
+(a),0,u (inviscid shock),-12,1
+(a),0,u (inviscid shock),-11.975,1
+(a),0,u (inviscid shock),-11.95,1
+(a),0,u (inviscid shock),-11.925,1
+(a),0,u (inviscid shock),-11.9,1
+(a),0,u (inviscid shock),-11.875,1
+(a),0,u (inviscid shock),-11.85,1
+(a),0,u (inviscid shock),-11.825,1
+(a),0,u (inviscid shock),-11.8,1
+(a),0,u (inviscid shock),-11.775,1
+(a),0,u (inviscid shock),-11.75,1
+(a),0,u (inviscid shock),-11.725,1
+(a),0,u (inviscid shock),-11.7,1
+(a),0,u (inviscid shock),-11.675,1
+(a),0,u (inviscid shock),-11.65,1
+(a),0,u (inviscid shock),-11.625,1
+(a),0,u (inviscid shock),-11.6,1
+(a),0,u (inviscid shock),-11.575,1
+(a),0,u (inviscid shock),-11.55,1
+(a),0,u (inviscid shock),-11.525,1
+(a),0,u (inviscid shock),-11.5,1
+(a),0,u (inviscid shock),-11.475,1
+(a),0,u (inviscid shock),-11.45,1
+(a),0,u (inviscid shock),-11.425,1
+(a),0,u (inviscid shock),-11.4,1
+(a),0,u (inviscid shock),-11.375,1
+(a),0,u (inviscid shock),-11.35,1
+(a),0,u (inviscid shock),-11.325,1
+(a),0,u (inviscid shock),-11.3,1
+(a),0,u (inviscid shock),-11.275,1
+(a),0,u (inviscid shock),-11.25,1
+(a),0,u (inviscid shock),-11.225,1
+(a),0,u (inviscid shock),-11.2,1
+(a),0,u (inviscid shock),-11.175,1
+(a),0,u (inviscid shock),-11.15,1
+(a),0,u (inviscid shock),-11.125,1
+(a),0,u (inviscid shock),-11.1,1
+(a),0,u (inviscid shock),-11.075,1
+(a),0,u (inviscid shock),-11.05,1
+(a),0,u (inviscid shock),-11.025,1
+(a),0,u (inviscid shock),-11,1
+(a),0,u (inviscid shock),-10.975,1
+(a),0,u (inviscid shock),-10.95,1
+(a),0,u (inviscid shock),-10.925,1
+(a),0,u (inviscid shock),-10.9,1
+(a),0,u (inviscid shock),-10.875,1
+(a),0,u (inviscid shock),-10.85,1
+(a),0,u (inviscid shock),-10.825,1
+(a),0,u (inviscid shock),-10.8,1
+(a),0,u (inviscid shock),-10.775,1
+(a),0,u (inviscid shock),-10.75,1
+(a),0,u (inviscid shock),-10.725,1
+(a),0,u (inviscid shock),-10.7,1
+(a),0,u (inviscid shock),-10.675,1
+(a),0,u (inviscid shock),-10.65,1
+(a),0,u (inviscid shock),-10.625,1
+(a),0,u (inviscid shock),-10.6,1
+(a),0,u (inviscid shock),-10.575,1
+(a),0,u (inviscid shock),-10.55,1
+(a),0,u (inviscid shock),-10.525,1
+(a),0,u (inviscid shock),-10.5,1
+(a),0,u (inviscid shock),-10.475,1
+(a),0,u (inviscid shock),-10.45,1
+(a),0,u (inviscid shock),-10.425,1
+(a),0,u (inviscid shock),-10.4,1
+(a),0,u (inviscid shock),-10.375,1
+(a),0,u (inviscid shock),-10.35,1
+(a),0,u (inviscid shock),-10.325,1
+(a),0,u (inviscid shock),-10.3,1
+(a),0,u (inviscid shock),-10.275,1
+(a),0,u (inviscid shock),-10.25,1
+(a),0,u (inviscid shock),-10.225,1
+(a),0,u (inviscid shock),-10.2,1
+(a),0,u (inviscid shock),-10.175,1
+(a),0,u (inviscid shock),-10.15,1
+(a),0,u (inviscid shock),-10.125,1
+(a),0,u (inviscid shock),-10.1,1
+(a),0,u (inviscid shock),-10.075,1
+(a),0,u (inviscid shock),-10.05,1
+(a),0,u (inviscid shock),-10.025,1
+(a),0,u (inviscid shock),-10,1
+(a),0,u (inviscid shock),-9.975,1
+(a),0,u (inviscid shock),-9.95,1
+(a),0,u (inviscid shock),-9.925,1
+(a),0,u (inviscid shock),-9.9,1
+(a),0,u (inviscid shock),-9.875,1
+(a),0,u (inviscid shock),-9.85,1
+(a),0,u (inviscid shock),-9.825,1
+(a),0,u (inviscid shock),-9.8,1
+(a),0,u (inviscid shock),-9.775,1
+(a),0,u (inviscid shock),-9.75,1
+(a),0,u (inviscid shock),-9.725,1
+(a),0,u (inviscid shock),-9.7,1
+(a),0,u (inviscid shock),-9.675,1
+(a),0,u (inviscid shock),-9.65,1
+(a),0,u (inviscid shock),-9.625,1
+(a),0,u (inviscid shock),-9.6,1
+(a),0,u (inviscid shock),-9.575,1
+(a),0,u (inviscid shock),-9.55,1
+(a),0,u (inviscid shock),-9.525,1
+(a),0,u (inviscid shock),-9.5,1
+(a),0,u (inviscid shock),-9.475,1
+(a),0,u (inviscid shock),-9.45,1
+(a),0,u (inviscid shock),-9.425,1
+(a),0,u (inviscid shock),-9.4,1
+(a),0,u (inviscid shock),-9.375,1
+(a),0,u (inviscid shock),-9.35,1
+(a),0,u (inviscid shock),-9.325,1
+(a),0,u (inviscid shock),-9.3,1
+(a),0,u (inviscid shock),-9.275,1
+(a),0,u (inviscid shock),-9.25,1
+(a),0,u (inviscid shock),-9.225,1
+(a),0,u (inviscid shock),-9.2,1
+(a),0,u (inviscid shock),-9.175,1
+(a),0,u (inviscid shock),-9.15,1
+(a),0,u (inviscid shock),-9.125,1
+(a),0,u (inviscid shock),-9.1,1
+(a),0,u (inviscid shock),-9.075,1
+(a),0,u (inviscid shock),-9.05,1
+(a),0,u (inviscid shock),-9.025,1
+(a),0,u (inviscid shock),-9,1
+(a),0,u (inviscid shock),-8.975,1
+(a),0,u (inviscid shock),-8.95,1
+(a),0,u (inviscid shock),-8.925,1
+(a),0,u (inviscid shock),-8.9,1
+(a),0,u (inviscid shock),-8.875,1
+(a),0,u (inviscid shock),-8.85,1
+(a),0,u (inviscid shock),-8.825,1
+(a),0,u (inviscid shock),-8.8,1
+(a),0,u (inviscid shock),-8.775,1
+(a),0,u (inviscid shock),-8.75,1
+(a),0,u (inviscid shock),-8.725,1
+(a),0,u (inviscid shock),-8.7,1
+(a),0,u (inviscid shock),-8.675,1
+(a),0,u (inviscid shock),-8.65,1
+(a),0,u (inviscid shock),-8.625,1
+(a),0,u (inviscid shock),-8.6,1
+(a),0,u (inviscid shock),-8.575,1
+(a),0,u (inviscid shock),-8.55,1
+(a),0,u (inviscid shock),-8.525,1
+(a),0,u (inviscid shock),-8.5,1
+(a),0,u (inviscid shock),-8.475,1
+(a),0,u (inviscid shock),-8.45,1
+(a),0,u (inviscid shock),-8.425,1
+(a),0,u (inviscid shock),-8.4,1
+(a),0,u (inviscid shock),-8.375,1
+(a),0,u (inviscid shock),-8.35,1
+(a),0,u (inviscid shock),-8.325,1
+(a),0,u (inviscid shock),-8.3,1
+(a),0,u (inviscid shock),-8.275,1
+(a),0,u (inviscid shock),-8.25,1
+(a),0,u (inviscid shock),-8.225,1
+(a),0,u (inviscid shock),-8.2,1
+(a),0,u (inviscid shock),-8.175,1
+(a),0,u (inviscid shock),-8.15,1
+(a),0,u (inviscid shock),-8.125,1
+(a),0,u (inviscid shock),-8.1,1
+(a),0,u (inviscid shock),-8.075,1
+(a),0,u (inviscid shock),-8.05,1
+(a),0,u (inviscid shock),-8.025,1
+(a),0,u (inviscid shock),-8,1
+(a),0,u (inviscid shock),-7.975,1
+(a),0,u (inviscid shock),-7.95,1
+(a),0,u (inviscid shock),-7.925,1
+(a),0,u (inviscid shock),-7.9,1
+(a),0,u (inviscid shock),-7.875,1
+(a),0,u (inviscid shock),-7.85,1
+(a),0,u (inviscid shock),-7.825,1
+(a),0,u (inviscid shock),-7.8,1
+(a),0,u (inviscid shock),-7.775,1
+(a),0,u (inviscid shock),-7.75,1
+(a),0,u (inviscid shock),-7.725,1
+(a),0,u (inviscid shock),-7.7,1
+(a),0,u (inviscid shock),-7.675,1
+(a),0,u (inviscid shock),-7.65,1
+(a),0,u (inviscid shock),-7.625,1
+(a),0,u (inviscid shock),-7.6,1
+(a),0,u (inviscid shock),-7.575,1
+(a),0,u (inviscid shock),-7.55,1
+(a),0,u (inviscid shock),-7.525,1
+(a),0,u (inviscid shock),-7.5,1
+(a),0,u (inviscid shock),-7.475,1
+(a),0,u (inviscid shock),-7.45,1
+(a),0,u (inviscid shock),-7.425,1
+(a),0,u (inviscid shock),-7.4,1
+(a),0,u (inviscid shock),-7.375,1
+(a),0,u (inviscid shock),-7.35,1
+(a),0,u (inviscid shock),-7.325,1
+(a),0,u (inviscid shock),-7.3,1
+(a),0,u (inviscid shock),-7.275,1
+(a),0,u (inviscid shock),-7.25,1
+(a),0,u (inviscid shock),-7.225,1
+(a),0,u (inviscid shock),-7.2,1
+(a),0,u (inviscid shock),-7.175,1
+(a),0,u (inviscid shock),-7.15,1
+(a),0,u (inviscid shock),-7.125,1
+(a),0,u (inviscid shock),-7.1,1
+(a),0,u (inviscid shock),-7.075,1
+(a),0,u (inviscid shock),-7.05,1
+(a),0,u (inviscid shock),-7.025,1
+(a),0,u (inviscid shock),-7,1
+(a),0,u (inviscid shock),-6.975,1
+(a),0,u (inviscid shock),-6.95,1
+(a),0,u (inviscid shock),-6.925,1
+(a),0,u (inviscid shock),-6.9,1
+(a),0,u (inviscid shock),-6.875,1
+(a),0,u (inviscid shock),-6.85,1
+(a),0,u (inviscid shock),-6.825,1
+(a),0,u (inviscid shock),-6.8,1
+(a),0,u (inviscid shock),-6.775,1
+(a),0,u (inviscid shock),-6.75,1
+(a),0,u (inviscid shock),-6.725,1
+(a),0,u (inviscid shock),-6.7,1
+(a),0,u (inviscid shock),-6.675,1
+(a),0,u (inviscid shock),-6.65,1
+(a),0,u (inviscid shock),-6.625,1
+(a),0,u (inviscid shock),-6.6,1
+(a),0,u (inviscid shock),-6.575,1
+(a),0,u (inviscid shock),-6.55,1
+(a),0,u (inviscid shock),-6.525,1
+(a),0,u (inviscid shock),-6.5,1
+(a),0,u (inviscid shock),-6.475,1
+(a),0,u (inviscid shock),-6.45,1
+(a),0,u (inviscid shock),-6.425,1
+(a),0,u (inviscid shock),-6.4,1
+(a),0,u (inviscid shock),-6.375,1
+(a),0,u (inviscid shock),-6.35,1
+(a),0,u (inviscid shock),-6.325,1
+(a),0,u (inviscid shock),-6.3,1
+(a),0,u (inviscid shock),-6.275,1
+(a),0,u (inviscid shock),-6.25,1
+(a),0,u (inviscid shock),-6.225,1
+(a),0,u (inviscid shock),-6.2,1
+(a),0,u (inviscid shock),-6.175,1
+(a),0,u (inviscid shock),-6.15,1
+(a),0,u (inviscid shock),-6.125,1
+(a),0,u (inviscid shock),-6.1,1
+(a),0,u (inviscid shock),-6.075,1
+(a),0,u (inviscid shock),-6.05,1
+(a),0,u (inviscid shock),-6.025,1
+(a),0,u (inviscid shock),-6,1
+(a),0,u (inviscid shock),-5.975,1
+(a),0,u (inviscid shock),-5.95,1
+(a),0,u (inviscid shock),-5.925,1
+(a),0,u (inviscid shock),-5.9,1
+(a),0,u (inviscid shock),-5.875,1
+(a),0,u (inviscid shock),-5.85,1
+(a),0,u (inviscid shock),-5.825,1
+(a),0,u (inviscid shock),-5.8,1
+(a),0,u (inviscid shock),-5.775,1
+(a),0,u (inviscid shock),-5.75,1
+(a),0,u (inviscid shock),-5.725,1
+(a),0,u (inviscid shock),-5.7,1
+(a),0,u (inviscid shock),-5.675,1
+(a),0,u (inviscid shock),-5.65,1
+(a),0,u (inviscid shock),-5.625,1
+(a),0,u (inviscid shock),-5.6,1
+(a),0,u (inviscid shock),-5.575,1
+(a),0,u (inviscid shock),-5.55,1
+(a),0,u (inviscid shock),-5.525,1
+(a),0,u (inviscid shock),-5.5,1
+(a),0,u (inviscid shock),-5.475,1
+(a),0,u (inviscid shock),-5.45,1
+(a),0,u (inviscid shock),-5.425,1
+(a),0,u (inviscid shock),-5.4,1
+(a),0,u (inviscid shock),-5.375,1
+(a),0,u (inviscid shock),-5.35,1
+(a),0,u (inviscid shock),-5.325,1
+(a),0,u (inviscid shock),-5.3,1
+(a),0,u (inviscid shock),-5.275,1
+(a),0,u (inviscid shock),-5.25,1
+(a),0,u (inviscid shock),-5.225,1
+(a),0,u (inviscid shock),-5.2,1
+(a),0,u (inviscid shock),-5.175,1
+(a),0,u (inviscid shock),-5.15,1
+(a),0,u (inviscid shock),-5.125,1
+(a),0,u (inviscid shock),-5.1,1
+(a),0,u (inviscid shock),-5.075,1
+(a),0,u (inviscid shock),-5.05,1
+(a),0,u (inviscid shock),-5.025,1
+(a),0,u (inviscid shock),-5,1
+(a),0,u (inviscid shock),-4.975,1
+(a),0,u (inviscid shock),-4.95,1
+(a),0,u (inviscid shock),-4.925,1
+(a),0,u (inviscid shock),-4.9,1
+(a),0,u (inviscid shock),-4.875,1
+(a),0,u (inviscid shock),-4.85,1
+(a),0,u (inviscid shock),-4.825,1
+(a),0,u (inviscid shock),-4.8,1
+(a),0,u (inviscid shock),-4.775,1
+(a),0,u (inviscid shock),-4.75,1
+(a),0,u (inviscid shock),-4.725,1
+(a),0,u (inviscid shock),-4.7,1
+(a),0,u (inviscid shock),-4.675,1
+(a),0,u (inviscid shock),-4.65,1
+(a),0,u (inviscid shock),-4.625,1
+(a),0,u (inviscid shock),-4.6,1
+(a),0,u (inviscid shock),-4.575,1
+(a),0,u (inviscid shock),-4.55,1
+(a),0,u (inviscid shock),-4.525,1
+(a),0,u (inviscid shock),-4.5,1
+(a),0,u (inviscid shock),-4.475,1
+(a),0,u (inviscid shock),-4.45,1
+(a),0,u (inviscid shock),-4.425,1
+(a),0,u (inviscid shock),-4.4,1
+(a),0,u (inviscid shock),-4.375,1
+(a),0,u (inviscid shock),-4.35,1
+(a),0,u (inviscid shock),-4.325,1
+(a),0,u (inviscid shock),-4.3,1
+(a),0,u (inviscid shock),-4.275,1
+(a),0,u (inviscid shock),-4.25,1
+(a),0,u (inviscid shock),-4.225,1
+(a),0,u (inviscid shock),-4.2,1
+(a),0,u (inviscid shock),-4.175,1
+(a),0,u (inviscid shock),-4.15,1
+(a),0,u (inviscid shock),-4.125,1
+(a),0,u (inviscid shock),-4.1,1
+(a),0,u (inviscid shock),-4.075,1
+(a),0,u (inviscid shock),-4.05,1
+(a),0,u (inviscid shock),-4.025,1
+(a),0,u (inviscid shock),-4,1
+(a),0,u (inviscid shock),-3.975,1
+(a),0,u (inviscid shock),-3.95,1
+(a),0,u (inviscid shock),-3.925,1
+(a),0,u (inviscid shock),-3.9,1
+(a),0,u (inviscid shock),-3.875,1
+(a),0,u (inviscid shock),-3.85,1
+(a),0,u (inviscid shock),-3.825,1
+(a),0,u (inviscid shock),-3.8,1
+(a),0,u (inviscid shock),-3.775,1
+(a),0,u (inviscid shock),-3.75,1
+(a),0,u (inviscid shock),-3.725,1
+(a),0,u (inviscid shock),-3.7,1
+(a),0,u (inviscid shock),-3.675,1
+(a),0,u (inviscid shock),-3.65,1
+(a),0,u (inviscid shock),-3.625,1
+(a),0,u (inviscid shock),-3.6,1
+(a),0,u (inviscid shock),-3.575,1
+(a),0,u (inviscid shock),-3.55,1
+(a),0,u (inviscid shock),-3.525,1
+(a),0,u (inviscid shock),-3.5,1
+(a),0,u (inviscid shock),-3.475,1
+(a),0,u (inviscid shock),-3.45,1
+(a),0,u (inviscid shock),-3.425,1
+(a),0,u (inviscid shock),-3.4,1
+(a),0,u (inviscid shock),-3.375,1
+(a),0,u (inviscid shock),-3.35,1
+(a),0,u (inviscid shock),-3.325,1
+(a),0,u (inviscid shock),-3.3,1
+(a),0,u (inviscid shock),-3.275,1
+(a),0,u (inviscid shock),-3.25,1
+(a),0,u (inviscid shock),-3.225,1
+(a),0,u (inviscid shock),-3.2,1
+(a),0,u (inviscid shock),-3.175,1
+(a),0,u (inviscid shock),-3.15,1
+(a),0,u (inviscid shock),-3.125,1
+(a),0,u (inviscid shock),-3.1,1
+(a),0,u (inviscid shock),-3.075,1
+(a),0,u (inviscid shock),-3.05,1
+(a),0,u (inviscid shock),-3.025,1
+(a),0,u (inviscid shock),-3,1
+(a),0,u (inviscid shock),-2.975,1
+(a),0,u (inviscid shock),-2.95,1
+(a),0,u (inviscid shock),-2.925,1
+(a),0,u (inviscid shock),-2.9,1
+(a),0,u (inviscid shock),-2.875,1
+(a),0,u (inviscid shock),-2.85,1
+(a),0,u (inviscid shock),-2.825,1
+(a),0,u (inviscid shock),-2.8,1
+(a),0,u (inviscid shock),-2.775,1
+(a),0,u (inviscid shock),-2.75,1
+(a),0,u (inviscid shock),-2.725,1
+(a),0,u (inviscid shock),-2.7,1
+(a),0,u (inviscid shock),-2.675,1
+(a),0,u (inviscid shock),-2.65,1
+(a),0,u (inviscid shock),-2.625,1
+(a),0,u (inviscid shock),-2.6,1
+(a),0,u (inviscid shock),-2.575,1
+(a),0,u (inviscid shock),-2.55,1
+(a),0,u (inviscid shock),-2.525,1
+(a),0,u (inviscid shock),-2.5,1
+(a),0,u (inviscid shock),-2.475,1
+(a),0,u (inviscid shock),-2.45,1
+(a),0,u (inviscid shock),-2.425,1
+(a),0,u (inviscid shock),-2.4,1
+(a),0,u (inviscid shock),-2.375,1
+(a),0,u (inviscid shock),-2.35,1
+(a),0,u (inviscid shock),-2.325,1
+(a),0,u (inviscid shock),-2.3,1
+(a),0,u (inviscid shock),-2.275,1
+(a),0,u (inviscid shock),-2.25,1
+(a),0,u (inviscid shock),-2.225,1
+(a),0,u (inviscid shock),-2.2,1
+(a),0,u (inviscid shock),-2.175,1
+(a),0,u (inviscid shock),-2.15,1
+(a),0,u (inviscid shock),-2.125,1
+(a),0,u (inviscid shock),-2.1,1
+(a),0,u (inviscid shock),-2.075,1
+(a),0,u (inviscid shock),-2.05,1
+(a),0,u (inviscid shock),-2.025,1
+(a),0,u (inviscid shock),-2,1
+(a),0,u (inviscid shock),-1.975,1
+(a),0,u (inviscid shock),-1.95,1
+(a),0,u (inviscid shock),-1.925,1
+(a),0,u (inviscid shock),-1.9,1
+(a),0,u (inviscid shock),-1.875,1
+(a),0,u (inviscid shock),-1.85,1
+(a),0,u (inviscid shock),-1.825,1
+(a),0,u (inviscid shock),-1.8,1
+(a),0,u (inviscid shock),-1.775,1
+(a),0,u (inviscid shock),-1.75,1
+(a),0,u (inviscid shock),-1.725,1
+(a),0,u (inviscid shock),-1.7,1
+(a),0,u (inviscid shock),-1.675,1
+(a),0,u (inviscid shock),-1.65,1
+(a),0,u (inviscid shock),-1.625,1
+(a),0,u (inviscid shock),-1.6,1
+(a),0,u (inviscid shock),-1.575,1
+(a),0,u (inviscid shock),-1.55,1
+(a),0,u (inviscid shock),-1.525,1
+(a),0,u (inviscid shock),-1.5,1
+(a),0,u (inviscid shock),-1.475,1
+(a),0,u (inviscid shock),-1.45,1
+(a),0,u (inviscid shock),-1.425,1
+(a),0,u (inviscid shock),-1.4,1
+(a),0,u (inviscid shock),-1.375,1
+(a),0,u (inviscid shock),-1.35,1
+(a),0,u (inviscid shock),-1.325,1
+(a),0,u (inviscid shock),-1.3,1
+(a),0,u (inviscid shock),-1.275,1
+(a),0,u (inviscid shock),-1.25,1
+(a),0,u (inviscid shock),-1.225,1
+(a),0,u (inviscid shock),-1.2,1
+(a),0,u (inviscid shock),-1.175,1
+(a),0,u (inviscid shock),-1.15,1
+(a),0,u (inviscid shock),-1.125,1
+(a),0,u (inviscid shock),-1.1,1
+(a),0,u (inviscid shock),-1.075,1
+(a),0,u (inviscid shock),-1.05,1
+(a),0,u (inviscid shock),-1.025,1
+(a),0,u (inviscid shock),-1,1
+(a),0,u (inviscid shock),-0.975,1
+(a),0,u (inviscid shock),-0.95,1
+(a),0,u (inviscid shock),-0.925,1
+(a),0,u (inviscid shock),-0.9,1
+(a),0,u (inviscid shock),-0.875,1
+(a),0,u (inviscid shock),-0.85,1
+(a),0,u (inviscid shock),-0.825,1
+(a),0,u (inviscid shock),-0.8,1
+(a),0,u (inviscid shock),-0.775,1
+(a),0,u (inviscid shock),-0.75,1
+(a),0,u (inviscid shock),-0.725,1
+(a),0,u (inviscid shock),-0.7,1
+(a),0,u (inviscid shock),-0.675,1
+(a),0,u (inviscid shock),-0.65,1
+(a),0,u (inviscid shock),-0.625,1
+(a),0,u (inviscid shock),-0.6,1
+(a),0,u (inviscid shock),-0.575,1
+(a),0,u (inviscid shock),-0.55,1
+(a),0,u (inviscid shock),-0.525,1
+(a),0,u (inviscid shock),-0.5,1
+(a),0,u (inviscid shock),-0.475,1
+(a),0,u (inviscid shock),-0.45,1
+(a),0,u (inviscid shock),-0.425,1
+(a),0,u (inviscid shock),-0.4,1
+(a),0,u (inviscid shock),-0.375,1
+(a),0,u (inviscid shock),-0.35,1
+(a),0,u (inviscid shock),-0.325,1
+(a),0,u (inviscid shock),-0.3,1
+(a),0,u (inviscid shock),-0.275,1
+(a),0,u (inviscid shock),-0.25,1
+(a),0,u (inviscid shock),-0.225,1
+(a),0,u (inviscid shock),-0.2,1
+(a),0,u (inviscid shock),-0.175,1
+(a),0,u (inviscid shock),-0.15,1
+(a),0,u (inviscid shock),-0.125,1
+(a),0,u (inviscid shock),-0.1,1
+(a),0,u (inviscid shock),-0.075,1
+(a),0,u (inviscid shock),-0.05,1
+(a),0,u (inviscid shock),-0.025,1
+(a),0,u (inviscid shock),0,-1
+(a),0,u (inviscid shock),0.025,-1
+(a),0,u (inviscid shock),0.05,-1
+(a),0,u (inviscid shock),0.075,-1
+(a),0,u (inviscid shock),0.1,-1
+(a),0,u (inviscid shock),0.125,-1
+(a),0,u (inviscid shock),0.15,-1
+(a),0,u (inviscid shock),0.175,-1
+(a),0,u (inviscid shock),0.2,-1
+(a),0,u (inviscid shock),0.225,-1
+(a),0,u (inviscid shock),0.25,-1
+(a),0,u (inviscid shock),0.275,-1
+(a),0,u (inviscid shock),0.3,-1
+(a),0,u (inviscid shock),0.325,-1
+(a),0,u (inviscid shock),0.35,-1
+(a),0,u (inviscid shock),0.375,-1
+(a),0,u (inviscid shock),0.4,-1
+(a),0,u (inviscid shock),0.425,-1
+(a),0,u (inviscid shock),0.45,-1
+(a),0,u (inviscid shock),0.475,-1
+(a),0,u (inviscid shock),0.5,-1
+(a),0,u (inviscid shock),0.525,-1
+(a),0,u (inviscid shock),0.55,-1
+(a),0,u (inviscid shock),0.575,-1
+(a),0,u (inviscid shock),0.6,-1
+(a),0,u (inviscid shock),0.625,-1
+(a),0,u (inviscid shock),0.65,-1
+(a),0,u (inviscid shock),0.675,-1
+(a),0,u (inviscid shock),0.7,-1
+(a),0,u (inviscid shock),0.725,-1
+(a),0,u (inviscid shock),0.75,-1
+(a),0,u (inviscid shock),0.775,-1
+(a),0,u (inviscid shock),0.8,-1
+(a),0,u (inviscid shock),0.825,-1
+(a),0,u (inviscid shock),0.85,-1
+(a),0,u (inviscid shock),0.875,-1
+(a),0,u (inviscid shock),0.9,-1
+(a),0,u (inviscid shock),0.925,-1
+(a),0,u (inviscid shock),0.95,-1
+(a),0,u (inviscid shock),0.975,-1
+(a),0,u (inviscid shock),1,-1
+(a),0,u (inviscid shock),1.025,-1
+(a),0,u (inviscid shock),1.05,-1
+(a),0,u (inviscid shock),1.075,-1
+(a),0,u (inviscid shock),1.1,-1
+(a),0,u (inviscid shock),1.125,-1
+(a),0,u (inviscid shock),1.15,-1
+(a),0,u (inviscid shock),1.175,-1
+(a),0,u (inviscid shock),1.2,-1
+(a),0,u (inviscid shock),1.225,-1
+(a),0,u (inviscid shock),1.25,-1
+(a),0,u (inviscid shock),1.275,-1
+(a),0,u (inviscid shock),1.3,-1
+(a),0,u (inviscid shock),1.325,-1
+(a),0,u (inviscid shock),1.35,-1
+(a),0,u (inviscid shock),1.375,-1
+(a),0,u (inviscid shock),1.4,-1
+(a),0,u (inviscid shock),1.425,-1
+(a),0,u (inviscid shock),1.45,-1
+(a),0,u (inviscid shock),1.475,-1
+(a),0,u (inviscid shock),1.5,-1
+(a),0,u (inviscid shock),1.525,-1
+(a),0,u (inviscid shock),1.55,-1
+(a),0,u (inviscid shock),1.575,-1
+(a),0,u (inviscid shock),1.6,-1
+(a),0,u (inviscid shock),1.625,-1
+(a),0,u (inviscid shock),1.65,-1
+(a),0,u (inviscid shock),1.675,-1
+(a),0,u (inviscid shock),1.7,-1
+(a),0,u (inviscid shock),1.725,-1
+(a),0,u (inviscid shock),1.75,-1
+(a),0,u (inviscid shock),1.775,-1
+(a),0,u (inviscid shock),1.8,-1
+(a),0,u (inviscid shock),1.825,-1
+(a),0,u (inviscid shock),1.85,-1
+(a),0,u (inviscid shock),1.875,-1
+(a),0,u (inviscid shock),1.9,-1
+(a),0,u (inviscid shock),1.925,-1
+(a),0,u (inviscid shock),1.95,-1
+(a),0,u (inviscid shock),1.975,-1
+(a),0,u (inviscid shock),2,-1
+(a),0,u (inviscid shock),2.025,-1
+(a),0,u (inviscid shock),2.05,-1
+(a),0,u (inviscid shock),2.075,-1
+(a),0,u (inviscid shock),2.1,-1
+(a),0,u (inviscid shock),2.125,-1
+(a),0,u (inviscid shock),2.15,-1
+(a),0,u (inviscid shock),2.175,-1
+(a),0,u (inviscid shock),2.2,-1
+(a),0,u (inviscid shock),2.225,-1
+(a),0,u (inviscid shock),2.25,-1
+(a),0,u (inviscid shock),2.275,-1
+(a),0,u (inviscid shock),2.3,-1
+(a),0,u (inviscid shock),2.325,-1
+(a),0,u (inviscid shock),2.35,-1
+(a),0,u (inviscid shock),2.375,-1
+(a),0,u (inviscid shock),2.4,-1
+(a),0,u (inviscid shock),2.425,-1
+(a),0,u (inviscid shock),2.45,-1
+(a),0,u (inviscid shock),2.475,-1
+(a),0,u (inviscid shock),2.5,-1
+(a),0,u (inviscid shock),2.525,-1
+(a),0,u (inviscid shock),2.55,-1
+(a),0,u (inviscid shock),2.575,-1
+(a),0,u (inviscid shock),2.6,-1
+(a),0,u (inviscid shock),2.625,-1
+(a),0,u (inviscid shock),2.65,-1
+(a),0,u (inviscid shock),2.675,-1
+(a),0,u (inviscid shock),2.7,-1
+(a),0,u (inviscid shock),2.725,-1
+(a),0,u (inviscid shock),2.75,-1
+(a),0,u (inviscid shock),2.775,-1
+(a),0,u (inviscid shock),2.8,-1
+(a),0,u (inviscid shock),2.825,-1
+(a),0,u (inviscid shock),2.85,-1
+(a),0,u (inviscid shock),2.875,-1
+(a),0,u (inviscid shock),2.9,-1
+(a),0,u (inviscid shock),2.925,-1
+(a),0,u (inviscid shock),2.95,-1
+(a),0,u (inviscid shock),2.975,-1
+(a),0,u (inviscid shock),3,-1
+(a),0,u (inviscid shock),3.025,-1
+(a),0,u (inviscid shock),3.05,-1
+(a),0,u (inviscid shock),3.075,-1
+(a),0,u (inviscid shock),3.1,-1
+(a),0,u (inviscid shock),3.125,-1
+(a),0,u (inviscid shock),3.15,-1
+(a),0,u (inviscid shock),3.175,-1
+(a),0,u (inviscid shock),3.2,-1
+(a),0,u (inviscid shock),3.225,-1
+(a),0,u (inviscid shock),3.25,-1
+(a),0,u (inviscid shock),3.275,-1
+(a),0,u (inviscid shock),3.3,-1
+(a),0,u (inviscid shock),3.325,-1
+(a),0,u (inviscid shock),3.35,-1
+(a),0,u (inviscid shock),3.375,-1
+(a),0,u (inviscid shock),3.4,-1
+(a),0,u (inviscid shock),3.425,-1
+(a),0,u (inviscid shock),3.45,-1
+(a),0,u (inviscid shock),3.475,-1
+(a),0,u (inviscid shock),3.5,-1
+(a),0,u (inviscid shock),3.525,-1
+(a),0,u (inviscid shock),3.55,-1
+(a),0,u (inviscid shock),3.575,-1
+(a),0,u (inviscid shock),3.6,-1
+(a),0,u (inviscid shock),3.625,-1
+(a),0,u (inviscid shock),3.65,-1
+(a),0,u (inviscid shock),3.675,-1
+(a),0,u (inviscid shock),3.7,-1
+(a),0,u (inviscid shock),3.725,-1
+(a),0,u (inviscid shock),3.75,-1
+(a),0,u (inviscid shock),3.775,-1
+(a),0,u (inviscid shock),3.8,-1
+(a),0,u (inviscid shock),3.825,-1
+(a),0,u (inviscid shock),3.85,-1
+(a),0,u (inviscid shock),3.875,-1
+(a),0,u (inviscid shock),3.9,-1
+(a),0,u (inviscid shock),3.925,-1
+(a),0,u (inviscid shock),3.95,-1
+(a),0,u (inviscid shock),3.975,-1
+(a),0,u (inviscid shock),4,-1
+(a),0,u (inviscid shock),4.025,-1
+(a),0,u (inviscid shock),4.05,-1
+(a),0,u (inviscid shock),4.075,-1
+(a),0,u (inviscid shock),4.1,-1
+(a),0,u (inviscid shock),4.125,-1
+(a),0,u (inviscid shock),4.15,-1
+(a),0,u (inviscid shock),4.175,-1
+(a),0,u (inviscid shock),4.2,-1
+(a),0,u (inviscid shock),4.225,-1
+(a),0,u (inviscid shock),4.25,-1
+(a),0,u (inviscid shock),4.275,-1
+(a),0,u (inviscid shock),4.3,-1
+(a),0,u (inviscid shock),4.325,-1
+(a),0,u (inviscid shock),4.35,-1
+(a),0,u (inviscid shock),4.375,-1
+(a),0,u (inviscid shock),4.4,-1
+(a),0,u (inviscid shock),4.425,-1
+(a),0,u (inviscid shock),4.45,-1
+(a),0,u (inviscid shock),4.475,-1
+(a),0,u (inviscid shock),4.5,-1
+(a),0,u (inviscid shock),4.525,-1
+(a),0,u (inviscid shock),4.55,-1
+(a),0,u (inviscid shock),4.575,-1
+(a),0,u (inviscid shock),4.6,-1
+(a),0,u (inviscid shock),4.625,-1
+(a),0,u (inviscid shock),4.65,-1
+(a),0,u (inviscid shock),4.675,-1
+(a),0,u (inviscid shock),4.7,-1
+(a),0,u (inviscid shock),4.725,-1
+(a),0,u (inviscid shock),4.75,-1
+(a),0,u (inviscid shock),4.775,-1
+(a),0,u (inviscid shock),4.8,-1
+(a),0,u (inviscid shock),4.825,-1
+(a),0,u (inviscid shock),4.85,-1
+(a),0,u (inviscid shock),4.875,-1
+(a),0,u (inviscid shock),4.9,-1
+(a),0,u (inviscid shock),4.925,-1
+(a),0,u (inviscid shock),4.95,-1
+(a),0,u (inviscid shock),4.975,-1
+(a),0,u (inviscid shock),5,-1
+(a),0,u (inviscid shock),5.025,-1
+(a),0,u (inviscid shock),5.05,-1
+(a),0,u (inviscid shock),5.075,-1
+(a),0,u (inviscid shock),5.1,-1
+(a),0,u (inviscid shock),5.125,-1
+(a),0,u (inviscid shock),5.15,-1
+(a),0,u (inviscid shock),5.175,-1
+(a),0,u (inviscid shock),5.2,-1
+(a),0,u (inviscid shock),5.225,-1
+(a),0,u (inviscid shock),5.25,-1
+(a),0,u (inviscid shock),5.275,-1
+(a),0,u (inviscid shock),5.3,-1
+(a),0,u (inviscid shock),5.325,-1
+(a),0,u (inviscid shock),5.35,-1
+(a),0,u (inviscid shock),5.375,-1
+(a),0,u (inviscid shock),5.4,-1
+(a),0,u (inviscid shock),5.425,-1
+(a),0,u (inviscid shock),5.45,-1
+(a),0,u (inviscid shock),5.475,-1
+(a),0,u (inviscid shock),5.5,-1
+(a),0,u (inviscid shock),5.525,-1
+(a),0,u (inviscid shock),5.55,-1
+(a),0,u (inviscid shock),5.575,-1
+(a),0,u (inviscid shock),5.6,-1
+(a),0,u (inviscid shock),5.625,-1
+(a),0,u (inviscid shock),5.65,-1
+(a),0,u (inviscid shock),5.675,-1
+(a),0,u (inviscid shock),5.7,-1
+(a),0,u (inviscid shock),5.725,-1
+(a),0,u (inviscid shock),5.75,-1
+(a),0,u (inviscid shock),5.775,-1
+(a),0,u (inviscid shock),5.8,-1
+(a),0,u (inviscid shock),5.825,-1
+(a),0,u (inviscid shock),5.85,-1
+(a),0,u (inviscid shock),5.875,-1
+(a),0,u (inviscid shock),5.9,-1
+(a),0,u (inviscid shock),5.925,-1
+(a),0,u (inviscid shock),5.95,-1
+(a),0,u (inviscid shock),5.975,-1
+(a),0,u (inviscid shock),6,-1
+(a),0,u (inviscid shock),6.025,-1
+(a),0,u (inviscid shock),6.05,-1
+(a),0,u (inviscid shock),6.075,-1
+(a),0,u (inviscid shock),6.1,-1
+(a),0,u (inviscid shock),6.125,-1
+(a),0,u (inviscid shock),6.15,-1
+(a),0,u (inviscid shock),6.175,-1
+(a),0,u (inviscid shock),6.2,-1
+(a),0,u (inviscid shock),6.225,-1
+(a),0,u (inviscid shock),6.25,-1
+(a),0,u (inviscid shock),6.275,-1
+(a),0,u (inviscid shock),6.3,-1
+(a),0,u (inviscid shock),6.325,-1
+(a),0,u (inviscid shock),6.35,-1
+(a),0,u (inviscid shock),6.375,-1
+(a),0,u (inviscid shock),6.4,-1
+(a),0,u (inviscid shock),6.425,-1
+(a),0,u (inviscid shock),6.45,-1
+(a),0,u (inviscid shock),6.475,-1
+(a),0,u (inviscid shock),6.5,-1
+(a),0,u (inviscid shock),6.525,-1
+(a),0,u (inviscid shock),6.55,-1
+(a),0,u (inviscid shock),6.575,-1
+(a),0,u (inviscid shock),6.6,-1
+(a),0,u (inviscid shock),6.625,-1
+(a),0,u (inviscid shock),6.65,-1
+(a),0,u (inviscid shock),6.675,-1
+(a),0,u (inviscid shock),6.7,-1
+(a),0,u (inviscid shock),6.725,-1
+(a),0,u (inviscid shock),6.75,-1
+(a),0,u (inviscid shock),6.775,-1
+(a),0,u (inviscid shock),6.8,-1
+(a),0,u (inviscid shock),6.825,-1
+(a),0,u (inviscid shock),6.85,-1
+(a),0,u (inviscid shock),6.875,-1
+(a),0,u (inviscid shock),6.9,-1
+(a),0,u (inviscid shock),6.925,-1
+(a),0,u (inviscid shock),6.95,-1
+(a),0,u (inviscid shock),6.975,-1
+(a),0,u (inviscid shock),7,-1
+(a),0,u (inviscid shock),7.025,-1
+(a),0,u (inviscid shock),7.05,-1
+(a),0,u (inviscid shock),7.075,-1
+(a),0,u (inviscid shock),7.1,-1
+(a),0,u (inviscid shock),7.125,-1
+(a),0,u (inviscid shock),7.15,-1
+(a),0,u (inviscid shock),7.175,-1
+(a),0,u (inviscid shock),7.2,-1
+(a),0,u (inviscid shock),7.225,-1
+(a),0,u (inviscid shock),7.25,-1
+(a),0,u (inviscid shock),7.275,-1
+(a),0,u (inviscid shock),7.3,-1
+(a),0,u (inviscid shock),7.325,-1
+(a),0,u (inviscid shock),7.35,-1
+(a),0,u (inviscid shock),7.375,-1
+(a),0,u (inviscid shock),7.4,-1
+(a),0,u (inviscid shock),7.425,-1
+(a),0,u (inviscid shock),7.45,-1
+(a),0,u (inviscid shock),7.475,-1
+(a),0,u (inviscid shock),7.5,-1
+(a),0,u (inviscid shock),7.525,-1
+(a),0,u (inviscid shock),7.55,-1
+(a),0,u (inviscid shock),7.575,-1
+(a),0,u (inviscid shock),7.6,-1
+(a),0,u (inviscid shock),7.625,-1
+(a),0,u (inviscid shock),7.65,-1
+(a),0,u (inviscid shock),7.675,-1
+(a),0,u (inviscid shock),7.7,-1
+(a),0,u (inviscid shock),7.725,-1
+(a),0,u (inviscid shock),7.75,-1
+(a),0,u (inviscid shock),7.775,-1
+(a),0,u (inviscid shock),7.8,-1
+(a),0,u (inviscid shock),7.825,-1
+(a),0,u (inviscid shock),7.85,-1
+(a),0,u (inviscid shock),7.875,-1
+(a),0,u (inviscid shock),7.9,-1
+(a),0,u (inviscid shock),7.925,-1
+(a),0,u (inviscid shock),7.95,-1
+(a),0,u (inviscid shock),7.975,-1
+(a),0,u (inviscid shock),8,-1
+(a),0,u (inviscid shock),8.025,-1
+(a),0,u (inviscid shock),8.05,-1
+(a),0,u (inviscid shock),8.075,-1
+(a),0,u (inviscid shock),8.1,-1
+(a),0,u (inviscid shock),8.125,-1
+(a),0,u (inviscid shock),8.15,-1
+(a),0,u (inviscid shock),8.175,-1
+(a),0,u (inviscid shock),8.2,-1
+(a),0,u (inviscid shock),8.225,-1
+(a),0,u (inviscid shock),8.25,-1
+(a),0,u (inviscid shock),8.275,-1
+(a),0,u (inviscid shock),8.3,-1
+(a),0,u (inviscid shock),8.325,-1
+(a),0,u (inviscid shock),8.35,-1
+(a),0,u (inviscid shock),8.375,-1
+(a),0,u (inviscid shock),8.4,-1
+(a),0,u (inviscid shock),8.425,-1
+(a),0,u (inviscid shock),8.45,-1
+(a),0,u (inviscid shock),8.475,-1
+(a),0,u (inviscid shock),8.5,-1
+(a),0,u (inviscid shock),8.525,-1
+(a),0,u (inviscid shock),8.55,-1
+(a),0,u (inviscid shock),8.575,-1
+(a),0,u (inviscid shock),8.6,-1
+(a),0,u (inviscid shock),8.625,-1
+(a),0,u (inviscid shock),8.65,-1
+(a),0,u (inviscid shock),8.675,-1
+(a),0,u (inviscid shock),8.7,-1
+(a),0,u (inviscid shock),8.725,-1
+(a),0,u (inviscid shock),8.75,-1
+(a),0,u (inviscid shock),8.775,-1
+(a),0,u (inviscid shock),8.8,-1
+(a),0,u (inviscid shock),8.825,-1
+(a),0,u (inviscid shock),8.85,-1
+(a),0,u (inviscid shock),8.875,-1
+(a),0,u (inviscid shock),8.9,-1
+(a),0,u (inviscid shock),8.925,-1
+(a),0,u (inviscid shock),8.95,-1
+(a),0,u (inviscid shock),8.975,-1
+(a),0,u (inviscid shock),9,-1
+(a),0,u (inviscid shock),9.025,-1
+(a),0,u (inviscid shock),9.05,-1
+(a),0,u (inviscid shock),9.075,-1
+(a),0,u (inviscid shock),9.1,-1
+(a),0,u (inviscid shock),9.125,-1
+(a),0,u (inviscid shock),9.15,-1
+(a),0,u (inviscid shock),9.175,-1
+(a),0,u (inviscid shock),9.2,-1
+(a),0,u (inviscid shock),9.225,-1
+(a),0,u (inviscid shock),9.25,-1
+(a),0,u (inviscid shock),9.275,-1
+(a),0,u (inviscid shock),9.3,-1
+(a),0,u (inviscid shock),9.325,-1
+(a),0,u (inviscid shock),9.35,-1
+(a),0,u (inviscid shock),9.375,-1
+(a),0,u (inviscid shock),9.4,-1
+(a),0,u (inviscid shock),9.425,-1
+(a),0,u (inviscid shock),9.45,-1
+(a),0,u (inviscid shock),9.475,-1
+(a),0,u (inviscid shock),9.5,-1
+(a),0,u (inviscid shock),9.525,-1
+(a),0,u (inviscid shock),9.55,-1
+(a),0,u (inviscid shock),9.575,-1
+(a),0,u (inviscid shock),9.6,-1
+(a),0,u (inviscid shock),9.625,-1
+(a),0,u (inviscid shock),9.65,-1
+(a),0,u (inviscid shock),9.675,-1
+(a),0,u (inviscid shock),9.7,-1
+(a),0,u (inviscid shock),9.725,-1
+(a),0,u (inviscid shock),9.75,-1
+(a),0,u (inviscid shock),9.775,-1
+(a),0,u (inviscid shock),9.8,-1
+(a),0,u (inviscid shock),9.825,-1
+(a),0,u (inviscid shock),9.85,-1
+(a),0,u (inviscid shock),9.875,-1
+(a),0,u (inviscid shock),9.9,-1
+(a),0,u (inviscid shock),9.925,-1
+(a),0,u (inviscid shock),9.95,-1
+(a),0,u (inviscid shock),9.975,-1
+(a),0,u (inviscid shock),10,-1
+(a),0,u (inviscid shock),10.025,-1
+(a),0,u (inviscid shock),10.05,-1
+(a),0,u (inviscid shock),10.075,-1
+(a),0,u (inviscid shock),10.1,-1
+(a),0,u (inviscid shock),10.125,-1
+(a),0,u (inviscid shock),10.15,-1
+(a),0,u (inviscid shock),10.175,-1
+(a),0,u (inviscid shock),10.2,-1
+(a),0,u (inviscid shock),10.225,-1
+(a),0,u (inviscid shock),10.25,-1
+(a),0,u (inviscid shock),10.275,-1
+(a),0,u (inviscid shock),10.3,-1
+(a),0,u (inviscid shock),10.325,-1
+(a),0,u (inviscid shock),10.35,-1
+(a),0,u (inviscid shock),10.375,-1
+(a),0,u (inviscid shock),10.4,-1
+(a),0,u (inviscid shock),10.425,-1
+(a),0,u (inviscid shock),10.45,-1
+(a),0,u (inviscid shock),10.475,-1
+(a),0,u (inviscid shock),10.5,-1
+(a),0,u (inviscid shock),10.525,-1
+(a),0,u (inviscid shock),10.55,-1
+(a),0,u (inviscid shock),10.575,-1
+(a),0,u (inviscid shock),10.6,-1
+(a),0,u (inviscid shock),10.625,-1
+(a),0,u (inviscid shock),10.65,-1
+(a),0,u (inviscid shock),10.675,-1
+(a),0,u (inviscid shock),10.7,-1
+(a),0,u (inviscid shock),10.725,-1
+(a),0,u (inviscid shock),10.75,-1
+(a),0,u (inviscid shock),10.775,-1
+(a),0,u (inviscid shock),10.8,-1
+(a),0,u (inviscid shock),10.825,-1
+(a),0,u (inviscid shock),10.85,-1
+(a),0,u (inviscid shock),10.875,-1
+(a),0,u (inviscid shock),10.9,-1
+(a),0,u (inviscid shock),10.925,-1
+(a),0,u (inviscid shock),10.95,-1
+(a),0,u (inviscid shock),10.975,-1
+(a),0,u (inviscid shock),11,-1
+(a),0,u (inviscid shock),11.025,-1
+(a),0,u (inviscid shock),11.05,-1
+(a),0,u (inviscid shock),11.075,-1
+(a),0,u (inviscid shock),11.1,-1
+(a),0,u (inviscid shock),11.125,-1
+(a),0,u (inviscid shock),11.15,-1
+(a),0,u (inviscid shock),11.175,-1
+(a),0,u (inviscid shock),11.2,-1
+(a),0,u (inviscid shock),11.225,-1
+(a),0,u (inviscid shock),11.25,-1
+(a),0,u (inviscid shock),11.275,-1
+(a),0,u (inviscid shock),11.3,-1
+(a),0,u (inviscid shock),11.325,-1
+(a),0,u (inviscid shock),11.35,-1
+(a),0,u (inviscid shock),11.375,-1
+(a),0,u (inviscid shock),11.4,-1
+(a),0,u (inviscid shock),11.425,-1
+(a),0,u (inviscid shock),11.45,-1
+(a),0,u (inviscid shock),11.475,-1
+(a),0,u (inviscid shock),11.5,-1
+(a),0,u (inviscid shock),11.525,-1
+(a),0,u (inviscid shock),11.55,-1
+(a),0,u (inviscid shock),11.575,-1
+(a),0,u (inviscid shock),11.6,-1
+(a),0,u (inviscid shock),11.625,-1
+(a),0,u (inviscid shock),11.65,-1
+(a),0,u (inviscid shock),11.675,-1
+(a),0,u (inviscid shock),11.7,-1
+(a),0,u (inviscid shock),11.725,-1
+(a),0,u (inviscid shock),11.75,-1
+(a),0,u (inviscid shock),11.775,-1
+(a),0,u (inviscid shock),11.8,-1
+(a),0,u (inviscid shock),11.825,-1
+(a),0,u (inviscid shock),11.85,-1
+(a),0,u (inviscid shock),11.875,-1
+(a),0,u (inviscid shock),11.9,-1
+(a),0,u (inviscid shock),11.925,-1
+(a),0,u (inviscid shock),11.95,-1
+(a),0,u (inviscid shock),11.975,-1
+(a),0,u (inviscid shock),12,-1
+(a),0,u (inviscid shock),12.025,-1
+(a),0,u (inviscid shock),12.05,-1
+(a),0,u (inviscid shock),12.075,-1
+(a),0,u (inviscid shock),12.1,-1
+(a),0,u (inviscid shock),12.125,-1
+(a),0,u (inviscid shock),12.15,-1
+(a),0,u (inviscid shock),12.175,-1
+(a),0,u (inviscid shock),12.2,-1
+(a),0,u (inviscid shock),12.225,-1
+(a),0,u (inviscid shock),12.25,-1
+(a),0,u (inviscid shock),12.275,-1
+(a),0,u (inviscid shock),12.3,-1
+(a),0,u (inviscid shock),12.325,-1
+(a),0,u (inviscid shock),12.35,-1
+(a),0,u (inviscid shock),12.375,-1
+(a),0,u (inviscid shock),12.4,-1
+(a),0,u (inviscid shock),12.425,-1
+(a),0,u (inviscid shock),12.45,-1
+(a),0,u (inviscid shock),12.475,-1
+(a),0,u (inviscid shock),12.5,-1
+(a),0,u (inviscid shock),12.525,-1
+(a),0,u (inviscid shock),12.55,-1
+(a),0,u (inviscid shock),12.575,-1
+(a),0,u (inviscid shock),12.6,-1
+(a),0,u (inviscid shock),12.625,-1
+(a),0,u (inviscid shock),12.65,-1
+(a),0,u (inviscid shock),12.675,-1
+(a),0,u (inviscid shock),12.7,-1
+(a),0,u (inviscid shock),12.725,-1
+(a),0,u (inviscid shock),12.75,-1
+(a),0,u (inviscid shock),12.775,-1
+(a),0,u (inviscid shock),12.8,-1
+(a),0,u (inviscid shock),12.825,-1
+(a),0,u (inviscid shock),12.85,-1
+(a),0,u (inviscid shock),12.875,-1
+(a),0,u (inviscid shock),12.9,-1
+(a),0,u (inviscid shock),12.925,-1
+(a),0,u (inviscid shock),12.95,-1
+(a),0,u (inviscid shock),12.975,-1
+(a),0,u (inviscid shock),13,-1
+(a),0,u (inviscid shock),13.025,-1
+(a),0,u (inviscid shock),13.05,-1
+(a),0,u (inviscid shock),13.075,-1
+(a),0,u (inviscid shock),13.1,-1
+(a),0,u (inviscid shock),13.125,-1
+(a),0,u (inviscid shock),13.15,-1
+(a),0,u (inviscid shock),13.175,-1
+(a),0,u (inviscid shock),13.2,-1
+(a),0,u (inviscid shock),13.225,-1
+(a),0,u (inviscid shock),13.25,-1
+(a),0,u (inviscid shock),13.275,-1
+(a),0,u (inviscid shock),13.3,-1
+(a),0,u (inviscid shock),13.325,-1
+(a),0,u (inviscid shock),13.35,-1
+(a),0,u (inviscid shock),13.375,-1
+(a),0,u (inviscid shock),13.4,-1
+(a),0,u (inviscid shock),13.425,-1
+(a),0,u (inviscid shock),13.45,-1
+(a),0,u (inviscid shock),13.475,-1
+(a),0,u (inviscid shock),13.5,-1
+(a),0,u (inviscid shock),13.525,-1
+(a),0,u (inviscid shock),13.55,-1
+(a),0,u (inviscid shock),13.575,-1
+(a),0,u (inviscid shock),13.6,-1
+(a),0,u (inviscid shock),13.625,-1
+(a),0,u (inviscid shock),13.65,-1
+(a),0,u (inviscid shock),13.675,-1
+(a),0,u (inviscid shock),13.7,-1
+(a),0,u (inviscid shock),13.725,-1
+(a),0,u (inviscid shock),13.75,-1
+(a),0,u (inviscid shock),13.775,-1
+(a),0,u (inviscid shock),13.8,-1
+(a),0,u (inviscid shock),13.825,-1
+(a),0,u (inviscid shock),13.85,-1
+(a),0,u (inviscid shock),13.875,-1
+(a),0,u (inviscid shock),13.9,-1
+(a),0,u (inviscid shock),13.925,-1
+(a),0,u (inviscid shock),13.95,-1
+(a),0,u (inviscid shock),13.975,-1
+(a),0,u (inviscid shock),14,-1
+(a),0,u (inviscid shock),14.025,-1
+(a),0,u (inviscid shock),14.05,-1
+(a),0,u (inviscid shock),14.075,-1
+(a),0,u (inviscid shock),14.1,-1
+(a),0,u (inviscid shock),14.125,-1
+(a),0,u (inviscid shock),14.15,-1
+(a),0,u (inviscid shock),14.175,-1
+(a),0,u (inviscid shock),14.2,-1
+(a),0,u (inviscid shock),14.225,-1
+(a),0,u (inviscid shock),14.25,-1
+(a),0,u (inviscid shock),14.275,-1
+(a),0,u (inviscid shock),14.3,-1
+(a),0,u (inviscid shock),14.325,-1
+(a),0,u (inviscid shock),14.35,-1
+(a),0,u (inviscid shock),14.375,-1
+(a),0,u (inviscid shock),14.4,-1
+(a),0,u (inviscid shock),14.425,-1
+(a),0,u (inviscid shock),14.45,-1
+(a),0,u (inviscid shock),14.475,-1
+(a),0,u (inviscid shock),14.5,-1
+(a),0,u (inviscid shock),14.525,-1
+(a),0,u (inviscid shock),14.55,-1
+(a),0,u (inviscid shock),14.575,-1
+(a),0,u (inviscid shock),14.6,-1
+(a),0,u (inviscid shock),14.625,-1
+(a),0,u (inviscid shock),14.65,-1
+(a),0,u (inviscid shock),14.675,-1
+(a),0,u (inviscid shock),14.7,-1
+(a),0,u (inviscid shock),14.725,-1
+(a),0,u (inviscid shock),14.75,-1
+(a),0,u (inviscid shock),14.775,-1
+(a),0,u (inviscid shock),14.8,-1
+(a),0,u (inviscid shock),14.825,-1
+(a),0,u (inviscid shock),14.85,-1
+(a),0,u (inviscid shock),14.875,-1
+(a),0,u (inviscid shock),14.9,-1
+(a),0,u (inviscid shock),14.925,-1
+(a),0,u (inviscid shock),14.95,-1
+(a),0,u (inviscid shock),14.975,-1
+(a),0,u (inviscid shock),15,-1
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-15,1.030174578
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.975,1.029474012
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.95,1.028752512
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.925,1.028010461
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.9,1.027248255
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.875,1.026466303
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.85,1.025665028
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.825,1.024844866
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.8,1.024006268
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.775,1.023149695
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.75,1.022275624
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.725,1.021384542
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.7,1.020476949
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.675,1.019553357
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.65,1.01861429
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.625,1.017660282
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.6,1.01669188
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.575,1.015709641
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.55,1.014714133
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.525,1.013705932
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.5,1.012685626
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.475,1.011653813
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.45,1.010611098
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.425,1.009558096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.4,1.008495432
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.375,1.007423736
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.35,1.006343648
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.325,1.005255816
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.3,1.004160892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.275,1.003059539
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.25,1.001952422
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.225,1.000840214
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.2,0.9997235953
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.175,0.9986032477
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.15,0.99747986
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.125,0.9963541246
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.1,0.9952267382
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.075,0.9940984006
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.05,0.992969815
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14.025,0.9918416869
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-14,0.9907147245
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.975,0.9895896373
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.95,0.9884671365
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.925,0.9873479341
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.9,0.9862327428
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.875,0.9851222753
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.85,0.9840172437
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.825,0.9829183596
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.8,0.9818263333
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.775,0.9807418733
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.75,0.9796656861
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.725,0.9785984757
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.7,0.9775409429
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.675,0.9764937853
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.65,0.9754576964
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.625,0.9744333656
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.6,0.9734214773
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.575,0.972422711
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.55,0.9714377403
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.525,0.9704672329
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.5,0.96951185
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.475,0.9685722459
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.45,0.9676490674
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.425,0.9667429538
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.4,0.9658545359
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.375,0.9649844361
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.35,0.9641332678
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.325,0.963301635
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.3,0.9624901316
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.275,0.9616993416
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.25,0.9609298381
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.225,0.9601821835
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.2,0.9594569286
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.175,0.9587546123
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.15,0.9580757617
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.125,0.957420891
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.1,0.9567905018
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.075,0.9561850822
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.05,0.9556051071
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13.025,0.9550510371
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-13,0.9545233187
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.975,0.9540223838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.95,0.9535486494
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.925,0.9531025173
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.9,0.9526843736
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.875,0.9522945888
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.85,0.9519335173
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.825,0.9516014969
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.8,0.951298849
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.775,0.9510258778
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.75,0.9507828707
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.725,0.9505700973
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.7,0.9503878099
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.675,0.9502362427
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.65,0.9501156119
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.625,0.9500261155
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.6,0.949967933
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.575,0.9499412252
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.55,0.949946134
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.525,0.9499827825
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.5,0.9500512745
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.475,0.9501516948
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.45,0.9502841084
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.425,0.9504485611
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.4,0.950645079
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.375,0.9508736684
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.35,0.9511343159
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.325,0.9514269881
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.3,0.9517516319
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.275,0.952108174
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.25,0.9524965213
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.225,0.9529165604
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.2,0.9533681581
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.175,0.9538511611
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.15,0.9543653959
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.125,0.9549106691
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.1,0.9554867675
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.075,0.9560934578
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.05,0.9567304867
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12.025,0.9573975814
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-12,0.9580944492
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.975,0.9588207779
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.95,0.9595762358
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.925,0.9603604716
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.9,0.9611731152
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.875,0.9620137769
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.85,0.9628820485
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.825,0.9637775027
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.8,0.9646996937
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.775,0.9656481575
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.75,0.9666224117
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.725,0.967621956
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.7,0.9686462723
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.675,0.9696948251
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.65,0.9707670615
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.625,0.9718624118
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.6,0.9729802895
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.575,0.9741200916
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.55,0.975281199
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.525,0.9764629768
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.5,0.9776647747
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.475,0.9788859271
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.45,0.9801257535
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.425,0.9813835591
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.4,0.9826586347
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.375,0.9839502576
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.35,0.9852576916
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.325,0.9865801876
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.3,0.9879169837
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.275,0.989267306
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.25,0.9906303688
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.225,0.9920053749
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.2,0.9933915165
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.175,0.994787975
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.15,0.9961939219
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.125,0.9976085193
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.1,0.9990309199
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.075,1.000460268
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.05,1.0018957
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11.025,1.003336343
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-11,1.00478132
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.975,1.006229745
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.95,1.007680726
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.925,1.009133366
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.9,1.010586763
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.875,1.01204001
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.85,1.013492196
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.825,1.014942406
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.8,1.016389722
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.775,1.017833225
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.75,1.019271993
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.725,1.020705103
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.7,1.022131629
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.675,1.023550649
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.65,1.024961237
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.625,1.02636247
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.6,1.027753427
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.575,1.029133188
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.55,1.030500835
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.525,1.031855454
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.5,1.033196134
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.475,1.03452197
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.45,1.03583206
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.425,1.037125506
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.4,1.038401421
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.375,1.039658918
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.35,1.040897123
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.325,1.042115165
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.3,1.043312185
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.275,1.044487329
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.25,1.045639756
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.225,1.046768632
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.2,1.047873134
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.175,1.048952451
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.15,1.050005784
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.125,1.051032343
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.1,1.052031354
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.075,1.053002053
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.05,1.053943693
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10.025,1.054855538
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-10,1.055736868
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.975,1.056586978
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.95,1.05740518
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.925,1.058190799
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.9,1.058943179
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.875,1.059661682
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.85,1.060345684
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.825,1.060994582
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.8,1.06160779
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.775,1.062184742
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.75,1.062724891
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.725,1.063227709
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.7,1.06369269
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.675,1.064119345
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.65,1.064507211
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.625,1.064855842
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.6,1.065164816
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.575,1.065433732
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.55,1.065662213
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.525,1.065849904
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.5,1.065996472
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.475,1.066101609
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.45,1.066165029
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.425,1.066186474
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.4,1.066165705
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.375,1.066102511
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.35,1.065996705
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.325,1.065848125
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.3,1.065656635
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.275,1.065422124
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.25,1.065144506
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.225,1.064823722
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.2,1.064459739
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.175,1.06405255
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.15,1.063602173
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.125,1.063108656
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.1,1.062572071
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.075,1.061992516
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.05,1.061370119
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9.025,1.060705031
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-9,1.059997434
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.975,1.059247534
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.95,1.058455565
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.925,1.057621787
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.9,1.05674649
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.875,1.055829988
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.85,1.054872623
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.825,1.053874763
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.8,1.052836805
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.775,1.051759171
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.75,1.050642309
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.725,1.049486696
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.7,1.048292833
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.675,1.047061248
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.65,1.045792496
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.625,1.044487156
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.6,1.043145835
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.575,1.041769163
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.55,1.040357797
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.525,1.038912419
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.5,1.037433735
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.475,1.035922474
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.45,1.034379393
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.425,1.03280527
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.4,1.031200907
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.375,1.029567129
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.35,1.027904785
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.325,1.026214745
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.3,1.024497902
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.275,1.022755171
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.25,1.020987488
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.225,1.019195808
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.2,1.01738111
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.175,1.01554439
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.15,1.013686664
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.125,1.011808969
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.1,1.009912358
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.075,1.007997903
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.05,1.006066694
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8.025,1.004119838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-8,1.002158456
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.975,1.000183688
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.95,0.9981966886
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.925,0.9961986253
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.9,0.9941906812
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.875,0.9921740527
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.85,0.9901499488
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.825,0.9881195909
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.8,0.986084212
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.775,0.9840450558
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.75,0.9820033767
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.725,0.9799604383
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.7,0.9779175135
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.675,0.9758758833
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.65,0.9738368361
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.625,0.9718016676
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.6,0.9697716791
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.575,0.9677481777
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.55,0.9657324752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.525,0.9637258871
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.5,0.9617297324
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.475,0.9597453323
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.45,0.9577740102
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.425,0.9558170899
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.4,0.9538758958
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.375,0.9519517516
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.35,0.9500459797
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.325,0.9481599005
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.3,0.9462948313
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.275,0.9444520859
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.25,0.9426329736
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.225,0.9408387985
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.2,0.9390708587
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.175,0.9373304454
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.15,0.9356188423
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.125,0.9339373246
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.1,0.9322871585
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.075,0.9306696
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.05,0.9290858945
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7.025,0.9275372759
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-7,0.9260249655
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.975,0.9245501717
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.95,0.9231140889
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.925,0.9217178969
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.9,0.92036276
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.875,0.9190498262
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.85,0.9177802264
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.825,0.9165550741
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.8,0.9153754638
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.775,0.9142424709
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.75,0.913157151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.725,0.9121205385
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.7,0.9111336466
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.675,0.910197466
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.65,0.9093129647
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.625,0.9084810867
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.6,0.907702752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.575,0.906978855
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.55,0.9063102648
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.525,0.9056978238
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.5,0.9051423474
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.475,0.9046446229
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.45,0.9042054096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.425,0.9038254374
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.4,0.9035054067
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.375,0.9032459874
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.35,0.9030478187
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.325,0.9029115082
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.3,0.9028376312
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.275,0.9028267307
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.25,0.9028793164
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.225,0.9029958641
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.2,0.9031768154
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.175,0.9034225774
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.15,0.9037335215
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.125,0.9041099838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.1,0.9045522638
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.075,0.9050606248
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.05,0.9056352925
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6.025,0.9062764556
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-6,0.9069842646
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.975,0.9077588319
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.95,0.9086002311
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.925,0.9095084971
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.9,0.9104836252
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.875,0.9115255713
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.85,0.9126342513
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.825,0.9138095409
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.8,0.9150512754
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.775,0.9163592496
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.75,0.917733217
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.725,0.9191728905
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.7,0.9206779414
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.675,0.9222479998
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.65,0.923882654
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.625,0.9255814509
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.6,0.9273438955
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.575,0.9291694509
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.55,0.9310575384
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.525,0.9330075372
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.5,0.9350187848
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.475,0.9370905765
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.45,0.9392221657
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.425,0.941412764
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.4,0.9436615412
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.375,0.9459676252
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.35,0.9483301025
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.325,0.9507480179
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.3,0.9532203749
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.275,0.955746136
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.25,0.9583242225
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.225,0.960953515
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.2,0.9636328536
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.175,0.9663610381
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.15,0.9691368282
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.125,0.9719589442
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.1,0.9748260666
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.075,0.9777368372
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.05,0.9806898589
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5.025,0.9836836964
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-5,0.9867168763
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.975,0.9897878881
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.95,0.9928951839
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.925,0.9960371793
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.9,0.9992122539
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.875,1.002418752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.85,1.005654981
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.825,1.008919217
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.8,1.0122097
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.775,1.015524636
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.75,1.018862199
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.725,1.022220533
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.7,1.025597746
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.675,1.028991918
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.65,1.0324011
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.625,1.035823309
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.6,1.039256538
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.575,1.042698749
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.55,1.046147877
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.525,1.049601831
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.5,1.053058494
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.475,1.056515724
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.45,1.059971354
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.425,1.063423195
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.4,1.066869034
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.375,1.070306636
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.35,1.073733748
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.325,1.077148093
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.3,1.080547377
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.275,1.083929288
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.25,1.087291496
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.225,1.090631655
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.2,1.093947404
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.175,1.097236365
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.15,1.100496151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.125,1.103724357
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.1,1.106918572
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.075,1.110076369
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.05,1.113195317
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4.025,1.116272971
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-4,1.119306882
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.975,1.122294594
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.95,1.125233644
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.925,1.128121567
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.9,1.130955892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.875,1.133734147
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.85,1.136453859
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.825,1.139112554
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.8,1.141707759
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.775,1.144237005
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.75,1.146697822
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.725,1.149087748
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.7,1.151404323
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.675,1.153645096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.65,1.155807621
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.625,1.157889463
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.6,1.159888195
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.575,1.161801399
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.55,1.163626673
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.525,1.165361624
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.5,1.167003874
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.475,1.168551061
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.45,1.170000838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.425,1.171350875
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.4,1.172598861
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.375,1.173742504
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.35,1.174779532
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.325,1.175707696
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.3,1.176524767
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.275,1.177228542
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.25,1.17781684
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.225,1.178287507
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.2,1.178638418
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.175,1.178867471
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.15,1.178972596
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.125,1.178951751
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.1,1.178802927
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.075,1.178524144
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.05,1.178113457
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3.025,1.177568952
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-3,1.176888752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.975,1.176071014
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.95,1.175113932
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.925,1.174015739
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.9,1.172774702
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.875,1.171389132
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.85,1.169857377
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.825,1.168177827
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.8,1.166348913
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.775,1.16436911
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.75,1.162236935
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.725,1.159950948
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.7,1.157509758
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.675,1.154912016
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.65,1.152156422
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.625,1.14924172
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.6,1.146166705
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.575,1.14293022
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.55,1.139531156
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.525,1.135968454
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.5,1.132241108
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.475,1.12834816
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.45,1.124288706
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.425,1.120061892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.4,1.115666921
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.375,1.111103044
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.35,1.10636957
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.325,1.101465862
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.3,1.096391335
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.275,1.091145463
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.25,1.085727773
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.225,1.08013785
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.2,1.074375333
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.175,1.068439922
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.15,1.06233137
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.125,1.056049489
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.1,1.049594151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.075,1.042965281
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.05,1.036162867
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2.025,1.029186954
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-2,1.022037644
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.975,1.0147151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.95,1.007219542
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.925,0.9995512509
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.9,0.9917105656
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.875,0.9836978844
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.85,0.9755136647
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.825,0.9671584232
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.8,0.9586327359
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.775,0.9499372376
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.75,0.9410726226
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.725,0.9320396439
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.7,0.9228391135
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.675,0.913471902
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.65,0.9039389386
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.625,0.8942412109
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.6,0.8843797647
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.575,0.8743557034
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.55,0.8641701884
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.525,0.8538244381
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.5,0.8433197281
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.475,0.8326573905
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.45,0.8218388139
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.425,0.8108654427
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.4,0.7997387767
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.375,0.7884603707
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.35,0.7770318344
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.325,0.7654548312
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.3,0.7537310782
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.275,0.7418623457
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.25,0.7298504562
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.225,0.7176972842
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.2,0.7054047556
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.175,0.6929748468
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.15,0.6804095843
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.125,0.6677110438
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.1,0.6548813497
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.075,0.6419226746
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.05,0.6288372378
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1.025,0.6156273054
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-1,0.6022951889
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.975,0.5888432449
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.95,0.5752738739
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.925,0.5615895196
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.9,0.547792668
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.875,0.5338858467
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.85,0.5198716239
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.825,0.5057526072
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.8,0.4915314432
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.775,0.4772108162
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.75,0.4627934473
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.725,0.4482820936
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.7,0.4336795468
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.675,0.4189886326
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.65,0.4042122096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.625,0.389353168
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.6,0.3744144289
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.575,0.3593989429
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.55,0.3443096892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.525,0.3291496746
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.5,0.3139219322
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.475,0.2986295204
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.45,0.2832755217
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.425,0.2678630416
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.4,0.2523952074
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.375,0.2368751672
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.35,0.2213060885
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.325,0.2056911573
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.3,0.1900335764
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.275,0.174336565
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.25,0.1586033568
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.225,0.1428371992
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.2,0.1270413517
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.175,0.1112190851
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.15,0.09537368019
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.125,0.07950842625
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.1,0.06362662008
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.075,0.04773156467
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.05,0.03182656798
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),-0.025,0.0159149417
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0,-0
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.025,-0.0159149417
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.05,-0.03182656798
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.075,-0.04773156467
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.1,-0.06362662008
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.125,-0.07950842625
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.15,-0.09537368019
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.175,-0.1112190851
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.2,-0.1270413517
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.225,-0.1428371992
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.25,-0.1586033568
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.275,-0.174336565
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.3,-0.1900335764
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.325,-0.2056911573
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.35,-0.2213060885
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.375,-0.2368751672
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.4,-0.2523952074
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.425,-0.2678630416
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.45,-0.2832755217
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.475,-0.2986295204
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.5,-0.3139219322
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.525,-0.3291496746
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.55,-0.3443096892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.575,-0.3593989429
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.6,-0.3744144289
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.625,-0.389353168
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.65,-0.4042122096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.675,-0.4189886326
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.7,-0.4336795468
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.725,-0.4482820936
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.75,-0.4627934473
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.775,-0.4772108162
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.8,-0.4915314432
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.825,-0.5057526072
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.85,-0.5198716239
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.875,-0.5338858467
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.9,-0.547792668
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.925,-0.5615895196
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.95,-0.5752738739
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),0.975,-0.5888432449
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1,-0.6022951889
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.025,-0.6156273054
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.05,-0.6288372378
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.075,-0.6419226746
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.1,-0.6548813497
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.125,-0.6677110438
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.15,-0.6804095843
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.175,-0.6929748468
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.2,-0.7054047556
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.225,-0.7176972842
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.25,-0.7298504562
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.275,-0.7418623457
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.3,-0.7537310782
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.325,-0.7654548312
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.35,-0.7770318344
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.375,-0.7884603707
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.4,-0.7997387767
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.425,-0.8108654427
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.45,-0.8218388139
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.475,-0.8326573905
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.5,-0.8433197281
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.525,-0.8538244381
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.55,-0.8641701884
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.575,-0.8743557034
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.6,-0.8843797647
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.625,-0.8942412109
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.65,-0.9039389386
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.675,-0.913471902
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.7,-0.9228391135
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.725,-0.9320396439
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.75,-0.9410726226
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.775,-0.9499372376
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.8,-0.9586327359
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.825,-0.9671584232
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.85,-0.9755136647
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.875,-0.9836978844
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.9,-0.9917105656
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.925,-0.9995512509
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.95,-1.007219542
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),1.975,-1.0147151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2,-1.022037644
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.025,-1.029186954
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.05,-1.036162867
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.075,-1.042965281
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.1,-1.049594151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.125,-1.056049489
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.15,-1.06233137
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.175,-1.068439922
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.2,-1.074375333
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.225,-1.08013785
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.25,-1.085727773
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.275,-1.091145463
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.3,-1.096391335
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.325,-1.101465862
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.35,-1.10636957
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.375,-1.111103044
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.4,-1.115666921
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.425,-1.120061892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.45,-1.124288706
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.475,-1.12834816
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.5,-1.132241108
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.525,-1.135968454
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.55,-1.139531156
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.575,-1.14293022
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.6,-1.146166705
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.625,-1.14924172
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.65,-1.152156422
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.675,-1.154912016
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.7,-1.157509758
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.725,-1.159950948
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.75,-1.162236935
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.775,-1.16436911
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.8,-1.166348913
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.825,-1.168177827
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.85,-1.169857377
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.875,-1.171389132
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.9,-1.172774702
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.925,-1.174015739
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.95,-1.175113932
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),2.975,-1.176071014
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3,-1.176888752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.025,-1.177568952
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.05,-1.178113457
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.075,-1.178524144
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.1,-1.178802927
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.125,-1.178951751
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.15,-1.178972596
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.175,-1.178867471
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.2,-1.178638418
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.225,-1.178287507
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.25,-1.17781684
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.275,-1.177228542
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.3,-1.176524767
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.325,-1.175707696
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.35,-1.174779532
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.375,-1.173742504
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.4,-1.172598861
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.425,-1.171350875
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.45,-1.170000838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.475,-1.168551061
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.5,-1.167003874
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.525,-1.165361624
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.55,-1.163626673
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.575,-1.161801399
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.6,-1.159888195
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.625,-1.157889463
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.65,-1.155807621
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.675,-1.153645096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.7,-1.151404323
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.725,-1.149087748
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.75,-1.146697822
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.775,-1.144237005
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.8,-1.141707759
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.825,-1.139112554
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.85,-1.136453859
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.875,-1.133734147
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.9,-1.130955892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.925,-1.128121567
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.95,-1.125233644
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),3.975,-1.122294594
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4,-1.119306882
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.025,-1.116272971
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.05,-1.113195317
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.075,-1.110076369
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.1,-1.106918572
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.125,-1.103724357
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.15,-1.100496151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.175,-1.097236365
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.2,-1.093947404
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.225,-1.090631655
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.25,-1.087291496
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.275,-1.083929288
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.3,-1.080547377
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.325,-1.077148093
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.35,-1.073733748
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.375,-1.070306636
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.4,-1.066869034
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.425,-1.063423195
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.45,-1.059971354
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.475,-1.056515724
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.5,-1.053058494
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.525,-1.049601831
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.55,-1.046147877
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.575,-1.042698749
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.6,-1.039256538
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.625,-1.035823309
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.65,-1.0324011
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.675,-1.028991918
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.7,-1.025597746
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.725,-1.022220533
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.75,-1.018862199
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.775,-1.015524636
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.8,-1.0122097
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.825,-1.008919217
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.85,-1.005654981
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.875,-1.002418752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.9,-0.9992122539
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.925,-0.9960371793
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.95,-0.9928951839
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),4.975,-0.9897878881
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5,-0.9867168763
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.025,-0.9836836964
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.05,-0.9806898589
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.075,-0.9777368372
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.1,-0.9748260666
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.125,-0.9719589442
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.15,-0.9691368282
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.175,-0.9663610381
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.2,-0.9636328536
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.225,-0.960953515
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.25,-0.9583242225
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.275,-0.955746136
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.3,-0.9532203749
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.325,-0.9507480179
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.35,-0.9483301025
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.375,-0.9459676252
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.4,-0.9436615412
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.425,-0.941412764
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.45,-0.9392221657
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.475,-0.9370905765
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.5,-0.9350187848
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.525,-0.9330075372
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.55,-0.9310575384
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.575,-0.9291694509
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.6,-0.9273438955
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.625,-0.9255814509
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.65,-0.923882654
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.675,-0.9222479998
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.7,-0.9206779414
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.725,-0.9191728905
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.75,-0.917733217
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.775,-0.9163592496
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.8,-0.9150512754
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.825,-0.9138095409
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.85,-0.9126342513
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.875,-0.9115255713
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.9,-0.9104836252
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.925,-0.9095084971
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.95,-0.9086002311
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),5.975,-0.9077588319
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6,-0.9069842646
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.025,-0.9062764556
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.05,-0.9056352925
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.075,-0.9050606248
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.1,-0.9045522638
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.125,-0.9041099838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.15,-0.9037335215
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.175,-0.9034225774
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.2,-0.9031768154
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.225,-0.9029958641
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.25,-0.9028793164
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.275,-0.9028267307
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.3,-0.9028376312
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.325,-0.9029115082
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.35,-0.9030478187
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.375,-0.9032459874
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.4,-0.9035054067
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.425,-0.9038254374
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.45,-0.9042054096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.475,-0.9046446229
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.5,-0.9051423474
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.525,-0.9056978238
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.55,-0.9063102648
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.575,-0.906978855
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.6,-0.907702752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.625,-0.9084810867
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.65,-0.9093129647
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.675,-0.910197466
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.7,-0.9111336466
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.725,-0.9121205385
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.75,-0.913157151
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.775,-0.9142424709
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.8,-0.9153754638
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.825,-0.9165550741
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.85,-0.9177802264
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.875,-0.9190498262
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.9,-0.92036276
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.925,-0.9217178969
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.95,-0.9231140889
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),6.975,-0.9245501717
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7,-0.9260249655
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.025,-0.9275372759
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.05,-0.9290858945
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.075,-0.9306696
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.1,-0.9322871585
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.125,-0.9339373246
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.15,-0.9356188423
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.175,-0.9373304454
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.2,-0.9390708587
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.225,-0.9408387985
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.25,-0.9426329736
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.275,-0.9444520859
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.3,-0.9462948313
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.325,-0.9481599005
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.35,-0.9500459797
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.375,-0.9519517516
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.4,-0.9538758958
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.425,-0.9558170899
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.45,-0.9577740102
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.475,-0.9597453323
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.5,-0.9617297324
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.525,-0.9637258871
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.55,-0.9657324752
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.575,-0.9677481777
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.6,-0.9697716791
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.625,-0.9718016676
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.65,-0.9738368361
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.675,-0.9758758833
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.7,-0.9779175135
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.725,-0.9799604383
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.75,-0.9820033767
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.775,-0.9840450558
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.8,-0.986084212
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.825,-0.9881195909
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.85,-0.9901499488
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.875,-0.9921740527
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.9,-0.9941906812
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.925,-0.9961986253
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.95,-0.9981966886
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),7.975,-1.000183688
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8,-1.002158456
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.025,-1.004119838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.05,-1.006066694
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.075,-1.007997903
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.1,-1.009912358
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.125,-1.011808969
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.15,-1.013686664
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.175,-1.01554439
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.2,-1.01738111
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.225,-1.019195808
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.25,-1.020987488
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.275,-1.022755171
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.3,-1.024497902
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.325,-1.026214745
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.35,-1.027904785
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.375,-1.029567129
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.4,-1.031200907
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.425,-1.03280527
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.45,-1.034379393
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.475,-1.035922474
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.5,-1.037433735
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.525,-1.038912419
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.55,-1.040357797
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.575,-1.041769163
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.6,-1.043145835
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.625,-1.044487156
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.65,-1.045792496
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.675,-1.047061248
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.7,-1.048292833
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.725,-1.049486696
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.75,-1.050642309
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.775,-1.051759171
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.8,-1.052836805
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.825,-1.053874763
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.85,-1.054872623
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.875,-1.055829988
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.9,-1.05674649
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.925,-1.057621787
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.95,-1.058455565
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),8.975,-1.059247534
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9,-1.059997434
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.025,-1.060705031
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.05,-1.061370119
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.075,-1.061992516
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.1,-1.062572071
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.125,-1.063108656
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.15,-1.063602173
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.175,-1.06405255
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.2,-1.064459739
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.225,-1.064823722
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.25,-1.065144506
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.275,-1.065422124
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.3,-1.065656635
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.325,-1.065848125
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.35,-1.065996705
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.375,-1.066102511
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.4,-1.066165705
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.425,-1.066186474
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.45,-1.066165029
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.475,-1.066101609
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.5,-1.065996472
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.525,-1.065849904
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.55,-1.065662213
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.575,-1.065433732
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.6,-1.065164816
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.625,-1.064855842
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.65,-1.064507211
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.675,-1.064119345
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.7,-1.06369269
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.725,-1.063227709
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.75,-1.062724891
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.775,-1.062184742
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.8,-1.06160779
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.825,-1.060994582
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.85,-1.060345684
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.875,-1.059661682
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.9,-1.058943179
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.925,-1.058190799
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.95,-1.05740518
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),9.975,-1.056586978
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10,-1.055736868
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.025,-1.054855538
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.05,-1.053943693
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.075,-1.053002053
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.1,-1.052031354
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.125,-1.051032343
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.15,-1.050005784
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.175,-1.048952451
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.2,-1.047873134
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.225,-1.046768632
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.25,-1.045639756
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.275,-1.044487329
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.3,-1.043312185
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.325,-1.042115165
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.35,-1.040897123
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.375,-1.039658918
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.4,-1.038401421
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.425,-1.037125506
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.45,-1.03583206
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.475,-1.03452197
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.5,-1.033196134
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.525,-1.031855454
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.55,-1.030500835
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.575,-1.029133188
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.6,-1.027753427
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.625,-1.02636247
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.65,-1.024961237
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.675,-1.023550649
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.7,-1.022131629
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.725,-1.020705103
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.75,-1.019271993
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.775,-1.017833225
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.8,-1.016389722
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.825,-1.014942406
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.85,-1.013492196
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.875,-1.01204001
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.9,-1.010586763
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.925,-1.009133366
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.95,-1.007680726
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),10.975,-1.006229745
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11,-1.00478132
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.025,-1.003336343
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.05,-1.0018957
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.075,-1.000460268
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.1,-0.9990309199
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.125,-0.9976085193
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.15,-0.9961939219
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.175,-0.994787975
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.2,-0.9933915165
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.225,-0.9920053749
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.25,-0.9906303688
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.275,-0.989267306
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.3,-0.9879169837
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.325,-0.9865801876
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.35,-0.9852576916
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.375,-0.9839502576
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.4,-0.9826586347
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.425,-0.9813835591
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.45,-0.9801257535
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.475,-0.9788859271
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.5,-0.9776647747
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.525,-0.9764629768
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.55,-0.975281199
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.575,-0.9741200916
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.6,-0.9729802895
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.625,-0.9718624118
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.65,-0.9707670615
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.675,-0.9696948251
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.7,-0.9686462723
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.725,-0.967621956
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.75,-0.9666224117
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.775,-0.9656481575
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.8,-0.9646996937
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.825,-0.9637775027
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.85,-0.9628820485
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.875,-0.9620137769
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.9,-0.9611731152
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.925,-0.9603604716
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.95,-0.9595762358
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),11.975,-0.9588207779
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12,-0.9580944492
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.025,-0.9573975814
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.05,-0.9567304867
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.075,-0.9560934578
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.1,-0.9554867675
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.125,-0.9549106691
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.15,-0.9543653959
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.175,-0.9538511611
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.2,-0.9533681581
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.225,-0.9529165604
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.25,-0.9524965213
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.275,-0.952108174
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.3,-0.9517516319
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.325,-0.9514269881
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.35,-0.9511343159
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.375,-0.9508736684
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.4,-0.950645079
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.425,-0.9504485611
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.45,-0.9502841084
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.475,-0.9501516948
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.5,-0.9500512745
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.525,-0.9499827825
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.55,-0.949946134
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.575,-0.9499412252
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.6,-0.949967933
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.625,-0.9500261155
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.65,-0.9501156119
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.675,-0.9502362427
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.7,-0.9503878099
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.725,-0.9505700973
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.75,-0.9507828707
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.775,-0.9510258778
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.8,-0.951298849
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.825,-0.9516014969
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.85,-0.9519335173
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.875,-0.9522945888
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.9,-0.9526843736
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.925,-0.9531025173
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.95,-0.9535486494
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),12.975,-0.9540223838
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13,-0.9545233187
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.025,-0.9550510371
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.05,-0.9556051071
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.075,-0.9561850822
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.1,-0.9567905018
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.125,-0.957420891
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.15,-0.9580757617
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.175,-0.9587546123
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.2,-0.9594569286
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.225,-0.9601821835
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.25,-0.9609298381
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.275,-0.9616993416
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.3,-0.9624901316
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.325,-0.963301635
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.35,-0.9641332678
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.375,-0.9649844361
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.4,-0.9658545359
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.425,-0.9667429538
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.45,-0.9676490674
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.475,-0.9685722459
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.5,-0.96951185
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.525,-0.9704672329
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.55,-0.9714377403
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.575,-0.972422711
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.6,-0.9734214773
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.625,-0.9744333656
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.65,-0.9754576964
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.675,-0.9764937853
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.7,-0.9775409429
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.725,-0.9785984757
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.75,-0.9796656861
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.775,-0.9807418733
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.8,-0.9818263333
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.825,-0.9829183596
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.85,-0.9840172437
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.875,-0.9851222753
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.9,-0.9862327428
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.925,-0.9873479341
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.95,-0.9884671365
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),13.975,-0.9895896373
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14,-0.9907147245
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.025,-0.9918416869
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.05,-0.992969815
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.075,-0.9940984006
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.1,-0.9952267382
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.125,-0.9963541246
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.15,-0.99747986
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.175,-0.9986032477
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.2,-0.9997235953
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.225,-1.000840214
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.25,-1.001952422
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.275,-1.003059539
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.3,-1.004160892
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.325,-1.005255816
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.35,-1.006343648
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.375,-1.007423736
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.4,-1.008495432
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.425,-1.009558096
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.45,-1.010611098
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.475,-1.011653813
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.5,-1.012685626
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.525,-1.013705932
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.55,-1.014714133
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.575,-1.015709641
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.6,-1.01669188
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.625,-1.017660282
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.65,-1.01861429
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.675,-1.019553357
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.7,-1.020476949
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.725,-1.021384542
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.75,-1.022275624
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.775,-1.023149695
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.8,-1.024006268
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.825,-1.024844866
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.85,-1.025665028
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.875,-1.026466303
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.9,-1.027248255
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.925,-1.028010461
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.95,-1.028752512
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),14.975,-1.029474012
+(a),1,\bar u=-(2u_0/\pi) \mathrm{Si}(Kx),15,-1.030174578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-15,-0.09622645197
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.975,-0.09395991615
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.95,-0.0916272686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.925,-0.08922988408
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.9,-0.08676918308
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.875,-0.08424663079
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.85,-0.08166373604
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.825,-0.0790220501
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.8,-0.07632316563
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.775,-0.07356871542
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.75,-0.07076037123
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.725,-0.06789984254
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.7,-0.06498887526
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.675,-0.0620292505
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.65,-0.05902278322
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.625,-0.05597132089
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.6,-0.05287674219
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.575,-0.04974095559
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.55,-0.04656589798
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.525,-0.04335353331
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.5,-0.04010585111
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.475,-0.0368248651
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.45,-0.03351261178
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.425,-0.03017114895
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.4,-0.02680255426
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.375,-0.02340892378
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.35,-0.01999237053
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.325,-0.01655502301
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.3,-0.01309902375
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.275,-0.009626527829
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.25,-0.006139701461
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.225,-0.002640720491
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.2,0.0008682310304
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.175,0.004384962292
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.15,0.007907277162
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.125,0.01143297561
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.1,0.01495985513
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.075,0.01848571213
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.05,0.02200834334
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14.025,0.02552554717
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-14,0.02903512512
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.975,0.03253488305
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.95,0.03602263257
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.925,0.03949619233
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.9,0.04295338932
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.875,0.04639206014
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.85,0.04981005225
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.825,0.05320522521
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.8,0.05657545188
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.775,0.05991861961
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.75,0.06323263142
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.725,0.06651540712
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.7,0.06976488447
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.675,0.07297902022
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.65,0.0761557912
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.625,0.0792931954
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.6,0.08238925295
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.575,0.08544200714
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.55,0.08844952537
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.525,0.09140990013
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.5,0.09432124989
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.475,0.09718172002
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.45,0.09998948365
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.425,0.1027427425
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.4,0.1054397279
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.375,0.108078701
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.35,0.1106579546
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.325,0.1131758126
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.3,0.1156306319
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.275,0.1180208025
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.25,0.1203447481
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.225,0.1226009273
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.2,0.1247878335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.175,0.1269039964
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.15,0.1289479819
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.125,0.1309183929
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.1,0.1328138701
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.075,0.1346330922
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.05,0.1363747766
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13.025,0.1380376801
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-13,0.1396205991
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.975,0.1411223701
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.95,0.1425418705
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.925,0.1438780188
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.9,0.145129775
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.875,0.1462961411
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.85,0.1473761619
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.825,0.1483689247
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.8,0.1492735602
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.775,0.150089243
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.75,0.1508151914
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.725,0.1514506685
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.7,0.151994982
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.675,0.1524474848
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.65,0.1528075756
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.625,0.1530746986
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.6,0.1532483446
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.575,0.1533280507
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.55,0.1533134012
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.525,0.1532040273
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.5,0.1529996082
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.475,0.1526998707
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.45,0.1523045898
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.425,0.1518135893
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.4,0.1512267416
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.375,0.1505439682
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.35,0.1497652403
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.325,0.1488905787
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.3,0.1479200541
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.275,0.1468537877
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.25,0.1456919514
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.225,0.1444347676
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.2,0.1430825102
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.175,0.1416355043
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.15,0.1400941269
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.125,0.1384588066
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.1,0.1367300245
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.075,0.1349083138
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.05,0.1329942605
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12.025,0.1309885033
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-12,0.128891734
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.975,0.1267046977
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.95,0.1244281927
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.925,0.122063071
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.9,0.1196102382
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.875,0.1170706538
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.85,0.1144453312
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.825,0.1117353379
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.8,0.1089417953
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.775,0.1060658792
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.75,0.1031088194
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.725,0.1000719001
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.7,0.09695645943
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.675,0.09376388982
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.65,0.09049563767
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.625,0.08715320334
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.6,0.08373814101
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.575,0.08025205851
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.55,0.07669661711
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.525,0.07307353132
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.5,0.06938456855
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.475,0.0656315489
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.45,0.06181634472
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.425,0.0579408803
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.4,0.05400713138
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.375,0.05001712474
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.35,0.04597293764
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.325,0.04187669726
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.3,0.03773058013
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.275,0.03353681147
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.25,0.02929766444
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.225,0.02501545945
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.2,0.02069256335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.175,0.01633138851
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.15,0.01193439203
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.125,0.007504074672
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.1,0.003042979916
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.075,-0.001446307128
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.05,-0.005961160837
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11.025,-0.01049891625
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-11,-0.01505687031
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.975,-0.01963228313
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.95,-0.02422237936
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.925,-0.02882434955
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.9,-0.03343535165
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.875,-0.03805251249
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.85,-0.04267292937
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.825,-0.04729367166
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.8,-0.05191178248
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.775,-0.05652428046
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.75,-0.06112816148
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.725,-0.06572040055
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.7,-0.0702979537
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.675,-0.07485775988
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.65,-0.07939674299
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.625,-0.08391181394
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.6,-0.08839987268
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.575,-0.0928578104
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.55,-0.09728251165
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.525,-0.1016708566
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.5,-0.1060197234
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.475,-0.1103259902
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.45,-0.1145865378
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.425,-0.118798252
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.4,-0.1229580257
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.375,-0.1270627617
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.35,-0.131109375
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.325,-0.1350947953
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.3,-0.1390159698
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.275,-0.1428698651
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.25,-0.1466534705
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.225,-0.1503637999
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.2,-0.1539978952
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.175,-0.157552828
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.15,-0.1610257028
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.125,-0.1644136595
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.1,-0.1677138758
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.075,-0.1709235702
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.05,-0.1740400041
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10.025,-0.1770604849
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-10,-0.1799823682
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.975,-0.1828030606
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.95,-0.1855200221
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.925,-0.1881307686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.9,-0.1906328747
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.875,-0.1930239758
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.85,-0.1953017707
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.825,-0.1974640241
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.8,-0.1995085686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.775,-0.2014333075
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.75,-0.2032362168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.725,-0.2049153475
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.7,-0.2064688275
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.675,-0.2078948643
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.65,-0.2091917464
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.625,-0.2103578458
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.6,-0.2113916197
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.575,-0.2122916123
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.55,-0.2130564567
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.525,-0.2136848767
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.5,-0.2141756882
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.475,-0.2145278009
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.45,-0.21474022
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.425,-0.2148120469
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.4,-0.2147424814
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.375,-0.2145308223
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.35,-0.2141764686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.325,-0.213678921
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.3,-0.213037782
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.275,-0.2122527576
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.25,-0.2113236575
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.225,-0.2102503959
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.2,-0.2090329921
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.175,-0.207671571
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.15,-0.2061663631
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.125,-0.2045177051
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.1,-0.2027260399
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.075,-0.2007919167
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.05,-0.1987159908
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9.025,-0.1964990233
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-9,-0.1941418811
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.975,-0.1916455366
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.95,-0.1890110667
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.925,-0.1862396526
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.9,-0.1833325788
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.875,-0.1802912328
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.85,-0.1771171036
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.825,-0.173811781
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.8,-0.1703769545
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.775,-0.166814412
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.75,-0.1631260385
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.725,-0.1593138147
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.7,-0.1553798157
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.675,-0.151326209
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.65,-0.1471552532
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.625,-0.1428692963
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.6,-0.1384707736
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.575,-0.1339622056
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.55,-0.1293461967
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.525,-0.1246254326
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.5,-0.1198026781
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.475,-0.1148807753
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.45,-0.1098626409
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.425,-0.1047512644
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.4,-0.09954970489
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.375,-0.0942610895
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.35,-0.08888861032
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.325,-0.08343552202
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.3,-0.07790513931
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.275,-0.07230083424
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.25,-0.06662603358
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.225,-0.06088421611
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.2,-0.0550789099
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.175,-0.04921368954
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.15,-0.04329217344
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.125,-0.03731802095
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.1,-0.03129492967
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.075,-0.02522663256
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.05,-0.01911689518
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8.025,-0.0129695129
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-8,-0.006788308048
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.975,-0.0005771271688
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.95,0.00566016179
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.925,0.01191967223
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.9,0.01819750164
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.875,0.02448973435
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.85,0.03079244418
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.825,0.03710169714
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.8,0.04341355405
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.775,0.04972407314
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.75,0.05602931259
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.725,0.06232533307
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.7,0.06860820017
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.675,0.07487398684
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.65,0.08111877578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.625,0.08733866168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.6,0.09352975356
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.575,0.0996881769
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.55,0.1058100758
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.525,0.1118916151
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.5,0.1179289824
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.475,0.1239183897
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.45,0.1298560759
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.425,0.1357383079
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.4,0.141561383
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.375,0.1473216301
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.35,0.1530154114
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.325,0.1586391241
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.3,0.1641892018
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.275,0.1696621156
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.25,0.1750543761
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.225,0.1803625338
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.2,0.1855831808
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.175,0.190712952
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.15,0.1957485258
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.125,0.2006866253
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.1,0.2055240189
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.075,0.2102575217
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.05,0.214883996
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7.025,0.2194003516
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-7,0.2238035473
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.975,0.2280905909
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.95,0.23225854
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.925,0.2363045023
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.9,0.2402256365
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.875,0.244019152
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.85,0.2476823102
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.825,0.2512124241
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.8,0.2546068586
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.775,0.2578630314
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.75,0.2609784125
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.725,0.2639505251
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.7,0.2667769451
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.675,0.2694553017
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.65,0.2719832776
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.625,0.2743586087
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.6,0.2765790849
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.575,0.2786425497
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.55,0.2805469004
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.525,0.2822900885
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.5,0.2838701198
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.475,0.2852850542
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.45,0.2865330064
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.425,0.2876121457
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.4,0.2885206965
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.375,0.2892569383
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.35,0.2898192062
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.325,0.2902058913
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.3,0.2904154406
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.275,0.2904463579
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.25,0.2902972042
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.225,0.2899665978
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.2,0.2894532153
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.175,0.2887557922
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.15,0.2878731231
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.125,0.2868040629
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.1,0.2855475275
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.075,0.2841024947
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.05,0.2824680049
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6.025,0.2806431622
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-6,0.2786271358
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.975,0.2764191607
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.95,0.2740185391
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.925,0.2714246418
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.9,0.2686369095
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.875,0.2656548542
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.85,0.2624780609
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.825,0.2591061888
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.8,0.2555389738
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.775,0.2517762292
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.75,0.2478178486
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.725,0.2436638071
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.7,0.2393141634
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.675,0.2347690622
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.65,0.2300287361
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.625,0.2250935078
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.6,0.2199637925
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.575,0.2146400998
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.55,0.209123037
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.525,0.2034133105
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.5,0.1975117291
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.475,0.1914192062
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.45,0.1851367623
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.425,0.1786655279
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.4,0.1720067463
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.375,0.1651617756
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.35,0.1581320924
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.325,0.1509192938
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.3,0.1435251005
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.275,0.1359513594
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.25,0.1282000468
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.225,0.1202732704
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.2,0.112173273
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.175,0.1039024344
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.15,0.09546327464
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.125,0.08685845652
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.1,0.07809078823
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.075,0.06916322596
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.05,0.06007887645
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5.025,0.05084099947
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-5,0.04145301023
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.975,0.03191848168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.95,0.0222411468
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.925,0.01242490068
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.9,0.002473802634
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.875,-0.007607921942
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.85,-0.01781587972
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.825,-0.02814550776
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.8,-0.038592072
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.775,-0.04915066582
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.75,-0.05981620886
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.725,-0.07058344586
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.7,-0.08144694582
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.675,-0.09240110124
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.65,-0.1034401276
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.625,-0.1145580628
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.6,-0.1257487676
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.575,-0.1370059248
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.55,-0.1483230404
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.525,-0.1596934434
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.5,-0.1711102869
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.475,-0.1825665491
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.45,-0.1940550342
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.425,-0.2055683742
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.4,-0.2170990302
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.375,-0.228639295
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.35,-0.2401812946
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.325,-0.2517169911
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.3,-0.2632381857
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.275,-0.2747365213
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.25,-0.2862034858
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.225,-0.2976304162
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.2,-0.3090085023
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.175,-0.3203287906
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.15,-0.3315821891
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.125,-0.342759472
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.1,-0.3538512848
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.075,-0.3648481495
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.05,-0.3757404706
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4.025,-0.3865185407
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-4,-0.3971725467
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.975,-0.4076925769
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.95,-0.4180686271
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.925,-0.4282906082
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.9,-0.4383483534
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.875,-0.4482316258
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.85,-0.4579301266
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.825,-0.4674335031
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.8,-0.4767313571
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.775,-0.4858132539
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.75,-0.4946687311
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.725,-0.503287308
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.7,-0.5116584948
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.675,-0.5197718026
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.65,-0.5276167531
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.625,-0.5351828889
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.6,-0.5424597838
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.575,-0.5494370532
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.55,-0.556104365
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.525,-0.5624514504
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.5,-0.568468115
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.475,-0.57414425
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.45,-0.5794698435
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.425,-0.5844349919
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.4,-0.5890299117
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.375,-0.5932449508
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.35,-0.5970706007
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.325,-0.6004975079
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.3,-0.603516486
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.275,-0.6061185278
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.25,-0.6082948168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.225,-0.6100367394
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.2,-0.6113358968
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.175,-0.6121841171
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.15,-0.6125734668
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.125,-0.612496263
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.1,-0.6119450848
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.075,-0.6109127853
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.05,-0.609392503
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3.025,-0.6073776731
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-3,-0.6048620389
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.975,-0.6018396632
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.95,-0.5983049388
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.925,-0.5942525994
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.9,-0.5896777304
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.875,-0.584575779
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.85,-0.5789425642
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.825,-0.5727742869
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.8,-0.5660675393
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.775,-0.5588193141
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.75,-0.5510270136
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.725,-0.542688458
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.7,-0.5338018943
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.675,-0.5243660033
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.65,-0.5143799082
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.625,-0.5038431807
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.6,-0.4927558487
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.575,-0.481118402
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.55,-0.4689317985
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.525,-0.4561974695
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.5,-0.4429173249
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.475,-0.4290937576
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.45,-0.4147296474
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.425,-0.3998283652
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.4,-0.3843937752
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.375,-0.3684302381
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.35,-0.3519426128
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.325,-0.334936258
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.3,-0.3174170334
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.275,-0.2993912995
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.25,-0.280865918
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.225,-0.261848251
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.2,-0.2423461595
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.175,-0.2223680019
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.15,-0.2019226311
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.125,-0.181019392
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.1,-0.1596681177
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.075,-0.1378791255
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.05,-0.1156632116
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2.025,-0.09303164677
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-2,-0.06999616941
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.975,-0.04656897976
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.95,-0.02276273256
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.925,0.001409470554
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.9,0.02593408927
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.875,0.05079715335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.85,0.07598427201
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.825,0.1014806438
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.8,0.127271067
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.775,0.1533399508
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.75,0.1796713265
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.725,0.2062488598
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.7,0.2330558633
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.675,0.2600753095
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.65,0.2872898443
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.625,0.3146818012
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.6,0.3422332156
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.575,0.3699258397
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.55,0.397741158
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.525,0.4256604031
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.5,0.4536645715
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.475,0.4817344407
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.45,0.5098505859
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.425,0.5379933969
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.4,0.5661430963
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.375,0.5942797572
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.35,0.6223833213
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.325,0.6504336174
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.3,0.67841038
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.275,0.7062932689
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.25,0.7340618873
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.225,0.7616958022
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.2,0.7891745632
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.175,0.8164777223
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.15,0.8435848539
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.125,0.8704755744
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.1,0.8971295623
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.075,0.923526578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.05,0.9496464838
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1.025,0.9754692642
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-1,1.000975045
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.975,1.026144115
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.95,1.050956943
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.925,1.075394201
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.9,1.09943678
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.875,1.123065814
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.85,1.146262693
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.825,1.169009089
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.8,1.191286971
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.775,1.213078623
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.75,1.234366665
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.725,1.255134068
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.7,1.275364175
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.675,1.295040716
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.65,1.314147826
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.625,1.33267006
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.6,1.350592414
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.575,1.367900335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.55,1.384579738
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.525,1.400617025
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.5,1.415999093
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.475,1.430713354
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.45,1.444747742
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.425,1.458090734
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.4,1.470731353
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.375,1.482659189
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.35,1.493864401
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.325,1.504337737
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.3,1.514070536
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.275,1.52305474
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.25,1.531282906
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.225,1.538748209
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.2,1.545444452
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.175,1.551366071
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.15,1.556508145
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.125,1.560866397
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.1,1.564437199
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.075,1.567217578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.05,1.569205219
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),-0.025,1.570398467
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0,1.570796327
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.025,1.570398467
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.05,1.569205219
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.075,1.567217578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.1,1.564437199
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.125,1.560866397
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.15,1.556508145
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.175,1.551366071
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.2,1.545444452
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.225,1.538748209
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.25,1.531282906
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.275,1.52305474
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.3,1.514070536
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.325,1.504337737
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.35,1.493864401
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.375,1.482659189
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.4,1.470731353
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.425,1.458090734
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.45,1.444747742
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.475,1.430713354
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.5,1.415999093
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.525,1.400617025
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.55,1.384579738
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.575,1.367900335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.6,1.350592414
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.625,1.33267006
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.65,1.314147826
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.675,1.295040716
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.7,1.275364175
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.725,1.255134068
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.75,1.234366665
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.775,1.213078623
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.8,1.191286971
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.825,1.169009089
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.85,1.146262693
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.875,1.123065814
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.9,1.09943678
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.925,1.075394201
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.95,1.050956943
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),0.975,1.026144115
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1,1.000975045
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.025,0.9754692642
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.05,0.9496464838
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.075,0.923526578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.1,0.8971295623
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.125,0.8704755744
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.15,0.8435848539
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.175,0.8164777223
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.2,0.7891745632
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.225,0.7616958022
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.25,0.7340618873
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.275,0.7062932689
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.3,0.67841038
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.325,0.6504336174
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.35,0.6223833213
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.375,0.5942797572
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.4,0.5661430963
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.425,0.5379933969
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.45,0.5098505859
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.475,0.4817344407
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.5,0.4536645715
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.525,0.4256604031
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.55,0.397741158
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.575,0.3699258397
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.6,0.3422332156
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.625,0.3146818012
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.65,0.2872898443
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.675,0.2600753095
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.7,0.2330558633
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.725,0.2062488598
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.75,0.1796713265
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.775,0.1533399508
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.8,0.127271067
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.825,0.1014806438
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.85,0.07598427201
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.875,0.05079715335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.9,0.02593408927
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.925,0.001409470554
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.95,-0.02276273256
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),1.975,-0.04656897976
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2,-0.06999616941
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.025,-0.09303164677
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.05,-0.1156632116
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.075,-0.1378791255
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.1,-0.1596681177
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.125,-0.181019392
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.15,-0.2019226311
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.175,-0.2223680019
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.2,-0.2423461595
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.225,-0.261848251
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.25,-0.280865918
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.275,-0.2993912995
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.3,-0.3174170334
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.325,-0.334936258
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.35,-0.3519426128
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.375,-0.3684302381
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.4,-0.3843937752
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.425,-0.3998283652
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.45,-0.4147296474
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.475,-0.4290937576
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.5,-0.4429173249
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.525,-0.4561974695
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.55,-0.4689317985
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.575,-0.481118402
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.6,-0.4927558487
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.625,-0.5038431807
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.65,-0.5143799082
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.675,-0.5243660033
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.7,-0.5338018943
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.725,-0.542688458
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.75,-0.5510270136
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.775,-0.5588193141
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.8,-0.5660675393
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.825,-0.5727742869
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.85,-0.5789425642
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.875,-0.584575779
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.9,-0.5896777304
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.925,-0.5942525994
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.95,-0.5983049388
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),2.975,-0.6018396632
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3,-0.6048620389
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.025,-0.6073776731
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.05,-0.609392503
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.075,-0.6109127853
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.1,-0.6119450848
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.125,-0.612496263
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.15,-0.6125734668
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.175,-0.6121841171
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.2,-0.6113358968
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.225,-0.6100367394
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.25,-0.6082948168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.275,-0.6061185278
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.3,-0.603516486
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.325,-0.6004975079
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.35,-0.5970706007
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.375,-0.5932449508
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.4,-0.5890299117
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.425,-0.5844349919
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.45,-0.5794698435
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.475,-0.57414425
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.5,-0.568468115
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.525,-0.5624514504
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.55,-0.556104365
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.575,-0.5494370532
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.6,-0.5424597838
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.625,-0.5351828889
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.65,-0.5276167531
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.675,-0.5197718026
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.7,-0.5116584948
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.725,-0.503287308
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.75,-0.4946687311
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.775,-0.4858132539
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.8,-0.4767313571
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.825,-0.4674335031
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.85,-0.4579301266
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.875,-0.4482316258
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.9,-0.4383483534
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.925,-0.4282906082
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.95,-0.4180686271
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),3.975,-0.4076925769
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4,-0.3971725467
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.025,-0.3865185407
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.05,-0.3757404706
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.075,-0.3648481495
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.1,-0.3538512848
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.125,-0.342759472
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.15,-0.3315821891
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.175,-0.3203287906
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.2,-0.3090085023
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.225,-0.2976304162
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.25,-0.2862034858
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.275,-0.2747365213
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.3,-0.2632381857
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.325,-0.2517169911
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.35,-0.2401812946
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.375,-0.228639295
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.4,-0.2170990302
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.425,-0.2055683742
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.45,-0.1940550342
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.475,-0.1825665491
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.5,-0.1711102869
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.525,-0.1596934434
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.55,-0.1483230404
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.575,-0.1370059248
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.6,-0.1257487676
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.625,-0.1145580628
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.65,-0.1034401276
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.675,-0.09240110124
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.7,-0.08144694582
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.725,-0.07058344586
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.75,-0.05981620886
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.775,-0.04915066582
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.8,-0.038592072
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.825,-0.02814550776
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.85,-0.01781587972
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.875,-0.007607921942
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.9,0.002473802634
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.925,0.01242490068
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.95,0.0222411468
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),4.975,0.03191848168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5,0.04145301023
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.025,0.05084099947
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.05,0.06007887645
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.075,0.06916322596
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.1,0.07809078823
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.125,0.08685845652
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.15,0.09546327464
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.175,0.1039024344
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.2,0.112173273
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.225,0.1202732704
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.25,0.1282000468
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.275,0.1359513594
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.3,0.1435251005
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.325,0.1509192938
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.35,0.1581320924
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.375,0.1651617756
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.4,0.1720067463
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.425,0.1786655279
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.45,0.1851367623
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.475,0.1914192062
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.5,0.1975117291
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.525,0.2034133105
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.55,0.209123037
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.575,0.2146400998
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.6,0.2199637925
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.625,0.2250935078
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.65,0.2300287361
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.675,0.2347690622
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.7,0.2393141634
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.725,0.2436638071
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.75,0.2478178486
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.775,0.2517762292
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.8,0.2555389738
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.825,0.2591061888
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.85,0.2624780609
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.875,0.2656548542
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.9,0.2686369095
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.925,0.2714246418
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.95,0.2740185391
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),5.975,0.2764191607
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6,0.2786271358
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.025,0.2806431622
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.05,0.2824680049
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.075,0.2841024947
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.1,0.2855475275
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.125,0.2868040629
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.15,0.2878731231
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.175,0.2887557922
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.2,0.2894532153
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.225,0.2899665978
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.25,0.2902972042
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.275,0.2904463579
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.3,0.2904154406
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.325,0.2902058913
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.35,0.2898192062
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.375,0.2892569383
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.4,0.2885206965
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.425,0.2876121457
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.45,0.2865330064
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.475,0.2852850542
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.5,0.2838701198
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.525,0.2822900885
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.55,0.2805469004
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.575,0.2786425497
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.6,0.2765790849
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.625,0.2743586087
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.65,0.2719832776
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.675,0.2694553017
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.7,0.2667769451
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.725,0.2639505251
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.75,0.2609784125
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.775,0.2578630314
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.8,0.2546068586
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.825,0.2512124241
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.85,0.2476823102
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.875,0.244019152
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.9,0.2402256365
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.925,0.2363045023
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.95,0.23225854
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),6.975,0.2280905909
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7,0.2238035473
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.025,0.2194003516
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.05,0.214883996
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.075,0.2102575217
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.1,0.2055240189
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.125,0.2006866253
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.15,0.1957485258
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.175,0.190712952
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.2,0.1855831808
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.225,0.1803625338
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.25,0.1750543761
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.275,0.1696621156
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.3,0.1641892018
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.325,0.1586391241
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.35,0.1530154114
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.375,0.1473216301
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.4,0.141561383
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.425,0.1357383079
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.45,0.1298560759
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.475,0.1239183897
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.5,0.1179289824
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.525,0.1118916151
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.55,0.1058100758
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.575,0.0996881769
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.6,0.09352975356
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.625,0.08733866168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.65,0.08111877578
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.675,0.07487398684
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.7,0.06860820017
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.725,0.06232533307
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.75,0.05602931259
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.775,0.04972407314
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.8,0.04341355405
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.825,0.03710169714
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.85,0.03079244418
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.875,0.02448973435
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.9,0.01819750164
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.925,0.01191967223
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.95,0.00566016179
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),7.975,-0.0005771271688
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8,-0.006788308048
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.025,-0.0129695129
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.05,-0.01911689518
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.075,-0.02522663256
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.1,-0.03129492967
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.125,-0.03731802095
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.15,-0.04329217344
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.175,-0.04921368954
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.2,-0.0550789099
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.225,-0.06088421611
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.25,-0.06662603358
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.275,-0.07230083424
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.3,-0.07790513931
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.325,-0.08343552202
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.35,-0.08888861032
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.375,-0.0942610895
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.4,-0.09954970489
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.425,-0.1047512644
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.45,-0.1098626409
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.475,-0.1148807753
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.5,-0.1198026781
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.525,-0.1246254326
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.55,-0.1293461967
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.575,-0.1339622056
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.6,-0.1384707736
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.625,-0.1428692963
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.65,-0.1471552532
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.675,-0.151326209
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.7,-0.1553798157
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.725,-0.1593138147
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.75,-0.1631260385
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.775,-0.166814412
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.8,-0.1703769545
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.825,-0.173811781
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.85,-0.1771171036
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.875,-0.1802912328
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.9,-0.1833325788
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.925,-0.1862396526
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.95,-0.1890110667
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),8.975,-0.1916455366
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9,-0.1941418811
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.025,-0.1964990233
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.05,-0.1987159908
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.075,-0.2007919167
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.1,-0.2027260399
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.125,-0.2045177051
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.15,-0.2061663631
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.175,-0.207671571
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.2,-0.2090329921
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.225,-0.2102503959
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.25,-0.2113236575
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.275,-0.2122527576
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.3,-0.213037782
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.325,-0.213678921
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.35,-0.2141764686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.375,-0.2145308223
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.4,-0.2147424814
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.425,-0.2148120469
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.45,-0.21474022
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.475,-0.2145278009
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.5,-0.2141756882
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.525,-0.2136848767
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.55,-0.2130564567
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.575,-0.2122916123
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.6,-0.2113916197
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.625,-0.2103578458
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.65,-0.2091917464
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.675,-0.2078948643
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.7,-0.2064688275
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.725,-0.2049153475
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.75,-0.2032362168
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.775,-0.2014333075
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.8,-0.1995085686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.825,-0.1974640241
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.85,-0.1953017707
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.875,-0.1930239758
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.9,-0.1906328747
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.925,-0.1881307686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.95,-0.1855200221
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),9.975,-0.1828030606
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10,-0.1799823682
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.025,-0.1770604849
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.05,-0.1740400041
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.075,-0.1709235702
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.1,-0.1677138758
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.125,-0.1644136595
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.15,-0.1610257028
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.175,-0.157552828
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.2,-0.1539978952
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.225,-0.1503637999
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.25,-0.1466534705
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.275,-0.1428698651
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.3,-0.1390159698
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.325,-0.1350947953
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.35,-0.131109375
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.375,-0.1270627617
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.4,-0.1229580257
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.425,-0.118798252
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.45,-0.1145865378
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.475,-0.1103259902
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.5,-0.1060197234
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.525,-0.1016708566
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.55,-0.09728251165
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.575,-0.0928578104
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.6,-0.08839987268
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.625,-0.08391181394
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.65,-0.07939674299
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.675,-0.07485775988
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.7,-0.0702979537
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.725,-0.06572040055
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.75,-0.06112816148
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.775,-0.05652428046
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.8,-0.05191178248
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.825,-0.04729367166
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.85,-0.04267292937
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.875,-0.03805251249
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.9,-0.03343535165
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.925,-0.02882434955
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.95,-0.02422237936
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),10.975,-0.01963228313
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11,-0.01505687031
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.025,-0.01049891625
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.05,-0.005961160837
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.075,-0.001446307128
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.1,0.003042979916
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.125,0.007504074672
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.15,0.01193439203
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.175,0.01633138851
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.2,0.02069256335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.225,0.02501545945
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.25,0.02929766444
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.275,0.03353681147
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.3,0.03773058013
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.325,0.04187669726
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.35,0.04597293764
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.375,0.05001712474
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.4,0.05400713138
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.425,0.0579408803
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.45,0.06181634472
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.475,0.0656315489
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.5,0.06938456855
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.525,0.07307353132
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.55,0.07669661711
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.575,0.08025205851
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.6,0.08373814101
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.625,0.08715320334
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.65,0.09049563767
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.675,0.09376388982
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.7,0.09695645943
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.725,0.1000719001
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.75,0.1031088194
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.775,0.1060658792
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.8,0.1089417953
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.825,0.1117353379
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.85,0.1144453312
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.875,0.1170706538
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.9,0.1196102382
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.925,0.122063071
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.95,0.1244281927
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),11.975,0.1267046977
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12,0.128891734
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.025,0.1309885033
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.05,0.1329942605
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.075,0.1349083138
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.1,0.1367300245
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.125,0.1384588066
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.15,0.1400941269
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.175,0.1416355043
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.2,0.1430825102
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.225,0.1444347676
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.25,0.1456919514
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.275,0.1468537877
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.3,0.1479200541
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.325,0.1488905787
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.35,0.1497652403
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.375,0.1505439682
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.4,0.1512267416
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.425,0.1518135893
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.45,0.1523045898
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.475,0.1526998707
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.5,0.1529996082
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.525,0.1532040273
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.55,0.1533134012
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.575,0.1533280507
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.6,0.1532483446
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.625,0.1530746986
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.65,0.1528075756
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.675,0.1524474848
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.7,0.151994982
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.725,0.1514506685
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.75,0.1508151914
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.775,0.150089243
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.8,0.1492735602
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.825,0.1483689247
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.85,0.1473761619
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.875,0.1462961411
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.9,0.145129775
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.925,0.1438780188
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.95,0.1425418705
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),12.975,0.1411223701
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13,0.1396205991
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.025,0.1380376801
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.05,0.1363747766
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.075,0.1346330922
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.1,0.1328138701
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.125,0.1309183929
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.15,0.1289479819
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.175,0.1269039964
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.2,0.1247878335
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.225,0.1226009273
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.25,0.1203447481
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.275,0.1180208025
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.3,0.1156306319
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.325,0.1131758126
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.35,0.1106579546
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.375,0.108078701
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.4,0.1054397279
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.425,0.1027427425
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.45,0.09998948365
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.475,0.09718172002
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.5,0.09432124989
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.525,0.09140990013
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.55,0.08844952537
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.575,0.08544200714
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.6,0.08238925295
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.625,0.0792931954
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.65,0.0761557912
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.675,0.07297902022
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.7,0.06976488447
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.725,0.06651540712
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.75,0.06323263142
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.775,0.05991861961
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.8,0.05657545188
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.825,0.05320522521
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.85,0.04981005225
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.875,0.04639206014
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.9,0.04295338932
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.925,0.03949619233
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.95,0.03602263257
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),13.975,0.03253488305
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14,0.02903512512
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.025,0.02552554717
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.05,0.02200834334
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.075,0.01848571213
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.1,0.01495985513
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.125,0.01143297561
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.15,0.007907277162
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.175,0.004384962292
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.2,0.0008682310304
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.225,-0.002640720491
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.25,-0.006139701461
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.275,-0.009626527829
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.3,-0.01309902375
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.325,-0.01655502301
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.35,-0.01999237053
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.375,-0.02340892378
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.4,-0.02680255426
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.425,-0.03017114895
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.45,-0.03351261178
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.475,-0.0368248651
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.5,-0.04010585111
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.525,-0.04335353331
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.55,-0.04656589798
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.575,-0.04974095559
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.6,-0.05287674219
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.625,-0.05597132089
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.65,-0.05902278322
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.675,-0.0620292505
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.7,-0.06498887526
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.725,-0.06789984254
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.75,-0.07076037123
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.775,-0.07356871542
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.8,-0.07632316563
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.825,-0.0790220501
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.85,-0.08166373604
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.875,-0.08424663079
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.9,-0.08676918308
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.925,-0.08922988408
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.95,-0.0916272686
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),14.975,-0.09395991615
+(b),2,kernel (pi/2)(1 - ubar^2/u0^2),15,-0.09622645197
+(b),3,zero line,,0
